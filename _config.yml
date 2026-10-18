@@ -1,0 +1,14 @@
+# GitHub Pages（Deploy from a branch, root）用の最小設定。
+title: 看護師・准看護師試験 眼科過去問と解説
+description: 眼科に関する過去問を、問題文・公式正答・選択肢別解説・出典の順に整理した学習用教材
+lang: ja
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false

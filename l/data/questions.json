@@ -1,0 +1,2793 @@
+[
+  {
+    "id": "20K2",
+    "exam_id": "2020-Kansai",
+    "year": 2020,
+    "number": 2,
+    "pdf_page": 3,
+    "kind": "related",
+    "topic": "自律神経・瞳孔",
+    "title": "交感神経と瞳孔",
+    "question_summary": "交感神経の反応として不適切なものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：縮瞳を挙げた肢",
+    "explanation": "交感神経は瞳孔散大に関係する。縮瞳は副交感神経の作用として整理する。",
+    "incorrect_points": [
+      "末梢血管の収縮、消化管運動の抑制、気管支の拡張は交感神経の作用に合う。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "交感神経の働きについて、誤っているものを一つ選べ。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "末梢血管の収縮",
+        "judgment": "誤答",
+        "explanation": "交感神経の作用に合う。末梢血管の収縮は血圧維持などに関係するため、誤りを選ぶ本問では選ばない。"
+      },
+      {
+        "number": "2",
+        "text": "瞳孔の縮小(縮瞳)",
+        "judgment": "正答",
+        "explanation": "交感神経では散瞳する。縮瞳は副交感神経の作用なので、この誤った記述が正答。"
+      },
+      {
+        "number": "3",
+        "text": "消化管の運動抑制",
+        "judgment": "誤答",
+        "explanation": "交感神経は消化管の運動を抑制する。この記述は正しいため、本問では誤答。"
+      },
+      {
+        "number": "4",
+        "text": "気管支の弛緩",
+        "judgment": "誤答",
+        "explanation": "交感神経のβ2受容体刺激は気管支平滑筋を弛緩させる。この記述は正しい。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2020-Kansai-Q2",
+    "exam_type": "准看護師試験",
+    "paper_code": "K"
+  },
+  {
+    "id": "20K5",
+    "exam_id": "2020-Kansai",
+    "year": 2020,
+    "number": 5,
+    "pdf_page": 4,
+    "kind": "related",
+    "topic": "神経・眼球運動",
+    "title": "眼球運動と脳神経",
+    "question_summary": "神経系の説明から正しい記述を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：視床下部による下垂体ホルモン調節",
+    "explanation": "視床下部は下垂体を介して内分泌機能を調節する。眼科との関連は、顔面神経を眼球運動神経とする誤答肢。",
+    "incorrect_points": [
+      "外眼筋の運動は動眼・滑車・外転神経、眼輪筋による閉瞼は顔面神経。",
+      "脊髄神経の腰神経は左右5対。言語優位半球は多くの人で左。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "神経系について、正しいものを一つ選べ。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "脊髄神経のうち腰神経は4対である。",
+        "judgment": "誤答",
+        "explanation": "腰神経は左右5対。4対とする記述が誤り。"
+      },
+      {
+        "number": "2",
+        "text": "視床下部は、下垂体から分泌されるホルモンの調節を行う。",
+        "judgment": "正答",
+        "explanation": "視床下部は放出・抑制ホルモンなどを介して下垂体のホルモン分泌を調節する。"
+      },
+      {
+        "number": "3",
+        "text": "言語の中枢は、大脳の右半球に存在することが多い。",
+        "judgment": "誤答",
+        "explanation": "言語優位半球は多くの人で左半球。右半球に多いとする説明は不適切。"
+      },
+      {
+        "number": "4",
+        "text": "顔面神経は眼球を動かす神経である。",
+        "judgment": "誤答",
+        "explanation": "眼球運動は主に動眼・滑車・外転神経が担う。顔面神経は眼輪筋による閉瞼などに関わる。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2020-Kansai-Q5",
+    "exam_type": "准看護師試験",
+    "paper_code": "K"
+  },
+  {
+    "id": "20K14",
+    "exam_id": "2020-Kansai",
+    "year": 2020,
+    "number": 14,
+    "pdf_page": 6,
+    "kind": "related",
+    "topic": "自律神経・瞳孔",
+    "title": "アトロピンと瞳孔",
+    "question_summary": "自律神経に作用する薬の説明から正しいものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：ドパミンと腎血流の関係",
+    "explanation": "公式正答は当時の薬理学的記述に対応する2。眼科では、アトロピンが抗ムスカリン作用によって散瞳・調節麻痺を起こす点を学ぶ。",
+    "incorrect_points": [
+      "アトロピンを縮瞳薬としない。",
+      "ネオスチグミンを一般的な麻酔前投薬とする記述は不適切。"
+    ],
+    "clinical_note": "正答2を「急性腎障害を防ぐ目的で低用量ドパミンを日常的に投与する」という臨床推奨に読み替えない。",
+    "references": [
+      "https://kdigo.org/wp-content/uploads/2019/01/KDIGO-2012-AKI-Guideline-English.pdf"
+    ],
+    "verification": "official_pdf",
+    "question_text": "自律神経作用薬について、正しいものを一つ選べ。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "アドレナリンは、急性心不全時には使用しない。",
+        "judgment": "誤答",
+        "explanation": "アドレナリンは心機能を刺激する薬で、救命処置などで使用される。「使用しない」という一律の否定は不適切。適応は病態による。"
+      },
+      {
+        "number": "2",
+        "text": "ドパミンは、腎臓の血流量を増加させる。",
+        "judgment": "正答",
+        "explanation": "ドパミンには用量により腎血管を拡張し腎血流を増やす薬理作用があり、当時の設問ではこれが正答。腎保護目的の投与推奨とは区別する。"
+      },
+      {
+        "number": "3",
+        "text": "ネオスチグミンは、麻酔の前投薬として使用される。",
+        "judgment": "誤答",
+        "explanation": "ネオスチグミンはコリンエステラーゼ阻害薬。非脱分極性筋弛緩薬の作用からの回復促進などに用い、一般的な麻酔前投薬とはしない。"
+      },
+      {
+        "number": "4",
+        "text": "アトロピンは、瞳孔を収縮させる作用がある。",
+        "judgment": "誤答",
+        "explanation": "アトロピンは抗ムスカリン薬で散瞳・調節麻痺を起こす。縮瞳薬ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2020-Kansai-Q14",
+    "exam_type": "准看護師試験",
+    "paper_code": "K"
+  },
+  {
+    "id": "20K24",
+    "exam_id": "2020-Kansai",
+    "year": 2020,
+    "number": 24,
+    "pdf_page": 8,
+    "kind": "related",
+    "topic": "感染症・眼症状",
+    "title": "咽頭結膜熱の病原体",
+    "question_summary": "疾患と原因ウイルスの組合せの誤りを探す。",
+    "official_answer": "2",
+    "answer_summary": "2：流行性耳下腺炎とノロウイルスの組合せ",
+    "explanation": "流行性耳下腺炎はムンプスウイルス。眼との関連は咽頭結膜熱とアデノウイルスの組合せで、こちらは正しい。",
+    "incorrect_points": [
+      "咽頭結膜熱と流行性角結膜炎は、いずれもアデノウイルスに関連するが病像を区別する。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=14"
+    ],
+    "verification": "official_pdf",
+    "question_text": "疾患とウイルスの組合せで、誤っているものを一つ選べ。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "咽頭結膜熱 ― アデノウイルス",
+        "judgment": "誤答",
+        "explanation": "咽頭結膜熱はアデノウイルス感染症。この組合せは正しいため、誤りを選ぶ本問では選ばない。"
+      },
+      {
+        "number": "2",
+        "text": "流行性耳下腺炎 ― ノロウイルス",
+        "judgment": "正答",
+        "explanation": "流行性耳下腺炎の原因はムンプスウイルス。ノロウイルスとの組合せが誤りなので正答。"
+      },
+      {
+        "number": "3",
+        "text": "急性灰白髄炎 ― ポリオウイルス",
+        "judgment": "誤答",
+        "explanation": "急性灰白髄炎はポリオで、原因はポリオウイルス。正しい組合せ。"
+      },
+      {
+        "number": "4",
+        "text": "手足口病 ― コクサッキーウイルス",
+        "judgment": "誤答",
+        "explanation": "手足口病の原因にコクサッキーウイルスが含まれる。エンテロウイルス71なども原因となる。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2020-Kansai-Q24",
+    "exam_type": "准看護師試験",
+    "paper_code": "K"
+  },
+  {
+    "id": "20K62",
+    "exam_id": "2020-Kansai",
+    "year": 2020,
+    "number": 62,
+    "pdf_page": 19,
+    "kind": "related",
+    "topic": "点眼・眼軟膏",
+    "title": "薬の投与経路と点眼部位",
+    "question_summary": "成人への薬の投与方法について正しい2項目の組合せを選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：下結膜嚢への点眼と食間の内服",
+    "explanation": "下まぶたを軽く引いた内側の結膜嚢に滴下する。食間は食事中ではなく、食事と食事の間を指す。",
+    "incorrect_points": [
+      "皮下注射を前腕内側への実施とする肢は皮内注射との混同。",
+      "筋肉内注射は神経・血管損傷を避ける部位選択が必要で、大殿筋と一律に覚えない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.santen.co.jp/medical-channel/di/faq/DK018_faq.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "成人患者への薬剤の投与方法について、正しいものの組合せを一つ選べ。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "a、b",
+        "judgment": "誤答",
+        "explanation": "a・bとも不適切。筋注は神経・血管損傷を避けて適切な筋・部位を選び、大殿筋に一律に行わない。前腕内側は主に皮内注射の部位。"
+      },
+      {
+        "number": "2",
+        "text": "a、d",
+        "judgment": "誤答",
+        "explanation": "dは正しいがaが不適切。食間薬は食事と食事の間に服用し、通常は食後2～3時間が目安。"
+      },
+      {
+        "number": "3",
+        "text": "b、c",
+        "judgment": "誤答",
+        "explanation": "cは正しいがbが不適切。下結膜嚢への点眼と、前腕内側への皮下注射を区別する。"
+      },
+      {
+        "number": "4",
+        "text": "c、d",
+        "judgment": "正答",
+        "explanation": "c・dがともに正しい。点眼は下結膜嚢へ滴下し、食間薬は食事中ではなく食後2～3時間を目安に服用する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "statements": [
+      {
+        "label": "a",
+        "text": "筋肉内注射は大殿筋に行う。"
+      },
+      {
+        "label": "b",
+        "text": "皮下注射は前腕内側に行う。"
+      },
+      {
+        "label": "c",
+        "text": "点眼薬は下結膜囊に滴下する。"
+      },
+      {
+        "label": "d",
+        "text": "食間薬は、食後2～3時間経過後に服用する。"
+      }
+    ],
+    "legacy_id": "2020-Kansai-Q62",
+    "exam_type": "准看護師試験",
+    "paper_code": "K"
+  },
+  {
+    "id": "20K109",
+    "exam_id": "2020-Kansai",
+    "year": 2020,
+    "number": 109,
+    "pdf_page": 30,
+    "kind": "direct",
+    "topic": "網膜剥離",
+    "title": "網膜剥離の症状",
+    "question_summary": "網膜剥離で起こり得る症状・背景を判断する。",
+    "official_answer": "2",
+    "answer_summary": "2：飛蚊症が先行することがある",
+    "explanation": "網膜の裂孔・剥離に先立ち飛蚊症や光視症が現れることがある。剥離が進むと視野欠損や視力低下につながる。",
+    "incorrect_points": [
+      "強い近視は裂孔原性網膜剥離の危険因子。",
+      "持続的な眼圧上昇を網膜剥離の定義にしない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=50"
+    ],
+    "verification": "official_pdf",
+    "question_text": "網膜剝離について、正しいものを一つ選べ。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "視力の低下はみられない。",
+        "judgment": "誤答",
+        "explanation": "剥離が黄斑に及ぶと視力が低下する。「みられない」という否定が誤り。"
+      },
+      {
+        "number": "2",
+        "text": "前駆症状には飛蚊症がある。",
+        "judgment": "正答",
+        "explanation": "飛蚊症や光視症が前駆症状となることがある。急な増加や視野の欠けは早急な受診につなげる。"
+      },
+      {
+        "number": "3",
+        "text": "近視眼との関連性はない。",
+        "judgment": "誤答",
+        "explanation": "近視、特に強度近視は裂孔原性網膜剥離の危険因子。「関連性はない」は誤り。"
+      },
+      {
+        "number": "4",
+        "text": "眼圧上昇が持続する。",
+        "judgment": "誤答",
+        "explanation": "持続する眼圧上昇を網膜剥離の特徴とはしない。視野欠損、飛蚊症、視力低下などを確認する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2020-Kansai-Q109",
+    "exam_type": "准看護師試験",
+    "paper_code": "K"
+  },
+  {
+    "id": "21A5",
+    "exam_id": "2021-A",
+    "year": 2021,
+    "number": 5,
+    "pdf_page": 4,
+    "kind": "related",
+    "topic": "自律神経・瞳孔",
+    "title": "副交感神経の作用",
+    "question_summary": "副交感神経の働きに合うものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：腸管の運動亢進",
+    "explanation": "副交感神経は消化管運動の促進に関わる。瞳孔では縮瞳として整理する。",
+    "incorrect_points": [
+      "散瞳・心拍数増加は交感神経側の反応。",
+      "問題文の数字はPDFの文字抽出で欠落したため、先頭からの設問順でQ5を確認。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "副交感神経の働きについて、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "瞳孔散大",
+        "judgment": "誤答",
+        "explanation": "瞳孔散大は主に交感神経の作用。副交感神経は瞳孔を縮小させる。"
+      },
+      {
+        "number": "2",
+        "text": "腸管蠕動運動の亢進",
+        "judgment": "正答",
+        "explanation": "副交感神経は消化管の蠕動運動や分泌を促進する。"
+      },
+      {
+        "number": "3",
+        "text": "心拍数増加",
+        "judgment": "誤答",
+        "explanation": "副交感神経は心拍数を減らす方向に働く。心拍数増加は交感神経の作用。"
+      },
+      {
+        "number": "4",
+        "text": "末梢血管収縮",
+        "judgment": "誤答",
+        "explanation": "末梢血管収縮は主に交感神経の作用として整理する。副交感神経の代表的作用ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2021-A-Q5",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "21A77",
+    "exam_id": "2021-A",
+    "year": 2021,
+    "number": 77,
+    "pdf_page": 19,
+    "kind": "direct",
+    "topic": "点眼・眼軟膏",
+    "title": "眼科処置の介助",
+    "question_summary": "眼科治療・処置を介助するときの適切な方法を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：下眼瞼を引いて結膜の円蓋部に眼軟膏を入れる",
+    "explanation": "眼軟膏は下まぶたの内側に入れる。容器や器具で角膜を傷つけないようにする。",
+    "incorrect_points": [
+      "洗眼液を角膜へ強く直撃させない。",
+      "涙道処置や光凝固の介助位置・体位は術式と医師の指示を確認する。"
+    ],
+    "clinical_note": "綿棒・硝子棒を用いるのは原設問の表現。自己点眼では容器から直接入れる方法など、製剤と施設の手順に従う。処置の体位・レーザー介助の立ち位置は担当医と施設手順を確認する。",
+    "references": [
+      "https://www.santen.co.jp/medical-channel/di/faq/DK018_faq.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "眼科の治療・処置に伴う看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "洗眼は、角膜に水が当たるようにする。",
+        "judgment": "誤答",
+        "explanation": "角膜へ水流を直接当てると刺激や損傷の原因になる。結膜側から穏やかに洗い流す。"
+      },
+      {
+        "number": "2",
+        "text": "軟膏は綿棒(硝子棒)の先につけ、下眼瞼を軽く引き、円蓋部に入れる。",
+        "judgment": "正答",
+        "explanation": "下眼瞼を軽く引き、下方の結膜嚢・円蓋部に入れる手技を述べている。器具や容器先端を角膜に触れさせない。"
+      },
+      {
+        "number": "3",
+        "text": "涙管ブジー挿入時は、点眼麻酔後、側臥位で行う。",
+        "judgment": "誤答",
+        "explanation": "涙管ブジーは通常、仰臥位など医師の処置に適した姿勢で行う。側臥位を標準とする説明は不適切。"
+      },
+      {
+        "number": "4",
+        "text": "光凝固療法時、看護師は患者の横に立ち介助する。",
+        "judgment": "誤答",
+        "explanation": "光凝固の介助ではレーザー防護と患者の頭位保持が必要。「患者の横に立つ」を一般的な介助方法とはしない。機器と施設の手順を確認する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2021-A-Q77",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "21A78",
+    "exam_id": "2021-A",
+    "year": 2021,
+    "number": 78,
+    "pdf_page": 19,
+    "kind": "direct",
+    "topic": "網膜剥離",
+    "title": "網膜剥離と見え方",
+    "question_summary": "網膜剥離に合う見え方の変化を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：ゆがみと視力の低下",
+    "explanation": "網膜剥離が黄斑に及ぶと、視力低下や変視症が起こり得る。飛蚊症・光視症・視野欠損も関連して学ぶ。",
+    "incorrect_points": [
+      "水晶体が濁るのは白内障の説明。",
+      "眼球突出や夜盲を網膜剥離の代表像として選ばない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=50"
+    ],
+    "verification": "official_pdf",
+    "question_text": "網膜剥離について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "夜盲になる。",
+        "judgment": "誤答",
+        "explanation": "夜盲は暗所で見えにくくなる症状で、網膜色素変性やビタミンA欠乏などで学ぶ。本問の代表的症状ではない。"
+      },
+      {
+        "number": "2",
+        "text": "水晶体が混濁する。",
+        "judgment": "誤答",
+        "explanation": "水晶体の混濁は白内障。網膜が剥がれる病態とは異なる。"
+      },
+      {
+        "number": "3",
+        "text": "物がゆがみ、視力が低下する。",
+        "judgment": "正答",
+        "explanation": "黄斑に剥離が及ぶと変視症や視力低下を生じる。飛蚊症・光視症や視野欠損も関連する。"
+      },
+      {
+        "number": "4",
+        "text": "眼球が突出する。",
+        "judgment": "誤答",
+        "explanation": "眼球突出は甲状腺眼症などでみられる。網膜剥離の代表的症状ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2021-A-Q78",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "21A107",
+    "exam_id": "2021-A",
+    "year": 2021,
+    "number": 107,
+    "pdf_page": 25,
+    "kind": "related",
+    "topic": "糖尿病・網膜症",
+    "title": "糖尿病と眼底検査",
+    "question_summary": "糖尿病の評価・検査に関する正しい説明を選ぶ。",
+    "official_answer": "1",
+    "answer_summary": "1：HbA1cが最近の平均血糖を反映する",
+    "explanation": "HbA1cは過去1～2か月を中心とする血糖状態の指標。眼科の学習では、治療前から眼底評価が必要になることを押さえる。",
+    "incorrect_points": [
+      "眼症状がないことを理由に眼底検査を不要としない。",
+      "2型糖尿病には遺伝的要因も関与する。"
+    ],
+    "clinical_note": "急速な血糖改善を予定する場合を含め、内科・眼科で網膜症の状態を共有する。",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=49"
+    ],
+    "verification": "official_pdf",
+    "question_text": "糖尿病について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "HbA1cは、過去1～2か月間の平均血糖値の指標である。",
+        "judgment": "正答",
+        "explanation": "HbA1cは過去1～2か月を中心とした血糖状態を反映する指標。検査当日の血糖値だけを表すものではない。"
+      },
+      {
+        "number": "2",
+        "text": "2型糖尿病に遺伝因子は関与しない。",
+        "judgment": "誤答",
+        "explanation": "2型糖尿病にも遺伝的素因が関与し、生活習慣などの環境因子と組み合わさって発症する。"
+      },
+      {
+        "number": "3",
+        "text": "治療開始前の眼底検査は不要である。",
+        "judgment": "誤答",
+        "explanation": "診断時・治療前から網膜症の有無を確認する。自覚症状がなくても眼底評価が必要。"
+      },
+      {
+        "number": "4",
+        "text": "糖尿病と診断されたら糖負荷試験(75 gOGTT)を行う。",
+        "judgment": "誤答",
+        "explanation": "75 gOGTTは主に診断が明らかでない場合の評価に用いる。糖尿病が確定した全員に行う検査ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2021-A-Q107",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "22A10",
+    "exam_id": "2022-A",
+    "year": 2022,
+    "number": 10,
+    "pdf_page": 5,
+    "kind": "related",
+    "topic": "栄養・夜盲",
+    "title": "ビタミン欠乏と夜盲",
+    "question_summary": "ビタミンと欠乏症の適切な組合せを選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：ビタミンD欠乏と小児のくる病",
+    "explanation": "眼に関する誤答肢を直すと、夜盲に関係するのはビタミンA欠乏である。",
+    "incorrect_points": [
+      "壊血病はビタミンC、脚気はビタミンB1、ペラグラはナイアシンの欠乏。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "ビタミンと欠乏症の組合せで、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "ビタミンA ― 壊血病",
+        "judgment": "誤答",
+        "explanation": "ビタミンA欠乏では夜盲症や眼の乾燥などを生じる。壊血病はビタミンC欠乏。"
+      },
+      {
+        "number": "2",
+        "text": "ビタミンC ― 脚気",
+        "judgment": "誤答",
+        "explanation": "ビタミンC欠乏は壊血病。脚気はビタミンB1欠乏で生じる。"
+      },
+      {
+        "number": "3",
+        "text": "ビタミンD ― くる病(小児)",
+        "judgment": "正答",
+        "explanation": "ビタミンD欠乏は骨の石灰化障害を起こし、小児ではくる病となる。"
+      },
+      {
+        "number": "4",
+        "text": "ナイアシン(ニコチン酸) ― 夜盲症",
+        "judgment": "誤答",
+        "explanation": "ナイアシン欠乏ではペラグラを生じる。夜盲症に結び付くのはビタミンA欠乏。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2022-A-Q10",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "22A106",
+    "exam_id": "2022-A",
+    "year": 2022,
+    "number": 106,
+    "pdf_page": 25,
+    "kind": "direct",
+    "topic": "白内障手術・安全",
+    "title": "白内障手術後の安全",
+    "question_summary": "白内障手術後の患者への適切な説明を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：転倒の危険への注意",
+    "explanation": "術後は眼帯・見え方の変化などによって転倒しやすくなる。移動時の援助と環境確認が必要。",
+    "incorrect_points": [
+      "安静時間を全員一律の長時間としない。",
+      "洗顔・洗髪の再開、眼鏡の調整時期は術後経過と施設の指示に従う。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48"
+    ],
+    "verification": "official_pdf",
+    "question_text": "白内障手術後の患者の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "床上安静は、6時間であることを説明する。",
+        "judgment": "誤答",
+        "explanation": "術後の安静時間は術式、麻酔、患者の状態に応じた指示による。全員に6時間と説明しない。"
+      },
+      {
+        "number": "2",
+        "text": "転倒事故の危険性について説明する。",
+        "judgment": "正答",
+        "explanation": "眼帯や術後の見え方の変化で転倒しやすくなる。移動時の援助や足元・段差の確認が必要。"
+      },
+      {
+        "number": "3",
+        "text": "洗顔・洗髪は、帰宅後より可能であると説明する。",
+        "judgment": "誤答",
+        "explanation": "創部の感染予防のため、洗顔・洗髪の再開時期は指示を確認する。帰宅後すぐ可能と一律に説明しない。"
+      },
+      {
+        "number": "4",
+        "text": "眼鏡調整は、翌日に行うと説明する。",
+        "judgment": "誤答",
+        "explanation": "術後の屈折が安定するまで待って眼鏡を調整する。手術翌日の調整を一般的な予定とはしない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2022-A-Q106",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23A90",
+    "exam_id": "2023-A",
+    "year": 2023,
+    "number": 90,
+    "pdf_page": 21,
+    "kind": "related",
+    "topic": "甲状腺眼症",
+    "title": "バセドウ病の眼症状への援助",
+    "question_summary": "バセドウ病患者への看護のうち適切なものを選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：眼球突出に対するサングラスの活用",
+    "explanation": "甲状腺眼症では眼球突出や露出による乾燥、まぶしさを伴うことがあり、眼の保護を考える。",
+    "incorrect_points": [
+      "サングラスだけで原疾患を治療できるという意味ではない。",
+      "低エネルギー食や、機能低下症を思わせる無気力・乾燥の説明を機械的に当てはめない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.japanthyroid.jp/doctor/guideline/japanese.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "バセドウ病患者の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "無気力になるため自立した生活ができるよう援助する。",
+        "judgment": "誤答",
+        "explanation": "バセドウ病では代謝亢進、動悸、発汗、いらいらなどを生じる。無気力を典型症状とする援助は合わない。"
+      },
+      {
+        "number": "2",
+        "text": "低エネルギーの食事にする。",
+        "judgment": "誤答",
+        "explanation": "代謝が高まり体重が減ることもあり、必要な栄養を確保する。低エネルギー食を一律に勧めない。"
+      },
+      {
+        "number": "3",
+        "text": "眼球突出にはサングラスを使用するとよいと説明する。",
+        "judgment": "正答",
+        "explanation": "眼球突出や眼表面の露出で乾燥・まぶしさが生じ得る。サングラスは光や風から眼を守る援助になる。"
+      },
+      {
+        "number": "4",
+        "text": "皮膚が乾燥するためローションで保湿する。",
+        "judgment": "誤答",
+        "explanation": "バセドウ病では発汗増加や湿潤した皮膚が典型。乾燥を前提にしたこの説明は適切ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-A-Q90",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23A106",
+    "exam_id": "2023-A",
+    "year": 2023,
+    "number": 106,
+    "pdf_page": 25,
+    "kind": "direct",
+    "topic": "麦粒腫",
+    "title": "麦粒腫の処置と眼帯",
+    "question_summary": "まぶたの麦粒腫を切開した患者への援助を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：眼帯を付ける場合の転倒への注意",
+    "explanation": "麦粒腫は主に細菌感染による炎症。眼帯で視野や両眼視が制限される状況では移動時の安全に配慮する。",
+    "incorrect_points": [
+      "ハウスダストによるアレルギーと説明しない。",
+      "処置中は必要な声かけを行い、洗顔は創部・施設の指示を確認する。"
+    ],
+    "clinical_note": "すべての麦粒腫で眼帯が必要という意味ではなく、設問の処置後の状況に対する正答。",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=5"
+    ],
+    "verification": "official_pdf",
+    "question_text": "右眼瞼の麦粒腫と診断され、切開し排膿することになった。援助で適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "麦粒腫はハウスダストによるアレルギー疾患であることを説明した。",
+        "judgment": "誤答",
+        "explanation": "麦粒腫は主にブドウ球菌などによる眼瞼の腺の感染。ハウスダストによるアレルギー疾患ではない。"
+      },
+      {
+        "number": "2",
+        "text": "排膿処置中の声かけは控える。",
+        "judgment": "誤答",
+        "explanation": "不安や痛みを把握し、動かないよう必要な説明・声かけを行う。一律に声かけを控えない。"
+      },
+      {
+        "number": "3",
+        "text": "眼帯装着を行うため転倒に注意するよう伝えた。",
+        "judgment": "正答",
+        "explanation": "片眼の眼帯で視野や距離感が変わるため、段差などで転倒しないよう説明・介助する。"
+      },
+      {
+        "number": "4",
+        "text": "処置当日の洗顔は行ってよいことを説明した。",
+        "judgment": "誤答",
+        "explanation": "創部に水などが入ることを避け、洗顔再開は医師の指示を確認する。当日からよいと一律に説明しない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-A-Q106",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23A108",
+    "exam_id": "2023-A",
+    "year": 2023,
+    "number": 108,
+    "pdf_page": 25,
+    "kind": "direct",
+    "topic": "点眼・眼軟膏",
+    "title": "眼軟膏後の運転",
+    "question_summary": "眼軟膏の使い方と使用後の注意を判断する。",
+    "official_answer": "4",
+    "answer_summary": "4：使用直後の自動車運転を避ける",
+    "explanation": "眼軟膏は使用後に一時的なかすみを生じるため、見え方が回復するまで運転を避ける。",
+    "incorrect_points": [
+      "点眼液と併用する際は通常、眼軟膏を後に使う。",
+      "下まぶたを引いて内側に入れる。点眼液より速い吸収とは説明しない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.santen.co.jp/medical-channel/di/faq/DK018_faq.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "眼軟膏の点入時の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "点眼薬がある場合は点眼前に点入するよう説明する。",
+        "judgment": "誤答",
+        "explanation": "点眼薬を先に使用し、眼軟膏は最後にする。軟膏を先に入れると、後の点眼薬の浸透を妨げ得る。"
+      },
+      {
+        "number": "2",
+        "text": "点眼薬よりも早く吸収されると説明する。",
+        "judgment": "誤答",
+        "explanation": "眼軟膏は眼表面に長くとどまり作用が持続する剤形。点眼薬より速く吸収されるとする説明は不適切。"
+      },
+      {
+        "number": "3",
+        "text": "上眼瞼を引き上げて眼瞼内側に点入する。",
+        "judgment": "誤答",
+        "explanation": "下眼瞼を軽く引き、下方の結膜嚢に入れる。上眼瞼を引き上げて行う方法を基本としない。"
+      },
+      {
+        "number": "4",
+        "text": "点入直後は車の運転を避けるよう説明する。",
+        "judgment": "正答",
+        "explanation": "使用後に一時的にかすむことがある。見え方が回復するまで車の運転や危険な作業を避ける。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-A-Q108",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23A109",
+    "exam_id": "2023-A",
+    "year": 2023,
+    "number": 109,
+    "pdf_page": 25,
+    "kind": "related",
+    "topic": "薬剤・視機能",
+    "title": "抗結核薬の副作用",
+    "question_summary": "肺結核治療の適切な説明を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：服薬確認を伴う治療支援",
+    "explanation": "公式正答はDOTS。眼科関連の肢では、ストレプトマイシンの代表的副作用を視力障害とする点が不適切。",
+    "incorrect_points": [
+      "ストレプトマイシンでは聴覚・平衡機能障害を学ぶ。",
+      "視機能障害との関係ではエタンブトールによる視神経障害が重要。"
+    ],
+    "clinical_note": "新たな視力・色の見え方の異常は処方医へ報告し、自己判断で放置しない。",
+    "references": [
+      "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/780009_6161400D1042_1_01"
+    ],
+    "verification": "official_pdf",
+    "question_text": "肺結核患者の薬物療法について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "薬剤は単独で使用する。",
+        "judgment": "誤答",
+        "explanation": "耐性菌を生じにくくするため、複数の抗結核薬を組み合わせる。単剤を標準としない。"
+      },
+      {
+        "number": "2",
+        "text": "直接服薬確認療法(DOTS)が推奨されている。",
+        "judgment": "正答",
+        "explanation": "DOTSは服薬を確認し、治療の継続・完了を支える方法。確実な内服と耐性化防止に役立つ。"
+      },
+      {
+        "number": "3",
+        "text": "ストレプトマイシンの副作用は視力低下である。",
+        "judgment": "誤答",
+        "explanation": "ストレプトマイシンでは聴覚・平衡機能障害などに注意する。視神経障害はエタンブトールで特に重要。"
+      },
+      {
+        "number": "4",
+        "text": "標準治療は抗結核薬の1か月の服用である。",
+        "judgment": "誤答",
+        "explanation": "標準治療は通常、複数の薬を段階的に用いて数か月継続する。1か月で終了する治療ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-A-Q109",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23A114",
+    "exam_id": "2023-A",
+    "year": 2023,
+    "number": 114,
+    "pdf_page": 26,
+    "kind": "direct",
+    "topic": "水晶体・加齢",
+    "title": "加齢と視覚",
+    "question_summary": "加齢に伴う眼の変化から適切な記述を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：水晶体の白濁",
+    "explanation": "加齢により水晶体の透明性や弾力性は低下する。透明性の低下は白内障、調節力の低下は老視と結び付ける。",
+    "incorrect_points": [
+      "明暗順応や調節機能が加齢で高まるとは考えない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=36"
+    ],
+    "verification": "official_pdf",
+    "question_text": "加齢による視覚の変化について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "水晶体の弾力性の増強",
+        "judgment": "誤答",
+        "explanation": "加齢により水晶体の弾力性は低下する。増強ではなく、近くへの調節が難しくなる。"
+      },
+      {
+        "number": "2",
+        "text": "明暗順応の亢進",
+        "judgment": "誤答",
+        "explanation": "加齢により明暗の変化に順応しにくくなる。機能が亢進するという方向が逆。"
+      },
+      {
+        "number": "3",
+        "text": "水晶体の白濁化",
+        "judgment": "正答",
+        "explanation": "水晶体の透明性が低下し、白濁が進むことがある。加齢性白内障につながる変化。"
+      },
+      {
+        "number": "4",
+        "text": "調整機能の亢進",
+        "judgment": "誤答",
+        "explanation": "原文は「調整機能」。学習上の調節機能は加齢で低下し、老視につながる。亢進ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-A-Q114",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23B15",
+    "exam_id": "2023-B",
+    "year": 2023,
+    "number": 15,
+    "pdf_page": 6,
+    "kind": "related",
+    "topic": "薬剤・視機能",
+    "title": "抗感染症薬の副作用",
+    "question_summary": "抗感染症薬の説明から誤りを選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：アミノグリコシド系の代表的副作用を視力障害とした肢",
+    "explanation": "アミノグリコシド系の代表的な有害作用は腎毒性・耳毒性。眼科との関連は、聴覚障害と視覚障害を混同しないこと。",
+    "incorrect_points": [
+      "眼に関する語が出ても、問題全体が眼疾患を問うとは限らない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/780009_6161400D1042_1_01"
+    ],
+    "verification": "official_index_answer_mirror_question",
+    "question_text": "抗感染症薬について、誤っているのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "バンコマイシンは、MRSA(メチシリン耐性ブドウ球菌)の第1選択薬である。",
+        "judgment": "誤答",
+        "explanation": "MRSA感染症の治療でバンコマイシンが主要な選択肢となるという試験上の記述。正しい記述として扱い、本問では選ばない。"
+      },
+      {
+        "number": "2",
+        "text": "マクロライド系薬は、マイコプラズマ肺炎の第1選択薬である。",
+        "judgment": "誤答",
+        "explanation": "マイコプラズマ肺炎ではマクロライド系薬が基本の選択肢。年齢、耐性、重症度などによって実際の薬剤は調整する。"
+      },
+      {
+        "number": "3",
+        "text": "アミノグリコシド系薬の副作用として、視力障害があげられる。",
+        "judgment": "正答",
+        "explanation": "代表的な副作用は腎障害や聴覚・平衡機能障害。視力障害を代表として挙げた記述が不適切で、本問の正答。"
+      },
+      {
+        "number": "4",
+        "text": "抗インフルエンザ薬の投与開始は、症状発現から48時間以内が望ましい。",
+        "judgment": "誤答",
+        "explanation": "抗インフルエンザ薬は発症後早期、一般に48時間以内の開始が望ましい。重症例などの治療判断を48時間で一律に打ち切る意味ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-B-Q15",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "23B49",
+    "exam_id": "2023-B",
+    "year": 2023,
+    "number": 49,
+    "pdf_page": 13,
+    "kind": "related",
+    "topic": "眼の防護",
+    "title": "通常の眼鏡と眼の防護具",
+    "question_summary": "標準予防策のPPEとして正答となるものを選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：エプロン",
+    "explanation": "この組合せでの公式正答はエプロン。通常の眼鏡は眼を十分に覆わず、飛沫からの防護具の代用にしない。",
+    "incorrect_points": [
+      "眼を守る必要がある場面ではゴーグルやフェイスシールド等を選ぶ。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html"
+    ],
+    "verification": "official_index_answer_mirror_question",
+    "question_text": "標準予防策(スタンダードプリコーション)の個人防護具(PPE)に含まれるのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "眼鏡",
+        "judgment": "誤答",
+        "explanation": "通常の眼鏡は飛沫防護が不十分。眼の防護にはゴーグルやフェイスシールドを用いる。"
+      },
+      {
+        "number": "2",
+        "text": "シューズカバー",
+        "judgment": "誤答",
+        "explanation": "シューズカバーを標準予防策の基本的PPEとして選ぶ設問ではない。特定の処置などで使用する場合はある。"
+      },
+      {
+        "number": "3",
+        "text": "キャップ",
+        "judgment": "誤答",
+        "explanation": "キャップを標準予防策の基本的PPEとして選ぶ設問ではない。手術など特定の場面での使用と区別する。"
+      },
+      {
+        "number": "4",
+        "text": "エプロン",
+        "judgment": "正答",
+        "explanation": "エプロンは衣服や皮膚を血液・体液などの汚染から守る。曝露リスクに応じて使用するPPE。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-B-Q49",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "23B106",
+    "exam_id": "2023-B",
+    "year": 2023,
+    "number": 106,
+    "pdf_page": 25,
+    "kind": "direct",
+    "topic": "屈折・調節",
+    "title": "近視・遠視・乱視・弱視",
+    "question_summary": "屈折や視機能の異常に関する正しい説明を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：近視で屈折矯正手術が選択されることがある",
+    "explanation": "近視では、調節を休めた状態で遠方からの光の焦点が網膜より前に位置する。眼鏡やコンタクトレンズによる矯正のほか、適応によって手術が検討される。",
+    "incorrect_points": [
+      "遠視の焦点は網膜より後方。",
+      "加齢による調節力低下は老視。乱視の矯正を手術だけに限定しない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=36"
+    ],
+    "verification": "official_index_answer_mirror_question",
+    "question_text": "眼疾患について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "弱視とは加齢に伴い調整力が低下した状態をいう。",
+        "judgment": "誤答",
+        "explanation": "加齢に伴う調節力の低下は老視。弱視は視覚発達期の障害などにより十分な矯正視力が得られない状態。"
+      },
+      {
+        "number": "2",
+        "text": "乱視の治療は手術療法である。",
+        "judgment": "誤答",
+        "explanation": "乱視は一般に眼鏡やコンタクトレンズで矯正できる。治療を手術だけに限定しない。"
+      },
+      {
+        "number": "3",
+        "text": "遠視とは平行光線が網膜の前方に焦点を結ぶ状態である。",
+        "judgment": "誤答",
+        "explanation": "網膜の前方に焦点を結ぶのは近視。遠視では、調節を休めた状態で網膜の後方に焦点を結ぶ。"
+      },
+      {
+        "number": "4",
+        "text": "近視では屈折矯正手術が行われることがある。",
+        "judgment": "正答",
+        "explanation": "適応を確認したうえで、近視に屈折矯正手術を行うことがある。すべての患者に手術が必要という意味ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-B-Q106",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "23B108",
+    "exam_id": "2023-B",
+    "year": 2023,
+    "number": 108,
+    "pdf_page": 25,
+    "kind": "direct",
+    "topic": "緑内障",
+    "title": "緑内障の継続治療",
+    "question_summary": "緑内障患者への適切な看護・説明を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：慢性期も治療を続ける",
+    "explanation": "慢性緑内障では自覚症状が乏しくても進行することがある。見え方だけで治療を中断せず、点眼・定期検査を継続する。",
+    "incorrect_points": [
+      "初期から全員に大きな視力低下があるとは限らない。",
+      "失明の可能性はあり、急性発作の典型を複視・めまいとだけ説明しない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=35"
+    ],
+    "verification": "official_index_answer_mirror_question",
+    "question_text": "緑内障患者の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "初期から視力低下による日常生活への影響が大きいため、危険防止に努める。",
+        "judgment": "誤答",
+        "explanation": "慢性緑内障では初期の自覚症状が乏しいことが多い。初期から大きな視力低下があるという前提が不適切。"
+      },
+      {
+        "number": "2",
+        "text": "症状が軽減する慢性期においても、治療は継続するよう説明する。",
+        "judgment": "正答",
+        "explanation": "自覚症状の有無だけで中断せず、眼圧を管理する治療と定期検査を継続するよう支援する。"
+      },
+      {
+        "number": "3",
+        "text": "急性期緑内障の主な症状は、複視とめまいであると説明する。",
+        "judgment": "誤答",
+        "explanation": "急性閉塞隅角発作では眼痛、頭痛、悪心・嘔吐、視力低下などが重要。複視とめまいを主症状とする説明は合わない。"
+      },
+      {
+        "number": "4",
+        "text": "失明に至る可能性はないと説明する。",
+        "judgment": "誤答",
+        "explanation": "視神経障害が進むと失明に至り得る。治療継続と早期発見の必要性を説明する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-B-Q108",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "23B114",
+    "exam_id": "2023-B",
+    "year": 2023,
+    "number": 114,
+    "pdf_page": 26,
+    "kind": "direct",
+    "topic": "水晶体・加齢",
+    "title": "白内障の障害部位",
+    "question_summary": "水晶体が濁ることによる疾患を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：加齢性白内障",
+    "explanation": "白内障では水晶体の透明性が低下する。老視は主として調節力の低下であり、同じ水晶体に関係しても病態は異なる。",
+    "incorrect_points": [
+      "緑内障では視神経、加齢黄斑変性では網膜の黄斑を学ぶ。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=36"
+    ],
+    "verification": "official_index_answer_mirror_question",
+    "question_text": "水晶体の混濁によって起こる高齢者特有の疾患はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "老視",
+        "judgment": "誤答",
+        "explanation": "老視は主に水晶体の弾力性低下などによる調節力の低下。水晶体の混濁そのものではない。"
+      },
+      {
+        "number": "2",
+        "text": "老人性白内障",
+        "judgment": "正答",
+        "explanation": "水晶体の混濁を来すのは白内障。加齢に伴うものを老人性・加齢性白内障と呼ぶ。"
+      },
+      {
+        "number": "3",
+        "text": "加齢黄斑変性",
+        "judgment": "誤答",
+        "explanation": "加齢黄斑変性は網膜の黄斑の病気。水晶体の混濁とは障害部位が異なる。"
+      },
+      {
+        "number": "4",
+        "text": "緑内障",
+        "judgment": "誤答",
+        "explanation": "緑内障は視神経が障害され視野が欠ける病気。水晶体の混濁を定義とはしない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-B-Q114",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "24A24",
+    "exam_id": "2024-A",
+    "year": 2024,
+    "number": 24,
+    "pdf_page": 8,
+    "kind": "direct",
+    "topic": "緑内障",
+    "title": "急性緑内障発作",
+    "question_summary": "緑内障の急性発作を疑う症状を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：眼の痛み",
+    "explanation": "急性閉塞隅角発作では眼圧が急上昇し、眼痛・視力低下・頭痛・悪心などを起こし得る。速やかな診察が必要。",
+    "incorrect_points": [
+      "発熱・下痢・めまいより、設問では眼痛が該当する。",
+      "慢性緑内障がいつも強く痛むと一般化しない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=35"
+    ],
+    "verification": "official_pdf",
+    "question_text": "緑内障発作でみられる症状はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "発熱",
+        "judgment": "誤答",
+        "explanation": "急性閉塞隅角発作の代表的症状として選ぶものではない。"
+      },
+      {
+        "number": "2",
+        "text": "下痢",
+        "judgment": "誤答",
+        "explanation": "消化器症状としては悪心・嘔吐に注意する。下痢を代表的症状とはしない。"
+      },
+      {
+        "number": "3",
+        "text": "めまい",
+        "judgment": "誤答",
+        "explanation": "めまいだけを特徴的症状として選ぶ設問ではない。眼痛や視力低下などの眼症状を確認する。"
+      },
+      {
+        "number": "4",
+        "text": "眼痛",
+        "judgment": "正答",
+        "explanation": "眼圧の急上昇に伴う強い眼痛が重要。頭痛や悪心・嘔吐を伴うこともあり、速やかな診察につなげる。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2024-A-Q24",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "24A98",
+    "exam_id": "2024-A",
+    "year": 2024,
+    "number": 98,
+    "pdf_page": 23,
+    "kind": "direct",
+    "topic": "網膜剥離",
+    "title": "網膜剥離術後の体位",
+    "question_summary": "網膜剥離患者への看護から適切なものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：術後の体位保持による苦痛を和らげる",
+    "explanation": "術式や眼内のガス等に応じて必要な体位が指示される。皮膚・筋骨格系の苦痛を観察し、指示を守れるよう支援する。",
+    "incorrect_points": [
+      "全員に同じ体位を適用しない。",
+      "術後の眼痛は眼圧上昇や感染等も含め報告が必要で、眼圧低下と決めつけない。",
+      "洗顔・洗髪の再開は個別の指示に従う。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=50"
+    ],
+    "verification": "official_pdf",
+    "question_text": "網膜剥離の患者の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "手術前は安静の必要性はないことを伝える。",
+        "judgment": "誤答",
+        "explanation": "剥離の状態などに応じて安静や体位の指示がある。「安静の必要性はない」と断定しない。"
+      },
+      {
+        "number": "2",
+        "text": "手術後の体位保持に伴う苦痛を緩和する。",
+        "judgment": "正答",
+        "explanation": "指示された体位を保てるよう、頸部・腰部などの苦痛を評価し、クッションや休息方法を調整する。"
+      },
+      {
+        "number": "3",
+        "text": "手術後に眼痛があれば、眼圧低下に注意する。",
+        "judgment": "誤答",
+        "explanation": "術後の眼痛は眼圧上昇などの異常を考えて報告する。眼圧低下だけに結び付けない。"
+      },
+      {
+        "number": "4",
+        "text": "手術後、翌日から洗顔や洗髪ができることを説明する。",
+        "judgment": "誤答",
+        "explanation": "洗顔・洗髪の開始時期は術式や経過、医師の指示による。翌日から可能と一律に説明しない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2024-A-Q98",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "24A99",
+    "exam_id": "2024-A",
+    "year": 2024,
+    "number": 99,
+    "pdf_page": 23,
+    "kind": "direct",
+    "topic": "点眼・眼軟膏",
+    "title": "点眼後の目頭への軽い圧迫",
+    "question_summary": "点眼薬の量・間隔・順序・点眼後の扱いを判断する。",
+    "official_answer": "3",
+    "answer_summary": "3：目頭を軽く押さえて涙道への流出を減らす",
+    "explanation": "点眼後の軽い閉瞼や涙嚢部圧迫は、薬液が鼻腔へ流れるのを減らす方法。眼球自体を押さえない。",
+    "incorrect_points": [
+      "1回量は通常1滴。複数薬の間隔は通常5分以上を基本に薬剤の指示を優先する。",
+      "眼軟膏は通常最後に使用する。"
+    ],
+    "clinical_note": "術後など圧迫を避けるべき状況では、閉瞼のみとするなど個別の指示に従う。",
+    "references": [
+      "https://www.santen.co.jp/medical-channel/di/faq/DK018_faq.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "点眼について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "複数の点眼薬を使用する場合は、1分間あけて点眼する。",
+        "judgment": "誤答",
+        "explanation": "複数の点眼薬は通常5分以上あける。薬剤ごとの指示がある場合はその間隔を守る。"
+      },
+      {
+        "number": "2",
+        "text": "複数の点眼薬を使用する場合は、油性点眼薬から水溶性点眼薬の順で使用する。",
+        "judgment": "誤答",
+        "explanation": "原則として水性を先に、油性や眼軟膏を後にする。先に油膜ができると後の薬の浸透を妨げ得る。"
+      },
+      {
+        "number": "3",
+        "text": "点眼後は、目頭を軽く圧迫し涙小管内へ流出しないようにする。",
+        "judgment": "正答",
+        "explanation": "目頭の涙嚢部を軽く押さえると、涙道を介した鼻腔への流出を減らせる。眼球そのものを強く押さえない。"
+      },
+      {
+        "number": "4",
+        "text": "点眼薬は、1回に2～3滴を滴下する。",
+        "judgment": "誤答",
+        "explanation": "通常は1回1滴で足りる。複数滴を入れても結膜嚢からあふれ、効果が単純に増すわけではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2024-A-Q99",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "24A121",
+    "exam_id": "2024-A",
+    "year": 2024,
+    "number": 121,
+    "pdf_page": 28,
+    "kind": "direct",
+    "topic": "水晶体・加齢",
+    "title": "視力低下を来す疾患",
+    "question_summary": "視力低下に関わる疾患の説明から正しいものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：加齢性白内障は水晶体が濁る",
+    "explanation": "白内障の障害部位は水晶体。老視・緑内障・黄斑変性との違いを整理する。",
+    "incorrect_points": [
+      "老視を60歳代になって初めて起こるものとしない。",
+      "眼圧低下を緑内障の原因の説明にしない。正常眼圧緑内障もある。",
+      "加齢黄斑変性は重い視力障害を来し得る。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=35",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=52"
+    ],
+    "verification": "official_pdf",
+    "question_text": "視力低下を伴う疾患について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "老視は60歳代から現れる。",
+        "judgment": "誤答",
+        "explanation": "老視は一般に40歳代から近くが見えにくいと自覚し始める。60歳代からと限定するのは遅い。"
+      },
+      {
+        "number": "2",
+        "text": "老人性白内障は水晶体が混濁する。",
+        "judgment": "正答",
+        "explanation": "白内障では水晶体が混濁し、かすみやまぶしさ、視力低下を生じる。"
+      },
+      {
+        "number": "3",
+        "text": "緑内障は眼圧が下がる。",
+        "judgment": "誤答",
+        "explanation": "治療は眼圧を下げて進行を抑える方向に行う。発症時に必ず眼圧が高いわけではないが、眼圧低下を疾患の特徴とはしない。"
+      },
+      {
+        "number": "4",
+        "text": "加齢黄斑変性は失明の原因ではない。",
+        "judgment": "誤答",
+        "explanation": "黄斑の障害によって強い視力低下を生じ得る。失明の原因ではないという否定が誤り。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2024-A-Q121",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "24B101",
+    "exam_id": "2024-B",
+    "year": 2024,
+    "number": 101,
+    "pdf_page": 24,
+    "kind": "direct",
+    "topic": "白内障手術・安全",
+    "title": "白内障手術前の準備",
+    "question_summary": "白内障手術の前後の説明から適切なものを選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：術前に散瞳のための点眼を行う",
+    "explanation": "一般的な白内障手術では瞳孔を広げて術野を確保する。正答は術前の散瞳。",
+    "incorrect_points": [
+      "禁食の有無・時間、抗菌点眼を開始する日、眼帯を外す時期は術式・麻酔・施設により確認する。",
+      "誤答を直す際に、特定施設の時間や日数を全国共通のルールとして覚えない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48"
+    ],
+    "verification": "official_web_answer_mirror_question",
+    "question_text": "白内障の手術を受ける患者の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "前日から禁食する。",
+        "judgment": "誤答",
+        "explanation": "前日から一律に絶食する処置ではない。麻酔方法や全身状態に応じた飲食の指示を確認する。"
+      },
+      {
+        "number": "2",
+        "text": "当日朝から抗菌薬の点眼を開始するよう説明する。",
+        "judgment": "誤答",
+        "explanation": "術前の抗菌点眼は事前から開始する指示もある。「当日朝から」と一律に説明せず処方・指示を確認する。"
+      },
+      {
+        "number": "3",
+        "text": "手術前に散瞳薬を点眼する。",
+        "judgment": "正答",
+        "explanation": "散瞳薬で瞳孔を広げ、水晶体の手術に必要な術野を確保する。使用薬と点眼時刻は指示に従う。"
+      },
+      {
+        "number": "4",
+        "text": "手術後2～3時間経てば眼帯をはずしてもよいと説明する。",
+        "judgment": "誤答",
+        "explanation": "眼帯の除去時期は術式や医師の指示による。術後2～3時間で外してよいと一律に説明しない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2024-B-Q101",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "24B102",
+    "exam_id": "2024-B",
+    "year": 2024,
+    "number": 102,
+    "pdf_page": 24,
+    "kind": "direct",
+    "topic": "検査・散瞳",
+    "title": "眼科検査の目的と方法",
+    "question_summary": "眼底・視力・眼圧・屈折の検査について正しい説明を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：非接触眼圧検査では空気が眼に当たる",
+    "explanation": "非接触眼圧計は空気で角膜を変形させて眼圧を推定する。驚いて動かないよう、検査前に説明する。",
+    "incorrect_points": [
+      "一般的な遠見視力検査は5m用視力表を用いるが、機器や表により距離は異なる。",
+      "ランドルト環は視力検査に用いる。屈折検査では屈折度数を評価する。",
+      "散瞳を行う眼底検査で縮瞳薬を使うという説明は不適切。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_web_answer_mirror_question",
+    "question_text": "眼疾患の検査について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "眼底検査は縮瞳薬を点眼する。",
+        "judgment": "誤答",
+        "explanation": "散瞳薬を用いて眼底を見やすくするのが基本。縮瞳薬との取り違えに注意する。"
+      },
+      {
+        "number": "2",
+        "text": "視力検査は視力表に向い3 mの距離で行う。",
+        "judgment": "誤答",
+        "explanation": "標準的な遠見視力表では5 mで測る。3 m用などの検査法もあるが、通常の方法を一律に3 mとする本肢は不適切。"
+      },
+      {
+        "number": "3",
+        "text": "非接触性の眼圧検査は空気が眼にあたることを説明する。",
+        "judgment": "正答",
+        "explanation": "非接触眼圧計では空気が角膜に当たる。驚いて動かないよう事前に説明する。"
+      },
+      {
+        "number": "4",
+        "text": "屈折検査はランドルト環を用いて行う。",
+        "judgment": "誤答",
+        "explanation": "ランドルト環は視力を測る視標。屈折はレフラクトメータなどで測定し、視力検査と区別する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2024-B-Q102",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "25A5",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 5,
+    "pdf_page": 4,
+    "kind": "direct",
+    "topic": "屈折・調節",
+    "title": "遠近調節を担う構造",
+    "question_summary": "近くと遠くにピントを合わせる働きに関わる構造を選ぶ。",
+    "official_answer": "1",
+    "answer_summary": "1：毛様体",
+    "explanation": "毛様体筋の収縮・弛緩がチン小帯の張力を変え、水晶体の厚さを調節する。",
+    "incorrect_points": [
+      "硝子体は眼内の形態維持等、網膜は光の受容、上直筋は眼球運動に関係する。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=36"
+    ],
+    "verification": "official_pdf",
+    "question_text": "眼の遠近調節を行うのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "毛様体",
+        "judgment": "正答",
+        "explanation": "毛様体筋の収縮・弛緩でチン小帯の張力が変わり、水晶体の厚さを変えてピントを合わせる。"
+      },
+      {
+        "number": "2",
+        "text": "硝子体",
+        "judgment": "誤答",
+        "explanation": "硝子体は眼球内部を満たす透明な組織で、眼球の形の維持などに関わる。能動的に遠近調節する部位ではない。"
+      },
+      {
+        "number": "3",
+        "text": "網膜",
+        "judgment": "誤答",
+        "explanation": "網膜は光を受けて神経信号に変える。水晶体の厚さを調節する構造ではない。"
+      },
+      {
+        "number": "4",
+        "text": "上直筋",
+        "judgment": "誤答",
+        "explanation": "上直筋は眼球を動かす外眼筋。遠近のピント調節を担う毛様体筋とは異なる。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q5",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25A14",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 14,
+    "pdf_page": 6,
+    "kind": "related",
+    "topic": "自律神経・瞳孔",
+    "title": "アドレナリン作動薬",
+    "question_summary": "アドレナリン系に作用する薬の反応を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：血圧上昇",
+    "explanation": "交感神経系の作用を問う。眼では散瞳に関係し、縮瞳と混同しない。",
+    "incorrect_points": [
+      "選択肢の気管支収縮や心拍数低下を一般的な交感神経の反応として選ばない。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "アドレナリン作動薬の作用はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "縮瞳",
+        "judgment": "誤答",
+        "explanation": "アドレナリン作動薬の作用では散瞳を学ぶ。縮瞳は副交感神経系の作用。"
+      },
+      {
+        "number": "2",
+        "text": "血圧上昇",
+        "judgment": "正答",
+        "explanation": "血管のα受容体刺激による収縮や心臓への作用で、血圧上昇を来す。この設問の正答。"
+      },
+      {
+        "number": "3",
+        "text": "気管支収縮",
+        "judgment": "誤答",
+        "explanation": "β2受容体刺激は気管支を拡張させる。収縮とする方向が逆。"
+      },
+      {
+        "number": "4",
+        "text": "心拍数減少",
+        "judgment": "誤答",
+        "explanation": "β1受容体刺激では一般に心拍数増加・心収縮力増大を来す。心拍数減少を基本作用とはしない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q14",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25A74",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 74,
+    "pdf_page": 18,
+    "kind": "related",
+    "topic": "薬剤・投与経路",
+    "title": "点眼と全身投与",
+    "question_summary": "血中濃度が速く上がり全身に働く投与方法を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：注射",
+    "explanation": "この比較では注射が正答。点眼は眼への局所投与を目的に用いることが多い。",
+    "incorrect_points": [
+      "点眼は全身に一切吸収されないという意味ではない。涙道から鼻粘膜を介した吸収などに注意する。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.santen.co.jp/medical-channel/di/faq/DK018_faq.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "薬物の血中濃度の上昇が速やかで、全身的に作用する投与方法はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "経口",
+        "judgment": "誤答",
+        "explanation": "消化管からの吸収や初回通過効果の影響を受ける。速やかな全身作用という比較では注射を選ぶ。"
+      },
+      {
+        "number": "2",
+        "text": "点眼",
+        "judgment": "誤答",
+        "explanation": "点眼は主として眼への局所投与。全身にも吸収され得るが、速やかな全身作用を目的に選ぶ方法ではない。"
+      },
+      {
+        "number": "3",
+        "text": "経皮",
+        "judgment": "誤答",
+        "explanation": "皮膚から徐々に吸収される方法で、持続的な作用に用いる。急速な血中濃度上昇を目的とはしない。"
+      },
+      {
+        "number": "4",
+        "text": "注射",
+        "judgment": "正答",
+        "explanation": "注射、特に静脈内投与は速やかに全身へ薬を届ける。本問の比較では注射が正答。筋肉内・皮下などで速度は異なる。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q74",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25A98",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 98,
+    "pdf_page": 23,
+    "kind": "direct",
+    "topic": "点眼・眼軟膏",
+    "title": "点眼は通常1滴",
+    "question_summary": "点眼時の量と指導で適切なものを選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：1回に1滴を使う",
+    "explanation": "結膜嚢に保持できる量には限りがあり、複数滴を入れてもあふれやすい。通常は1滴を確実に入れる。",
+    "incorrect_points": [
+      "1分で次の薬をさす、眼軟膏を先に使う、点眼後に何度もまばたきをする、という指導は基本と異なる。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.santen.co.jp/medical-channel/di/faq/DK018_faq.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "点眼時の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "複数の点眼薬を用いるときは1分間の間隔をあける。",
+        "judgment": "誤答",
+        "explanation": "通常は5分以上あけ、先の薬が洗い流されるのを防ぐ。薬剤ごとの指示があれば優先する。"
+      },
+      {
+        "number": "2",
+        "text": "眼軟膏は最初に使用する。",
+        "judgment": "誤答",
+        "explanation": "点眼薬を先に、眼軟膏を最後に用いる。軟膏を先に使うと後の薬の浸透を妨げ得る。"
+      },
+      {
+        "number": "3",
+        "text": "点眼後はまばたきを繰り返すように促す。",
+        "judgment": "誤答",
+        "explanation": "まばたきを繰り返すと涙道へ流れやすい。軽く閉瞼し、必要に応じ涙嚢部を軽く押さえる。"
+      },
+      {
+        "number": "4",
+        "text": "点眼薬は1回に1滴を滴下する。",
+        "judgment": "正答",
+        "explanation": "通常の点眼薬は1滴を確実に下結膜嚢へ入れる。何滴も入れる必要はない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q98",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25A99",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 99,
+    "pdf_page": 23,
+    "kind": "direct",
+    "topic": "検査・散瞳",
+    "title": "散瞳後の運転",
+    "question_summary": "散瞳下の眼底検査を受ける患者への適切な説明を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：検査当日の車の運転を控える",
+    "explanation": "散瞳でまぶしさや近くの見づらさが起こる。運転して来院しないよう事前に説明する。",
+    "incorrect_points": [
+      "通常は入院を要する検査ではない。アレルギー等の確認は必要。",
+      "検査室の明るさや待ち時間は検査方法に合わせる。"
+    ],
+    "clinical_note": "臨床では一律の時間経過で運転可能と判断せず、散瞳・調節麻痺による症状の回復と指示を確認する。",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "眼底検査を受ける患者への説明について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "「入院が必要です。」",
+        "judgment": "誤答",
+        "explanation": "眼底検査だけで入院が必須になるわけではない。通常は外来でも実施できる。"
+      },
+      {
+        "number": "2",
+        "text": "「アレルギーの有無は問いません。」",
+        "judgment": "誤答",
+        "explanation": "点眼薬などのアレルギー歴は事前に確認する。「問わない」という説明は不適切。"
+      },
+      {
+        "number": "3",
+        "text": "「検査中は部屋を明るくします。」",
+        "judgment": "誤答",
+        "explanation": "眼底を観察しやすいよう、通常は室内を暗くする。"
+      },
+      {
+        "number": "4",
+        "text": "「散瞳薬を使用しますので、当日の車の運転は控えてください。」",
+        "judgment": "正答",
+        "explanation": "散瞳後はまぶしさや近くの見えにくさが残るため、当日の運転を控えるよう説明する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q99",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25A113",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 113,
+    "pdf_page": 26,
+    "kind": "direct",
+    "topic": "水晶体・加齢",
+    "title": "高齢者の感覚器の変化",
+    "question_summary": "加齢に伴いやすい感覚機能の変化を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：水晶体が濁る",
+    "explanation": "水晶体の透明性低下は加齢性白内障に関係する。暗い環境への順応も遅くなりやすい。",
+    "incorrect_points": [
+      "加齢で味蕾や明暗順応が増強するとは考えない。",
+      "加齢性難聴では一般に高音域から障害されやすい。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48"
+    ],
+    "verification": "official_pdf",
+    "question_text": "高齢者にみられる感覚機能の変化はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "味蕾細胞の増加",
+        "judgment": "誤答",
+        "explanation": "加齢で味蕾細胞が増えるとする説明は不適切。味覚が低下しやすくなる。"
+      },
+      {
+        "number": "2",
+        "text": "明暗順応の亢進",
+        "judgment": "誤答",
+        "explanation": "加齢で明暗順応は低下しやすい。亢進するという説明が逆。"
+      },
+      {
+        "number": "3",
+        "text": "水晶体の混濁",
+        "judgment": "正答",
+        "explanation": "加齢により水晶体が混濁し、白内障につながることがある。"
+      },
+      {
+        "number": "4",
+        "text": "低音域の聴力低下が先行",
+        "judgment": "誤答",
+        "explanation": "加齢性難聴は一般に高音域から低下する。低音域の低下が先行するという記述は不適切。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q113",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25A132",
+    "exam_id": "2025-A",
+    "year": 2025,
+    "number": 132,
+    "pdf_page": 30,
+    "kind": "related",
+    "topic": "新生児・眼のケア",
+    "title": "出生直後の点眼という選択肢",
+    "question_summary": "出生直後の新生児ケアの適切な内容を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：体の外表の異常を確認する",
+    "explanation": "眼科関連は予防点眼の時刻に関する誤答肢で、公式正答は外表の確認。",
+    "incorrect_points": [
+      "新生児マススクリーニングは通常、出生直後に行う検査ではない。",
+      "予防点眼の適応・時刻・薬剤は産科施設の手順で確認し、この誤答肢から独自に処方を決めない。"
+    ],
+    "clinical_note": "予防点眼の薬剤・実施時刻は国内の指示と施設手順に従う。WHOの記述は出生直後に行う予防処置であることの補足根拠で、日本の一律の薬剤指定ではない。",
+    "references": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK379222/"
+    ],
+    "verification": "official_pdf",
+    "question_text": "出生直後の新生児のケアについて、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "羊水は拭きとらない。",
+        "judgment": "誤答",
+        "explanation": "出生後は濡れた皮膚から熱が失われるため、羊水を拭き取り保温する。"
+      },
+      {
+        "number": "2",
+        "text": "外表奇形の有無を確認する。",
+        "judgment": "正答",
+        "explanation": "出生直後は呼吸・循環の状態とともに、外表の形態や異常の有無を観察する。"
+      },
+      {
+        "number": "3",
+        "text": "抗菌薬の点眼は6時間以内に行う。",
+        "judgment": "誤答",
+        "explanation": "出生直後の早期の眼感染予防として行う処置。WHOも出生直後の投与を示しており、6時間以内でよいとする説明は不適切。本問の正答は外表の観察。"
+      },
+      {
+        "number": "4",
+        "text": "新生児マススクリーニング検査を行う。",
+        "judgment": "誤答",
+        "explanation": "先天代謝異常等のマススクリーニングの採血は一般に生後数日で行う。出生直後の検査ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-A-Q132",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "25B72",
+    "exam_id": "2025-B",
+    "year": 2025,
+    "number": 72,
+    "pdf_page": 18,
+    "kind": "related",
+    "topic": "全身疾患・眼所見",
+    "title": "黄疸の観察部位",
+    "question_summary": "黄疸に早期に気づきやすい観察部位を選ぶ。",
+    "official_answer": "1",
+    "answer_summary": "1：眼球結膜",
+    "explanation": "眼球結膜越しに見える強膜の黄染は黄疸の観察に使われる。眼科疾患の診断そのものを問う問題ではない。",
+    "incorrect_points": [
+      "顔面や体幹の皮膚だけで判断せず、適切な照明下で観察する。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "黄疸が最初に観察されるのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "眼球結膜",
+        "judgment": "正答",
+        "explanation": "眼球結膜を通して見える強膜の黄染は、黄疸を早期に観察しやすい所見。肝・胆道系などの評価につなげる。"
+      },
+      {
+        "number": "2",
+        "text": "顔面",
+        "judgment": "誤答",
+        "explanation": "皮膚の黄染も観察するが、この比較では眼球結膜が先。皮膚の色調や照明にも注意する。"
+      },
+      {
+        "number": "3",
+        "text": "体幹",
+        "judgment": "誤答",
+        "explanation": "体幹の黄染も確認するが、成人の黄疸の早期観察部位として本問では選ばない。"
+      },
+      {
+        "number": "4",
+        "text": "四肢",
+        "judgment": "誤答",
+        "explanation": "四肢の黄染を最初の部位とはしない。眼球結膜と全身の皮膚を合わせて観察する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-B-Q72",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "25B98",
+    "exam_id": "2025-B",
+    "year": 2025,
+    "number": 98,
+    "pdf_page": 23,
+    "kind": "direct",
+    "topic": "洗眼",
+    "title": "洗眼時の受水器",
+    "question_summary": "洗眼を行う際の適切な援助を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：頬に受水器を当てる",
+    "explanation": "流出する液が受水器へ入る位置を整え、患者の苦痛や周囲の濡れを防ぐ。",
+    "incorrect_points": [
+      "通常の医療的洗眼では液種・温度・量を指示や手順で確認する。",
+      "冷却した液や勢いの強い水流を一律に用いない。"
+    ],
+    "clinical_note": "化学物質による曝露時は、適温・生理食塩水の準備を待って洗浄を遅らせない。",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=23"
+    ],
+    "verification": "official_pdf",
+    "question_text": "洗眼時の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "洗眼液には蒸留水を使用する。",
+        "judgment": "誤答",
+        "explanation": "通常の洗眼には生理食塩水など、眼への刺激が少ない洗眼液を用いる。蒸留水を基本の選択とはしない。"
+      },
+      {
+        "number": "2",
+        "text": "洗眼液は冷却しておく。",
+        "judgment": "誤答",
+        "explanation": "通常は体温程度にし、冷刺激による苦痛を避ける。冷却しておくという説明は不適切。"
+      },
+      {
+        "number": "3",
+        "text": "受水器は頬にあてる。",
+        "judgment": "正答",
+        "explanation": "頬に受水器を密着させ、流出した液を受ける。体位や液の流れを整え、周囲を濡らさない。"
+      },
+      {
+        "number": "4",
+        "text": "勢いよく洗眼液を眼にあてる。",
+        "judgment": "誤答",
+        "explanation": "角膜などへ勢いよく液を当てると刺激・損傷を起こす。穏やかに洗い流す。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-B-Q98",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "25B99",
+    "exam_id": "2025-B",
+    "year": 2025,
+    "number": 99,
+    "pdf_page": 23,
+    "kind": "direct",
+    "topic": "検査・散瞳",
+    "title": "散瞳と眼底検査",
+    "question_summary": "散瞳して行うことのある検査を選ぶ。",
+    "official_answer": "1",
+    "answer_summary": "1：眼底検査",
+    "explanation": "瞳孔を広げることで眼底を観察しやすくする。眼底では網膜や視神経乳頭などを評価する。",
+    "incorrect_points": [
+      "眼圧・視野・涙液分泌の検査を、散瞳が基本の検査として選ばない。"
+    ],
+    "clinical_note": "無散瞳で行える眼底撮影等もあり、すべての眼底検査が必ず散瞳を必要とするわけではない。",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "散瞳薬を用いて行う検査はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "眼底検査",
+        "judgment": "正答",
+        "explanation": "散瞳によって眼底の網膜・視神経乳頭などを観察しやすくする。散瞳薬を用いる検査として本問の正答。"
+      },
+      {
+        "number": "2",
+        "text": "眼圧検査",
+        "judgment": "誤答",
+        "explanation": "眼圧測定は眼の圧力を測る検査。散瞳薬を使って行うことを基本とはしない。"
+      },
+      {
+        "number": "3",
+        "text": "視野検査",
+        "judgment": "誤答",
+        "explanation": "視野検査は見える範囲や感度を調べる。散瞳を目的とした検査ではない。"
+      },
+      {
+        "number": "4",
+        "text": "涙液分泌(涙液)検査",
+        "judgment": "誤答",
+        "explanation": "シルマー試験などで涙液分泌を評価する。瞳孔を広げる必要はない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-B-Q99",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "25B120",
+    "exam_id": "2025-B",
+    "year": 2025,
+    "number": 120,
+    "pdf_page": 27,
+    "kind": "direct",
+    "topic": "水晶体・加齢",
+    "title": "老視の仕組み",
+    "question_summary": "老視の機序として適切な説明を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：水晶体の弾力が低下する",
+    "explanation": "加齢により調節力が低下し、近くにピントを合わせにくくなる。白内障の混濁とは区別する。",
+    "incorrect_points": [
+      "老視を60歳を過ぎて初めて出るものとしない。",
+      "遠くの見づらさや羞明そのものを老視の定義にしない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=36"
+    ],
+    "verification": "official_pdf",
+    "question_text": "老視について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "60歳を過ぎる頃から出現する。",
+        "judgment": "誤答",
+        "explanation": "一般に40歳代から近見の不便を自覚し始める。60歳を過ぎてから始まるとする説明は不適切。"
+      },
+      {
+        "number": "2",
+        "text": "水晶体の弾力性が低下する。",
+        "judgment": "正答",
+        "explanation": "水晶体の弾力性低下などで調節力が低下し、近くにピントを合わせにくくなる。"
+      },
+      {
+        "number": "3",
+        "text": "羞明感がみられる。",
+        "judgment": "誤答",
+        "explanation": "羞明はまぶしさ。白内障や角膜疾患などでも生じ、老視の特徴として選ぶ症状ではない。"
+      },
+      {
+        "number": "4",
+        "text": "遠くの物体が見えにくくなる。",
+        "judgment": "誤答",
+        "explanation": "老視では近くが見えにくくなる。遠くの見えにくさを特徴とする説明とは異なる。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2025-B-Q120",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "26A23",
+    "exam_id": "2026-A",
+    "year": 2026,
+    "number": 23,
+    "pdf_page": 8,
+    "kind": "related",
+    "topic": "甲状腺眼症",
+    "title": "バセドウ病と眼球突出",
+    "question_summary": "内分泌疾患の特徴から正しい記述を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：バセドウ病と眼球突出",
+    "explanation": "バセドウ病に関連する甲状腺眼症では眼球突出を伴うことがある。すべての患者に必ず起こるわけではない。",
+    "incorrect_points": [
+      "痛風は尿酸、原発性アルドステロン症は高血圧との関係を学ぶ。",
+      "糖尿病は小児・若年者にも発症する。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.japanthyroid.jp/doctor/guideline/japanese.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "内分泌・代謝疾患について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "痛風はビリルビンが原因である。",
+        "judgment": "誤答",
+        "explanation": "誤り。痛風で問題となるのは尿酸であり、ビリルビンではない。"
+      },
+      {
+        "number": "2",
+        "text": "原発性アルドステロン症では低血圧がみられる。",
+        "judgment": "誤答",
+        "explanation": "誤り。原発性アルドステロン症では、ナトリウム貯留などにより高血圧を生じる。"
+      },
+      {
+        "number": "3",
+        "text": "糖尿病は若年層では発症しない。",
+        "judgment": "誤答",
+        "explanation": "誤り。糖尿病は小児・若年者にも発症する。"
+      },
+      {
+        "number": "4",
+        "text": "バセドウ病では眼球突出がみられる。",
+        "judgment": "正答",
+        "explanation": "正しい。バセドウ病では甲状腺眼症として眼球突出を伴うことがある。全患者に必ず起こるという意味ではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-A-Q23",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "26A38",
+    "exam_id": "2026-A",
+    "year": 2026,
+    "number": 38,
+    "pdf_page": 11,
+    "kind": "related",
+    "topic": "眼の防護",
+    "title": "PPEを着ける順序",
+    "question_summary": "眼の防護具を含む個人防護具の着用順を選ぶ。",
+    "official_answer": "1",
+    "answer_summary": "1：ガウン、マスク、ゴーグル、手袋の順",
+    "explanation": "眼を守るゴーグルを装着し、手袋は最後に着ける。着用前の手指衛生と適切な脱衣も必要。",
+    "incorrect_points": [
+      "手袋を着けてからゴーグルを調整する順序を基本にしない。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html"
+    ],
+    "verification": "official_pdf",
+    "question_text": "個人防護具（PPE）の着用順序について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "ガウン ― マスク ― ゴーグル ― 手袋",
+        "judgment": "正答",
+        "explanation": "正しい。ガウン、マスク、眼の保護具、手袋の順。手袋は最後に着ける。"
+      },
+      {
+        "number": "2",
+        "text": "ガウン ― ゴーグル ― マスク ― 手袋",
+        "judgment": "誤答",
+        "explanation": "誤り。眼の保護具をマスクより先に着ける順序になっている。"
+      },
+      {
+        "number": "3",
+        "text": "マスク ― ゴーグル ― ガウン ― 手袋",
+        "judgment": "誤答",
+        "explanation": "誤り。ガウンを着ける前にマスク・眼の保護具を着ける順序になっている。"
+      },
+      {
+        "number": "4",
+        "text": "マスク ― ガウン ― 手袋 ― ゴーグル",
+        "judgment": "誤答",
+        "explanation": "誤り。手袋を着けた後に眼の保護具を調整する順序になっている。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-A-Q38",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "26A96",
+    "exam_id": "2026-A",
+    "year": 2026,
+    "number": 96,
+    "pdf_page": 23,
+    "kind": "related",
+    "topic": "神経・眼症状",
+    "title": "頭蓋内圧と眼瞼下垂",
+    "question_summary": "頭蓋内圧亢進でみられる徴候を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：血圧の上昇",
+    "explanation": "公式正答は血圧上昇。眼瞼下垂という語があっても、この設問の正答ではない。",
+    "incorrect_points": [
+      "クッシング反応では高血圧・徐脈・呼吸異常の関連を学ぶ。",
+      "新たな瞳孔不同・眼瞼下垂等は神経症状として速やかな評価が必要になることがある。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "頭蓋内圧亢進症状はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "クスマウル呼吸",
+        "judgment": "誤答",
+        "explanation": "誤り。クスマウル呼吸は代謝性アシドーシスとの関連で学ぶ。"
+      },
+      {
+        "number": "2",
+        "text": "眼瞼下垂",
+        "judgment": "誤答",
+        "explanation": "誤り。眼瞼下垂だけを頭蓋内圧亢進の代表的な徴候とはしない。"
+      },
+      {
+        "number": "3",
+        "text": "血圧上昇",
+        "judgment": "正答",
+        "explanation": "正しい。頭蓋内圧亢進では血圧上昇を認めることがある。"
+      },
+      {
+        "number": "4",
+        "text": "頻脈",
+        "judgment": "誤答",
+        "explanation": "誤り。頻脈を頭蓋内圧亢進の特徴とする選択肢は不適切。血圧・脈拍・意識状態等を組み合わせて観察する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-A-Q96",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "26A102",
+    "exam_id": "2026-A",
+    "year": 2026,
+    "number": 102,
+    "pdf_page": 24,
+    "kind": "direct",
+    "topic": "洗眼",
+    "title": "洗眼液の温度",
+    "question_summary": "通常の洗眼手技として適切な説明を選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：体温に近い温度の液を用いる",
+    "explanation": "通常の処置では患者の刺激・苦痛を減らすため液温に配慮する。液を角膜に強く当てない。",
+    "incorrect_points": [
+      "受水器の位置と、異物や曝露に応じた十分な洗浄量を確認する。",
+      "少量5mLでどの状況でも十分とはしない。"
+    ],
+    "clinical_note": "化学眼外傷ではすぐに大量の流水等で洗う。液を温める準備で洗浄を遅らせない。",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=23"
+    ],
+    "verification": "official_pdf",
+    "question_text": "洗眼時の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "顎に受水器をあてる。",
+        "judgment": "誤答",
+        "explanation": "誤り。受水器を顎にあてるという位置は、この設問では不適切。"
+      },
+      {
+        "number": "2",
+        "text": "洗眼時の水の温度は体温程度とする。",
+        "judgment": "正答",
+        "explanation": "正しい。通常の洗眼手技を問う設問では、体温程度の液温が適切。"
+      },
+      {
+        "number": "3",
+        "text": "異物が入ったときは生理食塩水を5mL用いる。",
+        "judgment": "誤答",
+        "explanation": "誤り。異物に対する洗眼を一律に5mLで十分とはしない。"
+      },
+      {
+        "number": "4",
+        "text": "洗眼液は角膜にあたるようにする。",
+        "judgment": "誤答",
+        "explanation": "誤り。角膜へ直接水流をぶつけるような手技は避ける。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-A-Q102",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "26A103",
+    "exam_id": "2026-A",
+    "year": 2026,
+    "number": 103,
+    "pdf_page": 24,
+    "kind": "direct",
+    "topic": "加齢黄斑変性",
+    "title": "加齢黄斑変性の症状",
+    "question_summary": "黄斑の加齢性疾患に合う症状を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：視力の低下",
+    "explanation": "黄斑は中心視力に重要な網膜の部位。加齢黄斑変性では視力低下や物のゆがみ、中心の見づらさが起こり得る。",
+    "incorrect_points": [
+      "角膜混濁は黄斑の病変そのものではない。",
+      "飛蚊症や羞明・霧視だけで疾患を決めず、設問の最適肢を選ぶ。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=52"
+    ],
+    "verification": "official_pdf",
+    "question_text": "加齢黄斑変性の症状はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "羞明・霧視",
+        "judgment": "誤答",
+        "explanation": "誤り。この選択肢の症状の組合せは、設問の最も適切な答えではない。"
+      },
+      {
+        "number": "2",
+        "text": "飛蚊症",
+        "judgment": "誤答",
+        "explanation": "誤り。飛蚊症は硝子体や網膜の状態等と関連するが、この設問の正答ではない。"
+      },
+      {
+        "number": "3",
+        "text": "角膜混濁（牛眼）",
+        "judgment": "誤答",
+        "explanation": "誤り。角膜と黄斑は別の構造。黄斑の疾患を角膜の混濁として説明しない。"
+      },
+      {
+        "number": "4",
+        "text": "視力低下",
+        "judgment": "正答",
+        "explanation": "正しい。黄斑の障害によって中心部の見え方や視力に影響する。変視症も補足して学ぶとよい。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-A-Q103",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "26A136",
+    "exam_id": "2026-A",
+    "year": 2026,
+    "number": 136,
+    "pdf_page": 31,
+    "kind": "related",
+    "topic": "小児・眼症状",
+    "title": "川崎病の病期と結膜充血",
+    "question_summary": "川崎病の回復期に特徴的な所見を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：指先の膜状の皮むけ",
+    "explanation": "眼球結膜の充血は急性期の主要症状の一つ。回復期を問うこの設問では指先からの膜様落屑が正答。",
+    "incorrect_points": [
+      "結膜充血、いちご舌、発熱という急性期所見と病期を区別する。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "川崎病の回復期にみられる特徴的な症状はどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "眼球結膜の充血",
+        "judgment": "誤答",
+        "explanation": "誤り。結膜の充血は川崎病の主要症状に含まれるが、ここでは回復期を問う。"
+      },
+      {
+        "number": "2",
+        "text": "いちご舌",
+        "judgment": "誤答",
+        "explanation": "誤り。いちご舌も主要症状だが、回復期の特徴として選ぶものではない。"
+      },
+      {
+        "number": "3",
+        "text": "指先からの膜様落屑",
+        "judgment": "正答",
+        "explanation": "正しい。回復期には指先から皮膚が膜状にはがれる変化を認める。"
+      },
+      {
+        "number": "4",
+        "text": "発熱",
+        "judgment": "誤答",
+        "explanation": "誤り。発熱は急性期の主要症状。設問の病期に注意する。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-A-Q136",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "26B19",
+    "exam_id": "2026-B",
+    "year": 2026,
+    "number": 19,
+    "pdf_page": 7,
+    "kind": "direct",
+    "topic": "眼疾患総合",
+    "title": "眼疾患の病態を区別する",
+    "question_summary": "複数の眼疾患について正しい病態を選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：糖尿病で網膜症を生じる",
+    "explanation": "糖尿病は網膜の細小血管障害を起こす。症状が乏しい時期からの眼底評価が大切。",
+    "incorrect_points": [
+      "白内障は混濁した水晶体を除去する手術で改善が期待できる。",
+      "麦粒腫は主に細菌感染による炎症。",
+      "網膜剥離には硝子体の加齢変化も関与し得るため、誤答肢を「加齢は一切関係しない」と説明しない。加齢だけを原因として単純化した肢がこの設問では不適切。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=48",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=50",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=5",
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=49"
+    ],
+    "verification": "official_pdf",
+    "question_text": "眼の疾患について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "白内障は手術しても治らない。",
+        "judgment": "誤答",
+        "explanation": "誤り。白内障は水晶体の混濁で、手術が治療となる。視機能の回復は併存疾患等にも左右される。"
+      },
+      {
+        "number": "2",
+        "text": "網膜剥離は加齢で起きる。",
+        "judgment": "誤答",
+        "explanation": "公式正答は4。この肢を正答には選ばないが、加齢による硝子体の変化は裂孔原性網膜剥離に関わり得る。「加齢は無関係」と覚えず、裂孔・牽引・滲出などの病態を区別する。"
+      },
+      {
+        "number": "3",
+        "text": "麦粒腫（ものもらい）は腫瘍である。",
+        "judgment": "誤答",
+        "explanation": "誤り。麦粒腫は眼瞼の腺の細菌感染であり、腫瘍という分類ではない。"
+      },
+      {
+        "number": "4",
+        "text": "糖尿病は網膜症を起こす。",
+        "judgment": "正答",
+        "explanation": "正しい。糖尿病は網膜症を引き起こすことがある。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-B-Q19",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "26B89",
+    "exam_id": "2026-B",
+    "year": 2026,
+    "number": 89,
+    "pdf_page": 21,
+    "kind": "related",
+    "topic": "眼の付属器・外見",
+    "title": "抗がん薬によるまつ毛脱毛",
+    "question_summary": "脱毛を悲しむ患者への適切な援助を選ぶ。",
+    "official_answer": "3",
+    "answer_summary": "3：外見を補う方法について情報提供する",
+    "explanation": "患者の気持ちを受け止め、希望に沿って容姿補整の選択肢を伝える。眼との関連は、眉毛・まつ毛も脱毛し得るという選択肢。",
+    "incorrect_points": [
+      "追加の脱毛情報だけを一方的に告げることや、鏡を見るなと指示することを最適な援助としない。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "Aさん（20歳、女性）。急性骨髄性白血病と診断された。3週間前から抗がん薬（剤）治療を受け、「髪の毛が抜けてきた。」と泣いている。最も適切な関わりはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "鏡を見ないように伝える。",
+        "judgment": "誤答",
+        "explanation": "誤り。鏡を見ないよう求めるだけでは、本人の外見変化に対するつらさを支えにくい。"
+      },
+      {
+        "number": "2",
+        "text": "スキンヘッドのよさを伝える。",
+        "judgment": "誤答",
+        "explanation": "誤り。本人の悲しみに先立って外見のよさを説くと、気持ちを受け止めた援助にならない。"
+      },
+      {
+        "number": "3",
+        "text": "容姿補整の情報提供をする。",
+        "judgment": "正答",
+        "explanation": "正しい。本人の希望を聞きながら、外見変化に対する支援の選択肢を示す。"
+      },
+      {
+        "number": "4",
+        "text": "眉毛やまつ毛も抜けることを情報提供する。",
+        "judgment": "誤答",
+        "explanation": "誤り。眉毛・まつ毛の脱毛に関する情報が必要なことはあるが、この場面で最も適切な関わりではない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-B-Q89",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "26B102",
+    "exam_id": "2026-B",
+    "year": 2026,
+    "number": 102,
+    "pdf_page": 24,
+    "kind": "direct",
+    "topic": "検査・散瞳",
+    "title": "散瞳前の緑内障の確認",
+    "question_summary": "眼底検査の前後に行う看護で適切なものを選ぶ。",
+    "official_answer": "1",
+    "answer_summary": "1：緑内障の既往を確認する",
+    "explanation": "散瞳前に眼疾患の既往、薬剤の適否等を確認し医師へ共有する。狭隅角などでは急性閉塞隅角発作の危険を考える。",
+    "incorrect_points": [
+      "散瞳は効き始めるまで時間を要するので、検査直前の投与だけで準備が整うとはしない。",
+      "一律に1時間後から運転できるとは説明しない。"
+    ],
+    "clinical_note": "すべての緑内障患者が永久に散瞳禁忌という意味ではない。隅角・病型・治療歴と薬剤添付文書に基づき医師が判断する。",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=35"
+    ],
+    "verification": "official_pdf",
+    "question_text": "眼底検査を受ける患者の看護について、適切なのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "検査前に緑内障の有無を確認する。",
+        "judgment": "正答",
+        "explanation": "正しい。散瞳に関連する注意点として、緑内障の既往等を確認する。"
+      },
+      {
+        "number": "2",
+        "text": "散瞳薬は検査直前に点眼する。",
+        "judgment": "誤答",
+        "explanation": "誤り。散瞳には時間が必要で、直前に点眼すればよいとはしない。"
+      },
+      {
+        "number": "3",
+        "text": "室内を明るくする。",
+        "judgment": "誤答",
+        "explanation": "誤り。眼底検査の説明で室内を明るくするという選択肢は適切ではない。"
+      },
+      {
+        "number": "4",
+        "text": "検査後1時間で車の運転は可能と説明する。",
+        "judgment": "誤答",
+        "explanation": "誤り。1時間で必ず運転可能とは説明しない。散瞳等の影響の回復と医師の指示に従う。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-B-Q102",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "26B103",
+    "exam_id": "2026-B",
+    "year": 2026,
+    "number": 103,
+    "pdf_page": 24,
+    "kind": "direct",
+    "topic": "流行性角結膜炎",
+    "title": "流行性角結膜炎と感染対策",
+    "question_summary": "流行性角結膜炎の特徴から正しいものを選ぶ。",
+    "official_answer": "4",
+    "answer_summary": "4：眼脂が多くなることがある",
+    "explanation": "主な原因はアデノウイルス。眼脂・涙液が付いた手や物品を介する接触感染に注意する。",
+    "incorrect_points": [
+      "エンテロウイルスによる急性出血性結膜炎と区別する。",
+      "潜伏期は一般に約1～2週間で、1～2日と単純にしない。",
+      "タオルや点眼容器等の共用を避け、手指衛生と環境整備を行う。"
+    ],
+    "clinical_note": "",
+    "references": [
+      "https://www.nichigan.or.jp/public/disease/name.html?pdid=14"
+    ],
+    "verification": "official_pdf",
+    "question_text": "流行性角結膜炎について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "エンテロウイルスの感染によって起こる。",
+        "judgment": "誤答",
+        "explanation": "誤り。流行性角結膜炎の原因はアデノウイルス。急性出血性結膜炎の原因との区別が必要。"
+      },
+      {
+        "number": "2",
+        "text": "潜伏期間は1～2日である。",
+        "judgment": "誤答",
+        "explanation": "誤り。1〜2日という潜伏期間は適切ではない。"
+      },
+      {
+        "number": "3",
+        "text": "接触感染はしない。",
+        "judgment": "誤答",
+        "explanation": "誤り。接触を介して感染する。手指や器具などを介した感染対策が重要。"
+      },
+      {
+        "number": "4",
+        "text": "多量の眼脂がみられる。",
+        "judgment": "正答",
+        "explanation": "正しい。眼脂が多くみられ、充血等を伴う。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2026-B-Q103",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  },
+  {
+    "id": "22A51",
+    "exam_id": "2022-A",
+    "year": 2022,
+    "number": 51,
+    "pdf_page": 14,
+    "kind": "related",
+    "topic": "睡眠・眼球運動",
+    "title": "レム睡眠と急速眼球運動",
+    "question_summary": "ノンレム睡眠の説明で正しいものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：大脳を休ませる役割",
+    "explanation": "眼との関連は急速眼球運動で、これはレム睡眠に特徴的。問題全体は睡眠生理であり、眼科の直接問題には数えない。",
+    "incorrect_points": [
+      "ノンレム睡眠に急速眼球運動を当てはめない。",
+      "筋緊張はレム睡眠で著しく低下する。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_pdf",
+    "question_text": "ノンレム睡眠について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "急速眼球運動を伴う。",
+        "judgment": "誤答",
+        "explanation": "急速眼球運動はレム睡眠の特徴。ノンレム睡眠では通常みられない。"
+      },
+      {
+        "number": "2",
+        "text": "大脳を休ませる役割がある。",
+        "judgment": "正答",
+        "explanation": "ノンレム睡眠は大脳の活動を休ませる役割をもつ。"
+      },
+      {
+        "number": "3",
+        "text": "夢を見ていることが多い。",
+        "judgment": "誤答",
+        "explanation": "夢の体験はレム睡眠と強く関連する。ノンレム睡眠で夢が全くないという意味ではない。"
+      },
+      {
+        "number": "4",
+        "text": "筋の緊張は、レム睡眠中に比べて低下している。",
+        "judgment": "誤答",
+        "explanation": "骨格筋の筋緊張が著しく低下するのはレム睡眠。ノンレム睡眠のほうが低下するとする比較が逆。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2022-A-Q51",
+    "exam_type": "准看護師試験",
+    "paper_code": "A"
+  },
+  {
+    "id": "23B125",
+    "exam_id": "2023-B",
+    "year": 2023,
+    "number": 125,
+    "pdf_page": 28,
+    "kind": "related",
+    "topic": "加齢・周辺感覚",
+    "title": "高齢者の明暗順応という選択肢",
+    "question_summary": "加齢による感覚器の変化から正しいものを選ぶ。",
+    "official_answer": "2",
+    "answer_summary": "2：嗅覚の低下",
+    "explanation": "公式正答は嗅覚低下。眼科関連の誤答肢を直すと、加齢によって明暗順応の機能が高まるのではなく、順応しにくくなる。",
+    "incorrect_points": [
+      "高齢者の移動では急な明るさの変化や段差に配慮する。",
+      "視覚の誤答肢があることだけで、直接眼科の出題数を増やさない。"
+    ],
+    "clinical_note": "",
+    "references": [],
+    "verification": "official_index_answer_mirror_question",
+    "question_text": "加齢による感覚器の変化について、正しいのはどれか。",
+    "choices": [
+      {
+        "number": "1",
+        "text": "明暗順応機能が亢進する。",
+        "judgment": "誤答",
+        "explanation": "加齢で明暗順応は低下しやすい。暗い所・明るい所への移動時の見えにくさに配慮する。"
+      },
+      {
+        "number": "2",
+        "text": "嗅覚が低下する。",
+        "judgment": "正答",
+        "explanation": "加齢により嗅覚が低下することがある。ガスや食品の異常などをにおいだけで判断しない工夫も必要。"
+      },
+      {
+        "number": "3",
+        "text": "低音域が聞き取りにくくなる。",
+        "judgment": "誤答",
+        "explanation": "加齢性難聴は一般に高音域から低下しやすい。低音域からという説明が逆。"
+      },
+      {
+        "number": "4",
+        "text": "味覚が鋭くなる。",
+        "judgment": "誤答",
+        "explanation": "加齢では味覚も低下し得る。味覚が鋭くなることを一般的な変化とはしない。"
+      }
+    ],
+    "original_notes": "読み仮名、改行、字間・組版上の空白を整理。括弧・波ダッシュ等の表記を統一し、組合せの連結線は「―」で表記。選択肢の順序と意味は原資料を維持。",
+    "original_verified": "2026-10-16",
+    "legacy_id": "2023-B-Q125",
+    "exam_type": "准看護師試験",
+    "paper_code": "B"
+  }
+]

@@ -1,0 +1,13 @@
+topic,main_questions,main_years,frequent,historical_questions,ids,historical_ids
+水晶体・加齢,5,3,True,0,23A114 / 23B114 / 24A121 / 25A113 / 25B120,
+検査・散瞳,4,3,True,0,24B102 / 25A99 / 25B99 / 26B102,
+点眼・眼軟膏,3,3,True,1,23A108 / 24A99 / 25A98,21A77
+屈折・調節,2,2,True,0,23B106 / 25A5,
+洗眼,2,2,True,0,25B98 / 26A102,
+緑内障,2,2,True,0,23B108 / 24A24,
+加齢黄斑変性,1,1,False,0,26A103,
+流行性角結膜炎,1,1,False,0,26B103,
+白内障手術・安全,1,1,False,1,24B101,22A106
+眼疾患総合,1,1,False,0,26B19,
+網膜剥離,1,1,False,2,24A98,20K109 / 21A78
+麦粒腫,1,1,False,0,23A106,
