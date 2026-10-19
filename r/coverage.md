@@ -28,7 +28,7 @@
 |第114回|令和7年2月16日|[PDF](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf)（56）|[PDF](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf)（60）|[PDF](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05seitou.pdf)|[ページ](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp250428-03_04_05.html)|
 |第115回|令和8年2月15日|[PDF](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf)（60）|[PDF](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05c_01.pdf)（60）|[PDF](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf)|[ページ](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp260424-03_04_05.html)|
 
-7回とも午前120問・午後120問の計240問、合計1,680問を確認した。欠測はない。第112回には正誤表が公開されている（[正誤表](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05seigo.pdf）。
+7回とも午前120問・午後120問の計240問、合計1,680問を確認した。欠測はない。第112回には正誤表が公開されている（[正誤表](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05seigo.pdf)）。
 
 ## 採点除外等の公式取扱い
 
