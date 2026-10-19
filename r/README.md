@@ -26,9 +26,15 @@
 
 |回次|ファイル|収録問題数|
 |---|---|---:|
+|第109回（2020年）|[kokushi-ganka-109.pdf（約902KB）](download/kokushi-ganka-109.pdf)|17|
+|第110回（2021年）|[kokushi-ganka-110.pdf（約710KB）](download/kokushi-ganka-110.pdf)|10|
+|第111回（2022年）|[kokushi-ganka-111.pdf（約595KB）](download/kokushi-ganka-111.pdf)|8|
+|第112回（2023年）|[kokushi-ganka-112.pdf（約921KB）](download/kokushi-ganka-112.pdf)|17|
+|第113回（2024年）|[kokushi-ganka-113.pdf（約751KB）](download/kokushi-ganka-113.pdf)|11|
+|第114回（2025年）|[kokushi-ganka-114.pdf（約704KB）](download/kokushi-ganka-114.pdf)|9|
 |第115回（2026年）|[kokushi-ganka-115.pdf（約908KB）](download/kokushi-ganka-115.pdf)|15|
 
-他の回次のPDFは順次追加します。生成方法：`python3 scripts/build_r_pdf.py 回次`。
+第109～115回の7回分を掲載しています。サイトの問題データを更新したときは同じ方法で再生成します。
 
 <a id="round-index"></a>
 
