@@ -1,0 +1,325 @@
+[
+ {
+  "id": "109",
+  "exam_type": "看護師国家試験",
+  "round": 109,
+  "year": 2020,
+  "date_jp": "令和2年2月16日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp200414-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp200414-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp200414-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp200414-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp200414-05seitou.pdf",
+  "question_pages": {
+   "A": 56,
+   "B": 56
+  },
+  "sha256_16": {
+   "A": "9cbd3f0aa722c600",
+   "B": "a824f6cbfe092958",
+   "answer": "1f7f57d417d40b88"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [
+   {
+    "id": "109A11",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当ではないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_am11.pdf"
+   },
+   {
+    "id": "109A53",
+    "handling": "複数の選択肢を正解として採点する。",
+    "reason": "複数の正解があるため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_am53.pdf"
+   },
+   {
+    "id": "109A85",
+    "handling": "３通りの解答を正解として採点する。",
+    "reason": "３つの選択肢が正解であるため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_am85.pdf"
+   },
+   {
+    "id": "109B18",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当ではないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2020/siken03_04_05/dl/kangoshi_pm18.pdf"
+   }
+  ],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。"
+ },
+ {
+  "id": "110",
+  "exam_type": "看護師国家試験",
+  "round": 110,
+  "year": 2021,
+  "date_jp": "令和3年2月14日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp210416-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp210416-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp210416-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp210416-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp210416-05seitou.pdf",
+  "question_pages": {
+   "A": 56,
+   "B": 60
+  },
+  "sha256_16": {
+   "A": "2219877110eab2b0",
+   "B": "bd58b97c25d18785",
+   "answer": "df870b9a9a473326"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [
+   {
+    "id": "110A86",
+    "handling": "（画像PDFのため本文抽出不可。原文は通知PDFを参照）",
+    "reason": "",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2021/siken03_04_05/dl/kangoshi_am86.pdf"
+   },
+   {
+    "id": "110B114",
+    "handling": "（画像PDFのため本文抽出不可。原文は通知PDFを参照）",
+    "reason": "",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2021/siken03_04_05/dl/kangoshi_pm114.pdf"
+   }
+  ],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。"
+ },
+ {
+  "id": "111",
+  "exam_type": "看護師国家試験",
+  "round": 111,
+  "year": 2022,
+  "date_jp": "令和4年2月13日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp220421-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp220421-05seitou.pdf",
+  "question_pages": {
+   "A": 60,
+   "B": 60
+  },
+  "sha256_16": {
+   "A": "e853d7a86ef06ef4",
+   "B": "fd5074d12571f2dd",
+   "answer": "b395c7eddb7820da"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [
+   {
+    "id": "111A01",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当でないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am01.pdf"
+   },
+   {
+    "id": "111A06",
+    "handling": "（画像PDFのため本文抽出不可。原文は通知PDFを参照）",
+    "reason": "",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am06.pdf"
+   },
+   {
+    "id": "111A34",
+    "handling": "複数の選択肢を正解として採点する。",
+    "reason": "設問が不明確で複数の選択肢が正解と考えられるため。第１１１回看護師国家試験における採点除外等の取扱いをした問題について午前34問",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_am34.pdf"
+   },
+   {
+    "id": "111B07",
+    "handling": "（画像PDFのため本文抽出不可。原文は通知PDFを参照）",
+    "reason": "",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2022/siken03_04_05/dl/kangoshi_pm07.pdf"
+   }
+  ],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。"
+ },
+ {
+  "id": "112",
+  "exam_type": "看護師国家試験",
+  "round": 112,
+  "year": 2023,
+  "date_jp": "令和5年2月12日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp230524-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05seitou.pdf",
+  "question_pages": {
+   "A": 56,
+   "B": 60
+  },
+  "sha256_16": {
+   "A": "884acfda334c2981",
+   "B": "137d583931c6ae6a",
+   "answer": "c42b7b61fe9b7fd3"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [
+   {
+    "id": "112B35",
+    "handling": "採点対象から除外する。（別紙）第１１２回看護師国家試験における採点除外等の取扱いをした問題について",
+    "reason": "設問が不十分で正解が得られないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2023/siken03_04_05/dl/kangoshi_pm35.pdf"
+   },
+   {
+    "id": "112B95",
+    "handling": "複数の選択肢を正解として採点する。",
+    "reason": "設問が不明確で複数の選択肢が正解と考えられるため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2023/siken03_04_05/dl/kangoshi_pm95.pdf"
+   }
+  ],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。",
+  "errata_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp230524-05seigo.pdf"
+ },
+ {
+  "id": "113",
+  "exam_type": "看護師国家試験",
+  "round": 113,
+  "year": 2024,
+  "date_jp": "令和6年2月11日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp240424-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp240424-05seitou.pdf",
+  "question_pages": {
+   "A": 60,
+   "B": 60
+  },
+  "sha256_16": {
+   "A": "52c63fdf1c570599",
+   "B": "e50d5bb3161bfde7",
+   "answer": "76b78435ee09e92e"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [
+   {
+    "id": "113A05",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当でないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_am5.pdf"
+   },
+   {
+    "id": "113A23",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当でないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_am23.pdf"
+   },
+   {
+    "id": "113A25",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当でないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_am25.pdf"
+   },
+   {
+    "id": "113B02",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当でないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_pm2.pdf"
+   },
+   {
+    "id": "113B11",
+    "handling": "正解した受験者については採点対象に含め、不正解の受験者については採点対象から除外する。",
+    "reason": "問題として適切であるが、必修問題としては妥当でないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_pm11.pdf"
+   },
+   {
+    "id": "113B21",
+    "handling": "（",
+    "reason": "設問が不十分で正解が得られないため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2024/siken03_04_05/dl/kangoshi_pm21.pdf"
+   }
+  ],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。"
+ },
+ {
+  "id": "114",
+  "exam_type": "看護師国家試験",
+  "round": 114,
+  "year": 2025,
+  "date_jp": "令和7年2月16日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp250428-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp250428-05seitou.pdf",
+  "question_pages": {
+   "A": 56,
+   "B": 60
+  },
+  "sha256_16": {
+   "A": "03733e97bcbc54eb",
+   "B": "3c55c7bc2b88612a",
+   "answer": "706f6fe6ab34e984"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。"
+ },
+ {
+  "id": "115",
+  "exam_type": "看護師国家試験",
+  "round": 115,
+  "year": 2026,
+  "date_jp": "令和8年2月15日",
+  "official_page": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/tp260424-03_04_05.html",
+  "question_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_01.pdf",
+   "B": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05c_01.pdf"
+  },
+  "appendix_pdf": {
+   "A": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05a_02.pdf"
+  },
+  "answer_pdf": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/topics/dl/tp260424-05seitou.pdf",
+  "question_pages": {
+   "A": 60,
+   "B": 60
+  },
+  "sha256_16": {
+   "A": "24ee4a497b9d4b04",
+   "B": "077b98c37e858176",
+   "answer": "cd006ca5e9ef8d32"
+  },
+  "retrieved": "2026-10-19",
+  "special_handling": [
+   {
+    "id": "115A32",
+    "handling": "採点対象から除外する。",
+    "reason": "設問文が不明瞭であるため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/dl/kangoshi_am32.pdf"
+   },
+   {
+    "id": "115A80",
+    "handling": "複数の選択肢を正解として採点する。",
+    "reason": "複数の正解があるため。",
+    "url": "https://www.mhlw.go.jp/general/sikaku/successlist/2026/siken03_04_05/dl/kangoshi_am80.pdf"
+   }
+  ],
+  "license": "厚生労働省ホームページ利用規約（公共データ利用規約第1.0版）に基づき、出典を明示し、読み仮名・改行等を整理したうえで学習用解説を追加した編集物。"
+ }
+]

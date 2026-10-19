@@ -1,0 +1,5453 @@
+[
+ {
+  "id": "109A09",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 9,
+  "year": 2020,
+  "category": "必修",
+  "kind": "related",
+  "title": "死の三徴候（角膜混濁）",
+  "topic": "瞳孔所見と死の三徴候",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "死の三徴候に含まれるのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "筋の弛緩",
+    "judgment": "誤答",
+    "explanation": "筋の弛緩は三徴候ではない（死後硬直の前段階）。"
+   },
+   {
+    "number": "2",
+    "text": "角膜の混濁",
+    "judgment": "誤答",
+    "explanation": "角膜混濁は死後の変化で、死の判定の三徴候ではない。"
+   },
+   {
+    "number": "3",
+    "text": "呼吸の停止",
+    "judgment": "正答",
+    "explanation": "呼吸停止は三徴候の一つ。"
+   },
+   {
+    "number": "4",
+    "text": "呼名反応の消失",
+    "judgment": "誤答",
+    "explanation": "呼名反応の消失は意識障害でも起こる。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "死の三徴候は心停止・呼吸停止・瞳孔散大（対光反射消失）。角膜混濁は死後数時間で現れる死体現象。",
+  "explanation": "瞳孔散大と対光反射の消失は脳幹機能停止の指標として三徴候に含まれる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "呼吸の停止"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109A25",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 25,
+  "year": 2020,
+  "category": "必修",
+  "kind": "weak",
+  "title": "有訴者の症状（目のかすみ）",
+  "topic": "統計にみる眼症状",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "平成28年（2016年）の国民生活基礎調査で、男性の有訴者の症状が最も多いのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "腰痛",
+    "judgment": "正答",
+    "explanation": "男性は腰痛が最多。"
+   },
+   {
+    "number": "2",
+    "text": "もの忘れ",
+    "judgment": "誤答",
+    "explanation": "もの忘れは上位ではない。"
+   },
+   {
+    "number": "3",
+    "text": "体がだるい",
+    "judgment": "誤答",
+    "explanation": "体がだるいは上位の一つ。"
+   },
+   {
+    "number": "4",
+    "text": "目のかすみ",
+    "judgment": "誤答",
+    "explanation": "目のかすみは上位の訴えだが最多ではない。"
+   },
+   {
+    "number": "5",
+    "text": "手足の関節が痛む",
+    "judgment": "誤答",
+    "explanation": "手足の関節が痛むは上位の一つ。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 14,
+  "question_summary": "2016年国民生活基礎調査で男性の有訴者の症状は腰痛が最多。目のかすみも上位の訴え。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "腰痛"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109A40",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 40,
+  "year": 2020,
+  "category": "一般",
+  "kind": "related",
+  "title": "壮年期の身体的特徴（明暗順応）",
+  "topic": "水晶体・加齢（老視）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "壮年期の身体的特徴で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "運動耐久力の向上",
+    "judgment": "誤答",
+    "explanation": "運動耐久力は低下する。"
+   },
+   {
+    "number": "2",
+    "text": "明暗順応の低下",
+    "judgment": "正答",
+    "explanation": "瞳孔径の縮小と網膜機能の変化で、暗い場所に慣れるのに時間がかかる。"
+   },
+   {
+    "number": "3",
+    "text": "持久力の向上",
+    "judgment": "誤答",
+    "explanation": "持久力は低下する。"
+   },
+   {
+    "number": "4",
+    "text": "臓器の萎縮",
+    "judgment": "誤答",
+    "explanation": "臓器の萎縮は老年期の変化。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 19,
+  "question_summary": "壮年期には明暗順応が低下し、老視も始まる。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "明暗順応の低下"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109A46",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 46,
+  "year": 2020,
+  "category": "一般",
+  "kind": "related",
+  "title": "細菌性髄膜炎の症状（羞明）",
+  "topic": "髄膜刺激症状と羞明",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "細菌性髄膜炎bacterial meningitis の症状はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "羞明",
+    "judgment": "正答",
+    "explanation": "髄膜刺激により光に過敏になり羞明が出る。部屋を暗くして刺激を減らす。"
+   },
+   {
+    "number": "2",
+    "text": "羽ばたき振戦",
+    "judgment": "誤答",
+    "explanation": "羽ばたき振戦は肝性脳症。"
+   },
+   {
+    "number": "3",
+    "text": "Raynaud〈レイノー〉現象",
+    "judgment": "誤答",
+    "explanation": "Raynaud現象は寒冷刺激での手指の蒼白化で、膠原病などでみられる。"
+   },
+   {
+    "number": "4",
+    "text": "Blumberg〈ブルンベルグ〉徴候",
+    "judgment": "誤答",
+    "explanation": "Blumberg徴候は腹膜炎の反跳痛。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 20,
+  "question_summary": "細菌性髄膜炎では頭痛・発熱・嘔吐に加え、項部硬直や羞明（光をまぶしく感じる）がみられる。",
+  "explanation": "羞明は髄膜炎のほか、角膜炎、虹彩炎、白内障、片頭痛でもみられる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "羞明"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109A76",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 76,
+  "year": 2020,
+  "category": "一般",
+  "kind": "direct",
+  "title": "眼球に入る光の量の調節",
+  "topic": "眼の構造・機能",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "眼球に入る光の量を調節するのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "角膜",
+    "judgment": "誤答",
+    "explanation": "角膜は最も強い屈折力をもつ透明な組織で、光量は調節しない。"
+   },
+   {
+    "number": "2",
+    "text": "虹彩",
+    "judgment": "正答",
+    "explanation": "虹彩の筋（瞳孔括約筋＝副交感、瞳孔散大筋＝交感）が瞳孔径を変えて光量を調節する。"
+   },
+   {
+    "number": "3",
+    "text": "瞳孔",
+    "judgment": "誤答",
+    "explanation": "瞳孔は虹彩の中央の穴で、大きさを変えるのは虹彩の筋。"
+   },
+   {
+    "number": "4",
+    "text": "水晶体",
+    "judgment": "誤答",
+    "explanation": "水晶体はピント（調節）を担う。"
+   },
+   {
+    "number": "5",
+    "text": "毛様体",
+    "judgment": "誤答",
+    "explanation": "毛様体は水晶体の厚みを変える調節と房水の産生を担う。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 29,
+  "question_summary": "眼に入る光の量は虹彩の瞳孔括約筋と瞳孔散大筋が瞳孔の大きさを変えて調節する。",
+  "explanation": "「光量＝虹彩」「ピント＝水晶体・毛様体」「屈折の主役＝角膜」。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "虹彩"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109A79",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 79,
+  "year": 2020,
+  "category": "一般",
+  "kind": "weak",
+  "title": "重症筋無力症",
+  "topic": "重症筋無力症と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "重症筋無力症myasthenia gravis で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "男性に多い。",
+    "judgment": "誤答",
+    "explanation": "女性に多い（若年発症）。"
+   },
+   {
+    "number": "2",
+    "text": "心肥大を生じる。",
+    "judgment": "誤答",
+    "explanation": "心肥大は生じない。"
+   },
+   {
+    "number": "3",
+    "text": "朝に症状が強くなる。",
+    "judgment": "誤答",
+    "explanation": "症状は夕方に強くなる（易疲労性、日内変動）。"
+   },
+   {
+    "number": "4",
+    "text": "自己免疫疾患である。",
+    "judgment": "正答",
+    "explanation": "抗アセチルコリン受容体抗体による自己免疫疾患。"
+   },
+   {
+    "number": "5",
+    "text": "70 歳以上に好発する。",
+    "judgment": "誤答",
+    "explanation": "20～40歳代の女性と50歳以降の男性に好発し、70歳以上に限らない。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 30,
+  "question_summary": "重症筋無力症はアセチルコリン受容体に対する自己抗体による自己免疫疾患で、眼瞼下垂・複視が初発症状として多く、夕方に増悪する。",
+  "explanation": "眼筋型では眼瞼下垂と複視が主症状。眼科を初診することも多く、眼科でも重要な疾患。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "自己免疫疾患である。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109A81",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 81,
+  "year": 2020,
+  "category": "一般",
+  "kind": "related",
+  "title": "交感神経の作用（散瞳）",
+  "topic": "自律神経と瞳孔",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "交感神経の作用はどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "散瞳",
+    "judgment": "正答",
+    "explanation": "交感神経は瞳孔散大筋を収縮させ散瞳させる。"
+   },
+   {
+    "number": "2",
+    "text": "精神性発汗",
+    "judgment": "正答",
+    "explanation": "精神性発汗（手掌・足底）は交感神経の作用。"
+   },
+   {
+    "number": "3",
+    "text": "腸蠕動の促進",
+    "judgment": "誤答",
+    "explanation": "腸蠕動は副交感神経が促進する。"
+   },
+   {
+    "number": "4",
+    "text": "排尿筋の収縮",
+    "judgment": "誤答",
+    "explanation": "排尿筋の収縮は副交感神経。"
+   },
+   {
+    "number": "5",
+    "text": "グリコーゲン合成の促進",
+    "judgment": "誤答",
+    "explanation": "グリコーゲン合成はインスリン・副交感優位で進む。交感神経は分解を促す。"
+   }
+  ],
+  "official_answer": [
+   "1",
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 30,
+  "question_summary": "交感神経の作用は散瞳、精神性発汗、気管支拡張、心拍増加、消化管運動の抑制。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "散瞳",
+   "精神性発汗"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "109A94",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "A",
+  "number": 94,
+  "year": 2020,
+  "category": "状況設定",
+  "kind": "related",
+  "title": "糖尿病患者のアセスメント（視力低下・緑内障）",
+  "topic": "糖尿病網膜症",
+  "case_id": "109A094-096",
+  "case_text": "A さん（56歳、男性、会社員）は、デスクワークが多い仕事をしている。40歳時の会社の健康診断で2型糖尿病と診断され、紹介されたクリニックで血糖降下薬を処方されて内服を継続していた。50歳ころから視力の低下と持続性蛋白尿を指摘され、腎臓内科を受診し食事指導を受けた。しかし、仕事が忙しく食事指導の内容を守れていなかった。1年前から、足のしびれが出現するようになった。",
+  "question_text": "A さんの現在の状況のアセスメントで適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "緑内障glaucoma が疑われる。",
+    "judgment": "誤答",
+    "explanation": "糖尿病患者の視力低下はまず糖尿病網膜症（黄斑浮腫、硝子体出血）を疑う。緑内障が疑われる根拠は乏しい。"
+   },
+   {
+    "number": "2",
+    "text": "運動療法が必要である。",
+    "judgment": "誤答",
+    "explanation": "腎症が進行した状態で運動療法の積極的な導入は適さず、状況のアセスメントとしても不適切。"
+   },
+   {
+    "number": "3",
+    "text": "糖尿病性神経障害が疑われる。",
+    "judgment": "正答",
+    "explanation": "足のしびれは糖尿病性神経障害の典型的症状。"
+   },
+   {
+    "number": "4",
+    "text": "高蛋白質の食事摂取が必要である。",
+    "judgment": "誤答",
+    "explanation": "腎症では蛋白質は制限する。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 36,
+  "question_summary": "長期の2型糖尿病で視力低下・持続性蛋白尿・足のしびれがそろえば、網膜症・腎症・神経障害の三大合併症を疑う。視力低下は緑内障ではなく糖尿病網膜症を考える。",
+  "explanation": "糖尿病網膜症は進行しても自覚症状が乏しく、視力低下を自覚したときには進行していることが多い。腎症の進行と網膜症の進行は並行しやすい。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "糖尿病性神経障害が疑われる。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B08",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 8,
+  "year": 2020,
+  "category": "必修",
+  "kind": "related",
+  "title": "老年期の身体的変化（水晶体）",
+  "topic": "水晶体・加齢（老視）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "老年期にみられる身体的な変化はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "血管抵抗の増大",
+    "judgment": "正答",
+    "explanation": "動脈硬化で血管抵抗が増大し収縮期血圧が上がる。"
+   },
+   {
+    "number": "2",
+    "text": "消化管の運動の亢進",
+    "judgment": "誤答",
+    "explanation": "消化管運動は低下する。"
+   },
+   {
+    "number": "3",
+    "text": "水晶体の弾性の増大",
+    "judgment": "誤答",
+    "explanation": "水晶体の弾性は低下する。増大ではない。"
+   },
+   {
+    "number": "4",
+    "text": "メラトニン分泌量の増加",
+    "judgment": "誤答",
+    "explanation": "メラトニン分泌は減少し、睡眠が浅くなる。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 8,
+  "question_summary": "老年期には血管抵抗が増大する。水晶体の弾性は低下し老視になる。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "血管抵抗の増大"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B12",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 12,
+  "year": 2020,
+  "category": "必修",
+  "kind": "weak",
+  "title": "三叉神経の機能（視覚・眼球運動の選択肢）",
+  "topic": "脳神経と眼（対光反射・眼球運動）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "三叉神経の機能はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視覚",
+    "judgment": "誤答",
+    "explanation": "視覚は視神経（第Ⅱ脳神経）。"
+   },
+   {
+    "number": "2",
+    "text": "眼球の運動",
+    "judgment": "誤答",
+    "explanation": "眼球運動は動眼・滑車・外転神経。"
+   },
+   {
+    "number": "3",
+    "text": "顔面の知覚",
+    "judgment": "正答",
+    "explanation": "三叉神経は顔面の知覚神経で、角膜反射の求心路でもある。"
+   },
+   {
+    "number": "4",
+    "text": "表情筋の運動",
+    "judgment": "誤答",
+    "explanation": "表情筋の運動は顔面神経。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "三叉神経は顔面と角膜の知覚、咀嚼筋の運動を担う。視覚は視神経、眼球運動は動眼・滑車・外転神経。",
+  "explanation": "三叉神経第1枝（眼神経）は角膜・上眼瞼の知覚を担い、障害で角膜反射が低下し角膜障害が起こりやすくなる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "顔面の知覚"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B51",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 51,
+  "year": 2020,
+  "category": "一般",
+  "kind": "direct",
+  "title": "網膜剝離・硝子体手術後の体位",
+  "topic": "網膜剝離",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A さん（59歳、女性）は裂孔原性網膜剝離と診断され、硝子体手術の際に硝子体腔中にガス注入を受けた。手術直後、病室での体位で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "坐位",
+    "judgment": "誤答",
+    "explanation": "坐位ではガスが上方（前方）へ移動し、後方の網膜を押さえられない。"
+   },
+   {
+    "number": "2",
+    "text": "腹臥位",
+    "judgment": "正答",
+    "explanation": "ガスは上に浮くため、うつむくことで眼の後方の網膜（黄斑部など）にガスが当たり網膜を復位位置に保つ。"
+   },
+   {
+    "number": "3",
+    "text": "仰臥位",
+    "judgment": "誤答",
+    "explanation": "仰臥位ではガスが水晶体側に当たり、白内障や眼圧上昇の原因になる。"
+   },
+   {
+    "number": "4",
+    "text": "側臥位",
+    "judgment": "誤答",
+    "explanation": "側臥位は裂孔の位置によっては指示されるが、「手術直後の基本」としては腹臥位。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 19,
+  "question_summary": "硝子体腔にガスを注入した網膜剝離手術の直後は、ガスの浮力で裂孔を内側から押さえるため腹臥位（うつむき姿勢）をとる。",
+  "explanation": "体位は裂孔の位置により医師が指示する。ガスが吸収されるまで（数日～数週）は航空機搭乗や高地への移動を避ける（気圧低下でガスが膨張し眼圧が上昇する）。",
+  "incorrect_points": "うつむき姿勢は頸部・腰部の苦痛が強いため、専用の枕や休憩の工夫、精神的支援が看護の要点。",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "腹臥位"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B52",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 52,
+  "year": 2020,
+  "category": "一般",
+  "kind": "direct",
+  "title": "散瞳薬を用いる眼底検査の看護",
+  "topic": "検査・散瞳",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "散瞳薬を用いて眼底検査を受ける成人患者への対応で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "検査中は室内を明るくする。",
+    "judgment": "誤答",
+    "explanation": "散瞳を保ち眼底を見やすくするため室内は暗くする。"
+   },
+   {
+    "number": "2",
+    "text": "散瞳薬の点眼は検査直前に行う。",
+    "judgment": "誤答",
+    "explanation": "散瞳薬は効果発現に20～30分かかるため、検査直前ではなく前もって点眼する。"
+   },
+   {
+    "number": "3",
+    "text": "検査前に緑内障glaucoma の有無を確認する。",
+    "judgment": "正答",
+    "explanation": "散瞳により隅角が閉塞して急性緑内障発作を起こす危険があるため、閉塞隅角緑内障の有無を確認する。"
+   },
+   {
+    "number": "4",
+    "text": "検査後1時間で自動車の運転が可能になると説明する。",
+    "judgment": "誤答",
+    "explanation": "散瞳と調節麻痺は4～5時間以上続くため、1時間で運転できるとは説明しない。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 19,
+  "question_summary": "散瞳薬を使う眼底検査では、検査前に閉塞隅角緑内障の有無を確認し、薬は20～30分前に点眼し、暗い室内で検査し、検査後数時間は運転を避ける。",
+  "explanation": "第114回午後52と同じ主題で繰り返し出題されている。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "検査前に緑内障glaucoma の有無を確認する。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B75",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 75,
+  "year": 2020,
+  "category": "一般",
+  "kind": "direct",
+  "title": "視覚障害者への避難所での対応",
+  "topic": "視覚障害者の看護",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A さん（55歳、女性）は、1人暮らし。A さんには視覚障害があり、光と輪郭がぼんやりわかる程度である。食事の準備や室内の移動は自立している。震度6の地震が発生した。A さんは、避難所に指定されたバリアフリーの公民館に近所のB さんと避難した。公民館には複数の部屋がある。避難所の開設初日に医療救護班として看護師が派遣された。避難所生活を開始するA さんへの看護師の対応で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "B さんをA さんの介助者とする。",
+    "judgment": "誤答",
+    "explanation": "近所の人を介助者に指定するのは本人の意思と相手の負担を無視している。"
+   },
+   {
+    "number": "2",
+    "text": "A さんの肩に触れてから声をかける。",
+    "judgment": "誤答",
+    "explanation": "先に声をかけて自分が誰かを伝えてから、必要に応じて触れる。いきなり触れると驚かせる。"
+   },
+   {
+    "number": "3",
+    "text": "A さんにはトイレに近い部屋を割りあてる。",
+    "judgment": "正答",
+    "explanation": "トイレに近い部屋は移動距離と危険を減らし、自立した生活を支える。"
+   },
+   {
+    "number": "4",
+    "text": "移動するときはA さんの手を引っ張って誘導する。",
+    "judgment": "誤答",
+    "explanation": "手を引っ張らず、介助者の肘や肩を持ってもらい半歩前を歩く。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 27,
+  "question_summary": "視覚障害者には声をかけてから触れ、手を引っ張らず肘や肩につかまってもらって誘導し、トイレに近い分かりやすい場所を確保する。",
+  "explanation": "光覚弁程度の視覚障害でも慣れた環境では自立できる。避難所では環境が変わるため、部屋の配置や動線を口頭で具体的に説明し、物の位置を変えない。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "A さんにはトイレに近い部屋を割りあてる。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B83",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 83,
+  "year": 2020,
+  "category": "一般",
+  "kind": "direct",
+  "title": "加齢黄斑変性の症状",
+  "topic": "加齢黄斑変性",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "加齢黄斑変性の症状はage-related macular degeneration どれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "羞明",
+    "judgment": "誤答",
+    "explanation": "羞明は白内障や虹彩炎で目立つ。"
+   },
+   {
+    "number": "2",
+    "text": "霧視",
+    "judgment": "誤答",
+    "explanation": "霧視は白内障などで起こる。"
+   },
+   {
+    "number": "3",
+    "text": "飛蚊症",
+    "judgment": "誤答",
+    "explanation": "飛蚊症は硝子体の混濁や網膜裂孔・剝離の前兆。"
+   },
+   {
+    "number": "4",
+    "text": "眼圧の亢進",
+    "judgment": "誤答",
+    "explanation": "眼圧の亢進は緑内障。"
+   },
+   {
+    "number": "5",
+    "text": "中心視野の欠損",
+    "judgment": "正答",
+    "explanation": "黄斑部の障害で見ようとする中心が見えなくなる。周辺視野は保たれる。"
+   }
+  ],
+  "official_answer": [
+   "5"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 30,
+  "question_summary": "加齢黄斑変性は網膜の中心（黄斑）が障害され、変視症（ゆがみ）と中心視野の欠損（中心暗点）を起こす。",
+  "explanation": "Amsler（アムスラー）チャートで格子のゆがみを自己チェックする。滲出型には抗VEGF薬の硝子体注射が行われる。禁煙が予防に重要。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "中心視野の欠損"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B92",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 92,
+  "year": 2020,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "甲状腺全摘後の症状（目が閉じにくい）",
+  "topic": "顔面神経と眼",
+  "case_id": "109B091-093",
+  "case_text": "A さん（35歳、女性）は、昨年結婚し、夫（50歳）と2人暮らし。最近2か月で5kgの体重減少、首の違和感と息苦しさ、心悸亢進、不眠のため内科を受診した。触診で甲状腺の腫脹、超音波検査で甲状腺内に数か所の石灰化が認められたため、甲状腺腫瘍の疑いで大学病院に紹介された。嗜好品：飲酒はビール700ml/日を週5日。趣味：ジョギングとヨガ。",
+  "question_text": "検査の結果、A さんは甲状腺乳頭癌であり、甲状papillary adenocarcinoma of the thyroid 腺全摘出術を受けることになった。A さんは、手術前オリエンテーションの際｢手術後にどんな症状が起こりやすいのか教えてください｣と話した。この時のA さんへの看護師の説明で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "｢手がつる感じがあります｣",
+    "judgment": "正答",
+    "explanation": "副甲状腺が摘出・損傷されると低カルシウム血症でテタニー（手指のしびれ、手がつる）が起こる。"
+   },
+   {
+    "number": "2",
+    "text": "｢目が閉じにくくなります｣",
+    "judgment": "誤答",
+    "explanation": "閉眼困難は顔面神経麻痺の症状。甲状腺手術の合併症ではない。"
+   },
+   {
+    "number": "3",
+    "text": "｢声が出なくなります｣",
+    "judgment": "誤答",
+    "explanation": "反回神経麻痺では嗄声になるが、声が全く出なくなるとは限らない（両側麻痺では呼吸困難）。"
+   },
+   {
+    "number": "4",
+    "text": "｢唾液が多くなります｣",
+    "judgment": "誤答",
+    "explanation": "唾液分泌は変わらない。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 34,
+  "question_summary": "甲状腺全摘後に起こりやすいのは副甲状腺機能低下によるテタニー（手指のしびれ・つり）と反回神経麻痺による嗄声。目が閉じにくくなるのは顔面神経麻痺の症状で甲状腺手術では起こりにくい。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "｢手がつる感じがあります｣"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B94",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 94,
+  "year": 2020,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "閉塞性黄疸（眼球結膜の黄染）",
+  "topic": "黄疸と眼球結膜",
+  "case_id": "109B094-096",
+  "case_text": "A さん（56歳、女性、会社員）は、夕食の1時間後から腹痛・嘔吐が出現し救急外来を受診した。2か月前から自然に消失する右季肋部痛を繰り返していた。身体所見：身長155cm、体重82kg。体温38.2℃、呼吸数16/分、脈拍110/分、血圧126/70mmHg。眼球結膜に黄染あり。右季肋部に圧痛あり。意識清明。検査所見：白血球14,960/μL、Hb 12.8g/dL。総ビリルビン8.7mg/dL、直接ビリルビン7.2mg/dL、アミラーゼ121IU/L、リパーゼ45IU/L、尿素窒素18.9mg/dL、血清クレアチニン0.98mg/dL。CRP 9.2mg/dL。腹部超音波検査所見：胆囊壁の肥厚、胆囊の腫大、総胆管の拡張、総胆管結石を認めた。",
+  "question_text": "A さんの病態で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "急性胃炎",
+    "judgment": "誤答",
+    "explanation": "急性胃炎では黄疸はない。"
+   },
+   {
+    "number": "2",
+    "text": "急性腎不全",
+    "judgment": "誤答",
+    "explanation": "腎機能は正常。"
+   },
+   {
+    "number": "3",
+    "text": "閉塞性黄疸",
+    "judgment": "正答",
+    "explanation": "総胆管結石による胆汁うっ滞で直接ビリルビンが上昇し、眼球結膜から黄染が現れる。"
+   },
+   {
+    "number": "4",
+    "text": "溶血性貧血",
+    "judgment": "誤答",
+    "explanation": "溶血性貧血では間接ビリルビンが上昇し、Hbは低下する。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 36,
+  "question_summary": "眼球結膜の黄染、直接ビリルビン優位の高ビリルビン血症、総胆管結石と胆管拡張から閉塞性黄疸と判断する。",
+  "explanation": "黄疸は眼球結膜（強膜）に最初に現れる。皮膚より先に気付ける部位として観察する。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "閉塞性黄疸"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "109B115",
+  "exam_type": "看護師国家試験",
+  "exam_id": "109",
+  "round": 109,
+  "session": "B",
+  "number": 115,
+  "year": 2020,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "糖尿病網膜症による視力障害とインスリン自己注射",
+  "topic": "糖尿病網膜症",
+  "case_id": "109B115-117",
+  "case_text": "A さん（75歳、男性）は、妻（70歳）と2人暮らし。2型糖尿病の治療中で、2年前から1日2回朝・夕食前に混合型インスリン注射が開始となった。その後、糖尿病性網膜症による視力障害が進んだため、現在は妻と一緒に単位数や針の確認をし、インスリンの自己注射を実施している。",
+  "question_text": "外来受診時にA さんの妻から外来看護師に「2人で協力してインスリン注射することには慣れてきました。たまには夜に夫とゆっくり和食を食べに行きたいのですが、外出時の注射で気を付けることを教えてほしい」と相談があった。A さんと妻への外来看護師の指導内容で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "｢お店に着いたらすぐに注射を打ちましょう｣",
+    "judgment": "誤答",
+    "explanation": "混合型インスリンは食事の直前に注射する。店に着いてすぐでは食事まで時間が空き低血糖の危険がある。"
+   },
+   {
+    "number": "2",
+    "text": "｢インスリンを常温で持ち運ぶことはできません｣",
+    "judgment": "誤答",
+    "explanation": "使用中のインスリンは常温（室温）で持ち運べる。"
+   },
+   {
+    "number": "3",
+    "text": "｢注射ができる場所をお店の人に確認しましょう｣",
+    "judgment": "正答",
+    "explanation": "視力障害があり妻と確認しながら注射する必要があるため、落ち着いて注射できる場所を事前に確認する。"
+   },
+   {
+    "number": "4",
+    "text": "｢普段よりもインスリン量を増やす必要があります｣",
+    "judgment": "誤答",
+    "explanation": "外食だからといって自己判断で量を増やさない。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 50,
+  "question_summary": "糖尿病網膜症で視力障害のある患者のインスリン自己注射は、妻と一緒に単位数や針を確認する体制を外出先でも続けられるよう、注射できる場所を店に確認しておく。",
+  "explanation": "視力障害のある患者の自己注射支援：音や目盛りの大きい注入器、単位数の読み上げ、家族との二重確認、低血糖時の対応の共有。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "｢注射ができる場所をお店の人に確認しましょう｣"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110A11",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "A",
+  "number": 11,
+  "year": 2021,
+  "category": "必修",
+  "kind": "weak",
+  "title": "後頭葉（視覚野）",
+  "topic": "大脳の機能局在と視覚",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "後頭葉にあるのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "嗅覚野",
+    "judgment": "誤答",
+    "explanation": "嗅覚野は側頭葉内側。"
+   },
+   {
+    "number": "2",
+    "text": "視覚野",
+    "judgment": "正答",
+    "explanation": "視覚野は後頭葉の鳥距溝周囲にあり、障害で反対側の同名半盲が起こる。"
+   },
+   {
+    "number": "3",
+    "text": "聴覚野",
+    "judgment": "誤答",
+    "explanation": "聴覚野は側頭葉。"
+   },
+   {
+    "number": "4",
+    "text": "体性感覚野",
+    "judgment": "誤答",
+    "explanation": "体性感覚野は頭頂葉中心後回。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "後頭葉には一次視覚野がある。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "視覚野"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110A44",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "A",
+  "number": 44,
+  "year": 2021,
+  "category": "一般",
+  "kind": "related",
+  "title": "皮膚・眼瞼結膜の紅斑と水疱（SJS）",
+  "topic": "全身疾患と眼（Stevens-Johnson症候群）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A さん（64歳、男性）は、肺炎のため抗菌薬の投与目的で入院となった。治療開始後3日に全身の皮膚、眼瞼結膜および口腔粘膜に紅斑と水疱が出現した。バイタルサインは、体温38.5℃、呼吸数24/分、脈拍80/分、血圧124/80mmHg、経皮的動脈血酸素飽和度〈SpO2〉96%（room air）であった。A さんに出現している症状から考えられる病態はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "後天性表皮水疱症",
+    "judgment": "誤答",
+    "explanation": "後天性表皮水疱症は自己免疫性で、発熱や急性の粘膜疹は典型的でない。"
+   },
+   {
+    "number": "2",
+    "text": "Sjögren〈シェーグレン〉症候群",
+    "judgment": "誤答",
+    "explanation": "Sjögren症候群は乾燥症状が主。"
+   },
+   {
+    "number": "3",
+    "text": "全身性エリテマトーデス",
+    "judgment": "誤答",
+    "explanation": "全身性エリテマトーデスでは蝶形紅斑などで、抗菌薬投与後の急性の水疱・粘膜疹は典型的でない。"
+   },
+   {
+    "number": "4",
+    "text": "Stevens-Johnson〈スティーブンス・ジョンソン〉症候群",
+    "judgment": "正答",
+    "explanation": "薬剤やマイコプラズマ感染を契機に高熱、全身の紅斑・水疱・びらん、眼・口腔・外陰部の粘膜病変を起こす。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 18,
+  "question_summary": "薬剤投与後に発熱と全身の紅斑・水疱に加え、眼瞼結膜・口腔粘膜の病変があればStevens-Johnson症候群を疑う。眼の後遺症（視力障害・ドライアイ）が問題になる。",
+  "explanation": "SJSでは急性期に偽膜性結膜炎や角膜上皮障害が起こり、慢性期に瞼球癒着、睫毛乱生、重度のドライアイ、視力障害を残す。発症早期からの眼科受診が後遺症を左右する。",
+  "incorrect_points": "薬疹で「眼が赤い・痛い」「口内炎」があれば重症薬疹を疑い直ちに報告する。",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "Stevens-Johnson〈スティーブンス・ジョンソン〉症候群"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110A54",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "A",
+  "number": 54,
+  "year": 2021,
+  "category": "一般",
+  "kind": "weak",
+  "title": "ネフローゼ症候群（眼瞼浮腫）",
+  "topic": "全身疾患と眼（腎炎の眼瞼浮腫）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A ちゃん（11歳、女児）は、5日前から両側の眼瞼浮腫と急な体重増加があり、尿量が少ないため来院した。高度の蛋白尿もみられたため入院し、ネフローゼ症候群と診断されステロイド治療の方針となった。現時点でのA ちゃんへの看護で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "水分摂取を促す。",
+    "judgment": "誤答",
+    "explanation": "浮腫と乏尿があり水分は制限する。"
+   },
+   {
+    "number": "2",
+    "text": "病院内を散歩して良いと伝える。",
+    "judgment": "誤答",
+    "explanation": "高度蛋白尿の時期は安静が必要。"
+   },
+   {
+    "number": "3",
+    "text": "糖分の摂取制限があることを伝える。",
+    "judgment": "誤答",
+    "explanation": "糖分ではなく塩分を制限する。"
+   },
+   {
+    "number": "4",
+    "text": "一時的に満月様顔貌になることを説明する。",
+    "judgment": "正答",
+    "explanation": "ステロイドの副作用（満月様顔貌、食欲亢進、易感染）を年齢に合わせて説明する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 22,
+  "question_summary": "ネフローゼ症候群では眼瞼浮腫で発症に気付くことが多い。ステロイド治療では満月様顔貌などの副作用を事前に説明する。",
+  "explanation": "眼瞼は皮下組織が疎で浮腫が出やすく、朝の眼瞼浮腫は腎性浮腫の典型。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "一時的に満月様顔貌になることを説明する。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110A90",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "A",
+  "number": 90,
+  "year": 2021,
+  "category": "一般",
+  "kind": "weak",
+  "title": "身体的フレイル（視力低下の選択肢）",
+  "topic": "高齢者の評価と視力",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "身体的フレイルの評価基準はどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視力低下",
+    "judgment": "誤答",
+    "explanation": "視力低下はフレイルの評価基準に含まれないが、転倒や活動低下を介してフレイルに影響する。"
+   },
+   {
+    "number": "2",
+    "text": "体重減少",
+    "judgment": "正答",
+    "explanation": "意図しない体重減少は基準の一つ。"
+   },
+   {
+    "number": "3",
+    "text": "聴力低下",
+    "judgment": "誤答",
+    "explanation": "聴力低下は基準に含まれない。"
+   },
+   {
+    "number": "4",
+    "text": "歩行速度の低下",
+    "judgment": "正答",
+    "explanation": "歩行速度の低下は基準の一つ。"
+   },
+   {
+    "number": "5",
+    "text": "腸蠕動運動の低下",
+    "judgment": "誤答",
+    "explanation": "腸蠕動は無関係。"
+   }
+  ],
+  "official_answer": [
+   "2",
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 33,
+  "question_summary": "身体的フレイルの評価基準（Fried）は体重減少、疲労感、活動量低下、歩行速度低下、筋力低下。視力・聴力は含まれない。",
+  "explanation": "白内障や視野障害は活動範囲を狭め、フレイルや認知機能低下の危険因子になる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "体重減少",
+   "歩行速度の低下"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "110A94",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "A",
+  "number": 94,
+  "year": 2021,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "骨髄穿刺後の観察（眼瞼結膜）",
+  "topic": "貧血と眼瞼結膜",
+  "case_id": "110A094-096",
+  "case_text": "A さん（26歳、男性）は1か月前から動悸と20m程度の歩行でも息切れが出現するようになった。ぶつけた記憶もないのに下肢に出血斑ができるようになり、医療機関を受診した。A さんは急性白血病を疑われ、緊急入院し、後腸骨稜から骨髄穿刺を受けた。身体所見：意識清明、体温37.2℃、呼吸数17/分、脈拍124/分、血圧96/52mmHg、経皮的動脈血酸素飽和度〈SpO2〉97%（room air）、両下肢に散在する出血斑あり。検査所見：Hb 5.1g/dL、白血球44,960/μL、血小板1.5万/μL、総ビリルビン1.1mg/dL、尿素窒素19.4mg/dL、クレアチニン0.76mg/dL、CRP 2.2mg/dL。胸部エックス線：縦郭・心陰影・肺野に異常なし。",
+  "question_text": "A さんの骨髄穿刺の30分後に観察すべき項目で優先度が高いのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "経皮的動脈血酸素飽和度",
+    "judgment": "誤答",
+    "explanation": "呼吸状態に問題はなく優先度は低い。"
+   },
+   {
+    "number": "2",
+    "text": "穿刺部の止血状態",
+    "judgment": "正答",
+    "explanation": "血小板減少があり、穿刺部からの出血・血腫を30分後に確認する。"
+   },
+   {
+    "number": "3",
+    "text": "下肢の運動障害",
+    "judgment": "誤答",
+    "explanation": "後腸骨稜からの穿刺で下肢の運動障害は起こりにくい。"
+   },
+   {
+    "number": "4",
+    "text": "眼瞼結膜",
+    "judgment": "誤答",
+    "explanation": "眼瞼結膜の蒼白は貧血の観察項目だが、Hb 5.1g/dLと既に分かっており、穿刺後の優先観察ではない。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 36,
+  "question_summary": "血小板1.5万/μLの患者の骨髄穿刺後は出血が最大の危険で、穿刺部の止血状態を最優先で観察する。眼瞼結膜は貧血の視診項目。",
+  "explanation": "眼瞼結膜の色は貧血の簡便な観察法。黄染は眼球結膜で見る。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "穿刺部の止血状態"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110B19",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "B",
+  "number": 19,
+  "year": 2021,
+  "category": "必修",
+  "kind": "weak",
+  "title": "触診で判断する所見（瞳孔反射の選択肢）",
+  "topic": "フィジカルアセスメントと瞳孔",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "フィジカルアセスメントにおいて触診で有無を判断するのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "腱反射",
+    "judgment": "誤答",
+    "explanation": "腱反射は打診器で誘発する。"
+   },
+   {
+    "number": "2",
+    "text": "瞳孔反射",
+    "judgment": "誤答",
+    "explanation": "瞳孔反射（対光反射）はペンライトを当てて瞳孔の収縮を視診で確認する。"
+   },
+   {
+    "number": "3",
+    "text": "腸蠕動運動",
+    "judgment": "誤答",
+    "explanation": "腸蠕動運動は聴診。"
+   },
+   {
+    "number": "4",
+    "text": "リンパ節の腫脹",
+    "judgment": "正答",
+    "explanation": "リンパ節は指で触れて大きさ・硬さ・可動性・圧痛を判断する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 12,
+  "question_summary": "リンパ節の腫脹は触診で判断する。瞳孔反射はペンライトで観察する視診。",
+  "explanation": "瞳孔の観察は、自然光下での大きさと左右差、直接・間接対光反射の順に行う。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "リンパ節の腫脹"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110B21",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "B",
+  "number": 21,
+  "year": 2021,
+  "category": "必修",
+  "kind": "weak",
+  "title": "空気感染予防の個人防護具（フェイスシールド）",
+  "topic": "個人防護具と眼の防護",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "空気感染を予防するための医療者の個人防護具で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "手袋",
+    "judgment": "誤答",
+    "explanation": "手袋は接触・標準予防策。"
+   },
+   {
+    "number": "2",
+    "text": "N95 マスク",
+    "judgment": "正答",
+    "explanation": "空気感染（結核、麻疹、水痘）ではN95マスクを着用し、陰圧室で管理する。"
+   },
+   {
+    "number": "3",
+    "text": "シューズカバー",
+    "judgment": "誤答",
+    "explanation": "シューズカバーは通常不要。"
+   },
+   {
+    "number": "4",
+    "text": "フェイスシールド",
+    "judgment": "誤答",
+    "explanation": "フェイスシールドは飛沫感染対策や血液飛散時の眼の防護に使う。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 12,
+  "question_summary": "空気感染予防にはN95マスク。フェイスシールドは飛沫や血液から眼・顔面を守る。",
+  "explanation": "眼の粘膜は飛沫感染（インフルエンザ、アデノウイルス）の侵入門戸でもある。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "N95 マスク"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110B62",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "B",
+  "number": 62,
+  "year": 2021,
+  "category": "一般",
+  "kind": "related",
+  "title": "眼球運動障害を伴う脳症",
+  "topic": "全身疾患と眼（Wernicke脳症）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "アルコールを多飲する人によくみられ、意識障害、眼球運動障害および歩行障害を特徴とするのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "肝性脳症",
+    "judgment": "誤答",
+    "explanation": "肝性脳症では羽ばたき振戦が特徴で、眼球運動障害は典型的でない。"
+   },
+   {
+    "number": "2",
+    "text": "ペラグラ",
+    "judgment": "誤答",
+    "explanation": "ペラグラはナイアシン欠乏で皮膚炎・下痢・認知症。"
+   },
+   {
+    "number": "3",
+    "text": "Wernicke〈ウェルニッケ〉脳症",
+    "judgment": "正答",
+    "explanation": "アルコール多飲者のビタミンB1欠乏で発症し、外眼筋麻痺・眼振・意識障害・失調を示す。ブドウ糖投与前にビタミンB1を補う。"
+   },
+   {
+    "number": "4",
+    "text": "Creutzfeldt-Jakob〈クロイツフェルト・ヤコブ〉病",
+    "judgment": "誤答",
+    "explanation": "Creutzfeldt-Jakob病は急速進行する認知症とミオクローヌス。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 25,
+  "question_summary": "意識障害・眼球運動障害・歩行障害（失調）の三徴はWernicke脳症で、ビタミンB1欠乏による。",
+  "explanation": "眼球運動障害は外転神経麻痺や注視麻痺、眼振として現れる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "Wernicke〈ウェルニッケ〉脳症"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "110B82",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "B",
+  "number": 82,
+  "year": 2021,
+  "category": "一般",
+  "kind": "related",
+  "title": "副交感神経を含む脳神経（動眼神経）",
+  "topic": "脳神経と眼（対光反射・眼球運動）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "副交感神経を含む脳神経はどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "動眼神経",
+    "judgment": "正答",
+    "explanation": "動眼神経はEdinger-Westphal核からの副交感線維を含み、瞳孔括約筋と毛様体筋を支配する。"
+   },
+   {
+    "number": "2",
+    "text": "三叉神経",
+    "judgment": "誤答",
+    "explanation": "三叉神経は知覚と咀嚼筋の運動。"
+   },
+   {
+    "number": "3",
+    "text": "内耳神経",
+    "judgment": "誤答",
+    "explanation": "内耳神経は聴覚・平衡覚の感覚神経。"
+   },
+   {
+    "number": "4",
+    "text": "迷走神経",
+    "judgment": "正答",
+    "explanation": "迷走神経は胸腹部臓器に副交感線維を送る。"
+   },
+   {
+    "number": "5",
+    "text": "舌下神経",
+    "judgment": "誤答",
+    "explanation": "舌下神経は舌の運動神経。"
+   }
+  ],
+  "official_answer": [
+   "1",
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 32,
+  "question_summary": "副交感神経線維を含む脳神経は動眼・顔面・舌咽・迷走神経。動眼神経の副交感成分は縮瞳と調節を担う。",
+  "explanation": "顔面神経の副交感線維は涙腺・顎下腺・舌下腺の分泌を促す。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "動眼神経",
+   "迷走神経"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "110B116",
+  "exam_type": "看護師国家試験",
+  "exam_id": "110",
+  "round": 110,
+  "session": "B",
+  "number": 116,
+  "year": 2021,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "NPPV使用者の観察（眼の充血）",
+  "topic": "NPPVと眼",
+  "case_id": "110B115-117",
+  "case_text": "A さん（37歳、男性）は妻（40歳、会社員）と2人暮らし。筋強直性ジストロフィーで週5回の訪問介護を利用していた。1か月前に傾眠傾向が著明となり入院して精査した結果、睡眠時無呼吸に対して夜間のみフェイスマスクを用いた非侵襲的陽圧換気療法が導入された。A さんは四肢遠位筋に筋萎縮と筋力低下があるが、室内の移動は電動車椅子を操作して自力で行え、食事も準備すれば妻と同じものを摂取できる。退院後、週1回午後に訪問看護が導入されることになった。",
+  "question_text": "退院前カンファレンスで、訪問介護の担当者から、これまでと同様に退院後も昼食の準備と後始末、口腔ケア、入浴介助を行う予定と発言があった。訪問看護師は訪問介護の担当者に、A さんの状態の変化に気付いたら連絡がほしいと協力を求めた。訪問介護の担当者に説明するA さんの状態の変化で、特に注意が必要なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "傾眠傾向",
+    "judgment": "正答",
+    "explanation": "傾眠・頭痛・朝の倦怠感はCO2ナルコーシスの前兆で、早急な連絡が必要。"
+   },
+   {
+    "number": "2",
+    "text": "眼の充血",
+    "judgment": "誤答",
+    "explanation": "眼の充血はマスクから漏れた空気が眼に当たる刺激や結膜乾燥で起こり、マスクの調整で対応する。生命に関わる変化ではない。"
+   },
+   {
+    "number": "3",
+    "text": "口腔内の乾燥",
+    "judgment": "誤答",
+    "explanation": "口腔内乾燥はNPPVでよくある不快症状で加湿で対応する。"
+   },
+   {
+    "number": "4",
+    "text": "食事摂取量の低下",
+    "judgment": "誤答",
+    "explanation": "食事摂取量の低下は重要だが、この疾患・状況では換気の変化が最優先。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 52,
+  "question_summary": "筋強直性ジストロフィーで夜間NPPVを使う患者では、換気不足によるCO2貯留で起こる傾眠傾向が最も注意すべき変化。眼の充血はマスクのリークによる刺激で起こり得る。",
+  "explanation": "NPPVマスクのリークが眼に向くと結膜充血・ドライアイ・角膜障害の原因になるため、フィッティングを確認する。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "傾眠傾向"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111A37",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "A",
+  "number": 37,
+  "year": 2022,
+  "category": "一般",
+  "kind": "weak",
+  "title": "閉眼下での上肢の評価",
+  "topic": "神経学的検査と閉眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "上肢のフィジカルアセスメントの立位での実施場面の写真（別冊No. 1）を別に示す。手のひらを上にして、肩の高さで水平に前方に両腕を伸ばしてもらった。その後、閉眼してもらうと、左腕が回内しながら下がっていった。アセスメントの結果で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "位置覚の異常",
+    "judgment": "誤答",
+    "explanation": "位置覚の異常ではRomberg徴候など感覚性失調の所見が出る。"
+   },
+   {
+    "number": "2",
+    "text": "錐体路の障害",
+    "judgment": "正答",
+    "explanation": "上肢Barré徴候陽性は錐体路（皮質脊髄路）の障害による軽度の運動麻痺を示す。"
+   },
+   {
+    "number": "3",
+    "text": "小脳機能の異常",
+    "judgment": "誤答",
+    "explanation": "小脳機能は指鼻試験や踵膝試験で評価する。"
+   },
+   {
+    "number": "4",
+    "text": "関節可動域の障害",
+    "judgment": "誤答",
+    "explanation": "関節可動域の障害では挙上そのものが制限される。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": true,
+  "image_ref": "別冊No. 1",
+  "pdf_page": 18,
+  "question_summary": "閉眼して両上肢を前方挙上させ、片側が回内しながら下がるのはBarré徴候で、錐体路障害（軽い麻痺）を示す。閉眼は視覚による代償を除くため。",
+  "explanation": "閉眼で姿勢保持が崩れるかを見る検査には、Barré徴候、Romberg試験、Mann試験がある。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "錐体路の障害"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111A48",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "A",
+  "number": 48,
+  "year": 2022,
+  "category": "一般",
+  "kind": "related",
+  "title": "副鼻腔炎手術後の説明（複視）",
+  "topic": "鼻副鼻腔手術と眼の合併症",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A さん（32 歳、男性）は慢性副鼻腔炎と診断され経過観察をしていたが、症状が改善せず手術を受けることになった。A さんへの術後の生活についての説明で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "咽頭にたまった分泌物は飲み込んでも良い。",
+    "judgment": "誤答",
+    "explanation": "分泌物は飲み込まず吐き出す。"
+   },
+   {
+    "number": "2",
+    "text": "物が二重に見えるときは看護師に伝える。",
+    "judgment": "正答",
+    "explanation": "物が二重に見える（複視）は眼窩壁損傷や眼窩内出血・外眼筋障害のサインで、早期発見が必要。"
+   },
+   {
+    "number": "3",
+    "text": "手術当日から入浴が可能である。",
+    "judgment": "誤答",
+    "explanation": "出血予防のため当日の入浴は避ける。"
+   },
+   {
+    "number": "4",
+    "text": "臥床時は頭部を低く保つ。",
+    "judgment": "誤答",
+    "explanation": "頭部を高くして出血・腫脹を抑える。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 21,
+  "question_summary": "副鼻腔は眼窩と薄い骨で接しており、術後に複視や視力低下が出たら眼窩内合併症を疑い直ちに報告する。",
+  "explanation": "副鼻腔炎の眼合併症（眼窩蜂窩織炎）や、手術時の眼窩・視神経損傷の可能性から、術後の視機能の観察が重要。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "物が二重に見えるときは看護師に伝える。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111A78",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "A",
+  "number": 78,
+  "year": 2022,
+  "category": "一般",
+  "kind": "direct",
+  "title": "眼の遠近調節を行う筋",
+  "topic": "眼の構造・機能",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "眼の遠近調節を行う筋はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "下斜筋",
+    "judgment": "誤答",
+    "explanation": "下斜筋は眼球を上外方へ回す外眼筋。"
+   },
+   {
+    "number": "2",
+    "text": "下直筋",
+    "judgment": "誤答",
+    "explanation": "下直筋は眼球を下方へ動かす外眼筋。"
+   },
+   {
+    "number": "3",
+    "text": "毛様体筋",
+    "judgment": "正答",
+    "explanation": "毛様体筋が収縮すると毛様小帯が緩み水晶体が厚くなって近くにピントが合う。副交感神経（動眼神経）支配。"
+   },
+   {
+    "number": "4",
+    "text": "上眼瞼挙筋",
+    "judgment": "誤答",
+    "explanation": "上眼瞼挙筋は上まぶたを上げる。"
+   },
+   {
+    "number": "5",
+    "text": "瞳孔括約筋",
+    "judgment": "誤答",
+    "explanation": "瞳孔括約筋は縮瞳させる筋で、ピントではなく光量を調節する。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 31,
+  "question_summary": "遠近調節は毛様体筋の収縮・弛緩による水晶体の厚みの変化で行われる。",
+  "explanation": "「調節＝毛様体筋」「光量＝虹彩（瞳孔括約筋・散大筋）」「眼球運動＝外眼筋」。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "毛様体筋"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111A79",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "A",
+  "number": 79,
+  "year": 2022,
+  "category": "一般",
+  "kind": "weak",
+  "title": "咀嚼運動の脳神経（滑車・動眼の選択肢）",
+  "topic": "脳神経と眼（対光反射・眼球運動）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "咀嚼運動にかかわる脳神経はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "嗅神経",
+    "judgment": "誤答",
+    "explanation": "嗅神経は嗅覚。"
+   },
+   {
+    "number": "2",
+    "text": "滑車神経",
+    "judgment": "誤答",
+    "explanation": "滑車神経は上斜筋を支配し眼球を下内方へ動かす。"
+   },
+   {
+    "number": "3",
+    "text": "三叉神経",
+    "judgment": "正答",
+    "explanation": "三叉神経の下顎神経が咬筋・側頭筋などの咀嚼筋を支配する。"
+   },
+   {
+    "number": "4",
+    "text": "動眼神経",
+    "judgment": "誤答",
+    "explanation": "動眼神経は外眼筋の多くと上眼瞼挙筋、瞳孔括約筋を支配する。"
+   },
+   {
+    "number": "5",
+    "text": "内耳神経",
+    "judgment": "誤答",
+    "explanation": "内耳神経は聴覚・平衡覚。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 32,
+  "question_summary": "咀嚼筋は三叉神経（第3枝）が支配する。滑車神経・動眼神経は眼球運動の神経。",
+  "explanation": "眼に関わる脳神経：Ⅱ視神経（視覚）、Ⅲ動眼・Ⅳ滑車・Ⅵ外転（眼球運動）、Ⅴ三叉（角膜知覚）、Ⅶ顔面（閉眼・涙腺）。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "三叉神経"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111A100",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "A",
+  "number": 100,
+  "year": 2022,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "胆道閉鎖症（眼球結膜の黄染）",
+  "topic": "黄疸と眼球結膜",
+  "case_id": "111A100-102",
+  "case_text": "A ちゃん（生後24日、女児）は両親と3人暮らし。母親が母子健康手帳の便色カードを見て、A ちゃんの便色が気になったため、A ちゃんを連れて近所の小児科医院を受診した。A ちゃんは在胎39週、出生体重3,100g、出生時に異常はない。現在、混合栄養で体重は3,700gである。体温37.2℃、呼吸数36/分、心拍数108/分、整、血圧78/44mmHg。眼球結膜に黄染を認める。血液検査結果：Hb 12.6g/dL、白血球7,800/μL、血小板21万/μL、プロトロンビン時間〈PT〉88%、総ビリルビン11.3mg/dL、直接ビリルビン9.5mg/dL、AST 96U/L、ALT 126U/L。紹介先の病院で腹部超音波検査を実施した結果、A ちゃんは胆道閉鎖症の疑いがあり入院した。",
+  "question_text": "A ちゃんの便として考えられるのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "褐色便",
+    "judgment": "誤答",
+    "explanation": "褐色便は胆汁が流れている正常便。"
+   },
+   {
+    "number": "2",
+    "text": "灰白色便",
+    "judgment": "正答",
+    "explanation": "胆汁の排泄が途絶えると便の色素（ステルコビリン）がなくなり灰白色便になる。便色カードで早期発見する。"
+   },
+   {
+    "number": "3",
+    "text": "タール便",
+    "judgment": "誤答",
+    "explanation": "タール便は上部消化管出血。"
+   },
+   {
+    "number": "4",
+    "text": "イチゴゼリー様便",
+    "judgment": "誤答",
+    "explanation": "イチゴゼリー様便は腸重積。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 44,
+  "question_summary": "胆道閉鎖症では胆汁が腸管に流れず灰白色便になる。眼球結膜の黄染は直接ビリルビン上昇による黄疸の所見。",
+  "explanation": "黄疸は眼球結膜（強膜）に最も早く現れ、総ビリルビン2～3mg/dL以上で視認できる。新生児では生理的黄疸との鑑別に直接ビリルビンと便色を使う。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "灰白色便"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111B03",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "B",
+  "number": 3,
+  "year": 2022,
+  "category": "必修",
+  "kind": "related",
+  "title": "情報機器作業と視力障害",
+  "topic": "職業性疾病と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "職業性疾病のうち情報機器〈VDT〉作業による健康障害はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "じん肺",
+    "judgment": "誤答",
+    "explanation": "じん肺は粉じん吸入。"
+   },
+   {
+    "number": "2",
+    "text": "視力障害",
+    "judgment": "正答",
+    "explanation": "長時間の画面注視で眼精疲労、視力低下、ドライアイが起こる。"
+   },
+   {
+    "number": "3",
+    "text": "振動障害",
+    "judgment": "誤答",
+    "explanation": "振動障害は振動工具。"
+   },
+   {
+    "number": "4",
+    "text": "皮膚障害",
+    "judgment": "誤答",
+    "explanation": "皮膚障害は化学物質など。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 7,
+  "question_summary": "情報機器（VDT）作業による健康障害は視力障害・眼精疲労、頸肩腕障害、精神的ストレス。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "視力障害"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111B12",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "B",
+  "number": 12,
+  "year": 2022,
+  "category": "必修",
+  "kind": "related",
+  "title": "内分泌器官（涙腺）",
+  "topic": "眼の構造・機能（涙腺）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "内分泌器官はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "乳腺",
+    "judgment": "誤答",
+    "explanation": "乳腺は外分泌腺。"
+   },
+   {
+    "number": "2",
+    "text": "涙腺",
+    "judgment": "誤答",
+    "explanation": "涙腺は涙液を結膜囊に分泌する外分泌腺。涙は鼻涙管を通って鼻腔へ流れる。"
+   },
+   {
+    "number": "3",
+    "text": "甲状腺",
+    "judgment": "正答",
+    "explanation": "甲状腺は甲状腺ホルモンを血中に分泌する内分泌器官。"
+   },
+   {
+    "number": "4",
+    "text": "唾液腺",
+    "judgment": "誤答",
+    "explanation": "唾液腺は外分泌腺。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "涙腺は導管をもつ外分泌腺。内分泌器官は甲状腺などホルモンを血中に分泌する器官。",
+  "explanation": "涙腺は眼窩の上外側にあり、分泌は副交感神経（顔面神経）が促進する。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "甲状腺"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "111B38",
+  "exam_type": "看護師国家試験",
+  "exam_id": "111",
+  "round": 111,
+  "session": "B",
+  "number": 38,
+  "year": 2022,
+  "category": "一般",
+  "kind": "direct",
+  "title": "点眼薬の投与",
+  "topic": "点眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "点眼薬の投与について正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "点眼時は上眼瞼を上げる。",
+    "judgment": "誤答",
+    "explanation": "上眼瞼ではなく下眼瞼を下方に軽く引いて結膜囊を露出させる。"
+   },
+   {
+    "number": "2",
+    "text": "点眼容器の先端は眼瞼結膜に当てる。",
+    "judgment": "誤答",
+    "explanation": "容器の先端が眼瞼や睫毛に触れると汚染する。離して滴下する。"
+   },
+   {
+    "number": "3",
+    "text": "点眼後は眼球を圧迫する。",
+    "judgment": "誤答",
+    "explanation": "眼球は圧迫しない。点眼後は静かに閉眼し、目頭（涙囊部）を軽く押さえて全身への吸収を減らす。"
+   },
+   {
+    "number": "4",
+    "text": "眼から溢れた薬液は拭き取る。",
+    "judgment": "正答",
+    "explanation": "眼からあふれた薬液は皮膚炎や色素沈着の原因になるため拭き取る。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 17,
+  "question_summary": "点眼では下眼瞼を軽く引いて結膜囊に滴下し、容器の先端を眼に触れさせず、溢れた薬液は清潔なガーゼで拭き取る。",
+  "explanation": "複数の点眼薬は5分以上あけて点眼する。1滴で十分で、多く差しても効果は増えない。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "眼から溢れた薬液は拭き取る。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A02",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 2,
+  "year": 2023,
+  "category": "必修",
+  "kind": "weak",
+  "title": "有訴者の自覚症状（目のかすみ）",
+  "topic": "統計にみる眼症状",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "令和元年（2019 年）の国民生活基礎調査における女性の有訴者の自覚症状で最も多いのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "頭痛",
+    "judgment": "誤答",
+    "explanation": "頭痛は上位だが最多ではない。"
+   },
+   {
+    "number": "2",
+    "text": "肩こり",
+    "judgment": "正答",
+    "explanation": "女性は肩こり、男性は腰痛が最多。"
+   },
+   {
+    "number": "3",
+    "text": "体がだるい",
+    "judgment": "誤答",
+    "explanation": "体がだるいは上位の一つ。"
+   },
+   {
+    "number": "4",
+    "text": "目のかすみ",
+    "judgment": "誤答",
+    "explanation": "目のかすみは上位の訴えだが最多ではない。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 7,
+  "question_summary": "2019年国民生活基礎調査で女性の有訴者の自覚症状は肩こりが最多。目のかすみも上位。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "肩こり"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A10",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 10,
+  "year": 2023,
+  "category": "必修",
+  "kind": "weak",
+  "title": "体性感覚（視覚の選択肢）",
+  "topic": "感覚の分類と視覚",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "体性感覚はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視覚",
+    "judgment": "誤答",
+    "explanation": "視覚は特殊感覚。"
+   },
+   {
+    "number": "2",
+    "text": "触覚",
+    "judgment": "正答",
+    "explanation": "触覚は皮膚感覚で体性感覚に含まれる。"
+   },
+   {
+    "number": "3",
+    "text": "聴覚",
+    "judgment": "誤答",
+    "explanation": "聴覚は特殊感覚。"
+   },
+   {
+    "number": "4",
+    "text": "平衡覚",
+    "judgment": "誤答",
+    "explanation": "平衡覚は特殊感覚。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "体性感覚は触覚・痛覚・温度覚・深部感覚。視覚・聴覚・平衡覚は特殊感覚。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "触覚"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A14",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 14,
+  "year": 2023,
+  "category": "必修",
+  "kind": "related",
+  "title": "糖尿病の合併症（網膜症）",
+  "topic": "糖尿病網膜症",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "糖尿病の急性合併症はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "足壊疽",
+    "judgment": "誤答",
+    "explanation": "足壊疽は慢性合併症（神経障害・血流障害）。"
+   },
+   {
+    "number": "2",
+    "text": "脳血管疾患",
+    "judgment": "誤答",
+    "explanation": "脳血管疾患は大血管の慢性合併症。"
+   },
+   {
+    "number": "3",
+    "text": "糖尿病網膜症",
+    "judgment": "誤答",
+    "explanation": "糖尿病網膜症は長期の高血糖で網膜の細小血管が障害される慢性合併症。三大合併症（網膜症・腎症・神経障害）の一つ。"
+   },
+   {
+    "number": "4",
+    "text": "ケトアシドーシス昏睡",
+    "judgment": "正答",
+    "explanation": "ケトアシドーシス昏睡はインスリン欠乏で急激に起こる急性合併症。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 10,
+  "question_summary": "糖尿病の急性合併症はケトアシドーシス昏睡や高浸透圧高血糖状態。網膜症は慢性の細小血管合併症。",
+  "explanation": "糖尿病網膜症は成人の中途失明の主要原因で、自覚症状が出る前から年1回以上の眼底検査を勧める。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "ケトアシドーシス昏睡"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A20",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 20,
+  "year": 2023,
+  "category": "必修",
+  "kind": "weak",
+  "title": "個人防護具の脱衣（フェイスシールド）",
+  "topic": "個人防護具と眼の防護",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "個人防護具の脱衣手順で最初に外すのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "手袋",
+    "judgment": "正答",
+    "explanation": "手袋は最も汚染度が高いため最初に外す。"
+   },
+   {
+    "number": "2",
+    "text": "ガウン",
+    "judgment": "誤答",
+    "explanation": "ガウンは手袋の後。"
+   },
+   {
+    "number": "3",
+    "text": "サージカルマスク",
+    "judgment": "誤答",
+    "explanation": "マスクは最後。"
+   },
+   {
+    "number": "4",
+    "text": "フェイスシールド",
+    "judgment": "誤答",
+    "explanation": "フェイスシールドは眼の防護具で、手袋・ガウンの後、マスクの前に外す。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 11,
+  "question_summary": "個人防護具は最も汚染された手袋から外す。フェイスシールドは手袋（・ガウン）の後に外す。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "手袋"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A38",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 38,
+  "year": 2023,
+  "category": "一般",
+  "kind": "weak",
+  "title": "ノンレム睡眠（眼球運動）",
+  "topic": "睡眠と眼球運動",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "成人のノンレム睡眠の特徴はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "体温が上昇する。",
+    "judgment": "誤答",
+    "explanation": "体温は低下する。"
+   },
+   {
+    "number": "2",
+    "text": "急速な眼球運動がある。",
+    "judgment": "誤答",
+    "explanation": "急速眼球運動はレム睡眠の特徴。"
+   },
+   {
+    "number": "3",
+    "text": "加齢に伴い時間が長くなる。",
+    "judgment": "誤答",
+    "explanation": "加齢で深いノンレム睡眠は減る。"
+   },
+   {
+    "number": "4",
+    "text": "睡眠周期の前半にみられる。",
+    "judgment": "正答",
+    "explanation": "入眠後の前半に深いノンレム睡眠が出現する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 16,
+  "question_summary": "ノンレム睡眠は睡眠周期の前半に多く、急速眼球運動はみられない。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "睡眠周期の前半にみられる。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A48",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 48,
+  "year": 2023,
+  "category": "一般",
+  "kind": "related",
+  "title": "肺尖部肺癌の症状（散瞳・閉眼困難）",
+  "topic": "全身疾患と眼（Horner症候群）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "右肺尖部の肺癌の胸壁への浸潤による症状はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "散瞳",
+    "judgment": "誤答",
+    "explanation": "頸部交感神経が障害されると散瞳ではなく縮瞳する（Horner症候群）。"
+   },
+   {
+    "number": "2",
+    "text": "構音障害",
+    "judgment": "誤答",
+    "explanation": "構音障害は起こらない。"
+   },
+   {
+    "number": "3",
+    "text": "閉眼困難",
+    "judgment": "誤答",
+    "explanation": "Horner症候群では眼瞼下垂が起こる。閉眼困難は顔面神経麻痺の症状。"
+   },
+   {
+    "number": "4",
+    "text": "上肢の疼痛",
+    "judgment": "正答",
+    "explanation": "腕神経叢への浸潤で肩から上肢内側の疼痛・しびれ・筋萎縮が起こる。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 19,
+  "question_summary": "肺尖部肺癌（Pancoast腫瘍）の胸壁浸潤では腕神経叢障害による上肢の疼痛が起こる。交感神経障害ではHorner症候群（縮瞳・眼瞼下垂）が起こる。",
+  "explanation": "肺尖部腫瘍の症状セット：上肢痛（腕神経叢）、Horner症候群（縮瞳・眼瞼下垂・発汗低下）、上大静脈症候群（顔面浮腫）。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "上肢の疼痛"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A82",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 82,
+  "year": 2023,
+  "category": "一般",
+  "kind": "related",
+  "title": "学校感染症（流行性角結膜炎）",
+  "topic": "結膜炎を起こす感染症",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "学校保健安全法で出席停止となる学校感染症のうち、第二種に分類されているのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "インフルエンザ",
+    "judgment": "正答",
+    "explanation": "インフルエンザは第二種で、発症後5日かつ解熱後2日（幼児3日）を経過するまで出席停止。"
+   },
+   {
+    "number": "2",
+    "text": "細菌性赤痢",
+    "judgment": "誤答",
+    "explanation": "細菌性赤痢は第三種。"
+   },
+   {
+    "number": "3",
+    "text": "ジフテリア",
+    "judgment": "誤答",
+    "explanation": "ジフテリアは第一種。"
+   },
+   {
+    "number": "4",
+    "text": "腸チフス",
+    "judgment": "誤答",
+    "explanation": "腸チフスは第三種。"
+   },
+   {
+    "number": "5",
+    "text": "流行性角結膜炎",
+    "judgment": "誤答",
+    "explanation": "流行性角結膜炎（アデノウイルス）は第三種で、感染のおそれがないと医師が認めるまで出席停止。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 30,
+  "question_summary": "学校感染症の第二種はインフルエンザなど飛沫感染する疾患。流行性角結膜炎は第三種。",
+  "explanation": "眼の感染症では流行性角結膜炎と急性出血性結膜炎が第三種、咽頭結膜熱が第二種。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "インフルエンザ"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A86",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 86,
+  "year": 2023,
+  "category": "一般",
+  "kind": "direct",
+  "title": "緑内障",
+  "topic": "緑内障",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "緑内障について正しいのはどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "眼球が突出する。",
+    "judgment": "誤答",
+    "explanation": "眼球突出はBasedow病などの甲状腺眼症の所見。"
+   },
+   {
+    "number": "2",
+    "text": "視神経が萎縮する。",
+    "judgment": "正答",
+    "explanation": "視神経乳頭の陥凹拡大と視神経萎縮が進み、視野欠損が広がる。"
+   },
+   {
+    "number": "3",
+    "text": "硝子体が混濁する。",
+    "judgment": "誤答",
+    "explanation": "硝子体混濁は硝子体出血やぶどう膜炎で起こる。"
+   },
+   {
+    "number": "4",
+    "text": "眼底に出血がみられる。",
+    "judgment": "誤答",
+    "explanation": "眼底出血は糖尿病網膜症や網膜静脈閉塞症の所見。"
+   },
+   {
+    "number": "5",
+    "text": "眼圧の上昇が原因となる。",
+    "judgment": "正答",
+    "explanation": "房水の流出障害による眼圧上昇が主な原因。ただし眼圧が正常範囲の正常眼圧緑内障も日本人に多い。"
+   }
+  ],
+  "official_answer": [
+   "2",
+   "5"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 31,
+  "question_summary": "緑内障は眼圧上昇などにより視神経が障害され、視野が欠ける疾患。",
+  "explanation": "緑内障は日本の中途失明原因の上位。自覚症状が乏しく、点眼治療を継続すること、急性発作（眼痛・頭痛・嘔吐・霧視）を見逃さないことが看護の要点。",
+  "incorrect_points": "",
+  "clinical_note": "失った視野は戻らないため、早期発見と点眼アドヒアランスの支援が中心になる。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "視神経が萎縮する。",
+   "眼圧の上昇が原因となる。"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "112A97",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 97,
+  "year": 2023,
+  "category": "状況設定",
+  "kind": "related",
+  "title": "白内障・難聴のある患者へのオリエンテーション",
+  "topic": "白内障周術期",
+  "case_id": "112A097-099",
+  "case_text": "A さん（81歳、女性）は夫（86歳）と2人で暮らしている。高血圧症で内服治療をしているが、血圧のコントロールはできている。両眼に老人性白内障があり、老人性難聴のために補聴器を使用している。認知機能は問題なく、日常生活動作〈ADL〉はほぼ自立している。1年前から両眼の羞明、霧視が強くなり、視力が低下して趣味の編み物ができなくなってきた。また、家の中を移動するときに小さな段差につまずいたりドアにぶつかるなど、歩行時の転倒の危険性が増えた。A さんは自宅での生活を安全に送りたい、趣味を続けたいという希望があり、10日間程度の入院で両眼の超音波水晶体乳化吸引術と眼内レンズ挿入術を行うことになった。",
+  "question_text": "入院当日、病棟の看護師がA さんに対してパンフレットを用いて手術前オリエンテーションを行うことになった。A さんへのオリエンテーションの方法で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "耳元で大きな声で説明する。",
+    "judgment": "誤答",
+    "explanation": "老人性難聴は高音域から低下するため、耳元で大声を出すより正面から低めの声でゆっくり話す。"
+   },
+   {
+    "number": "2",
+    "text": "A さんの身体に触れてから話しかける。",
+    "judgment": "誤答",
+    "explanation": "認知機能に問題なく視力も残っているため、まず声をかけてから必要に応じて触れる。"
+   },
+   {
+    "number": "3",
+    "text": "窓際の明るい場所でパンフレットを見せる。",
+    "judgment": "誤答",
+    "explanation": "羞明があるため窓際の強い光はまぶしく見にくい。"
+   },
+   {
+    "number": "4",
+    "text": "手術後の注意点はパンフレットに赤色の太い文字で書く。",
+    "judgment": "正答",
+    "explanation": "白内障ではコントラスト感度が落ちるため、太く大きな文字と色の対比で読みやすくする。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 38,
+  "question_summary": "白内障による霧視・羞明と難聴のある高齢者には、コントラストの強い太い文字で、まぶしくない環境で、低めの声でゆっくり説明する。",
+  "explanation": "白内障では「かすむ」「まぶしい」「暗いと見えない」が同時に起こるため、適度な照明とコントラストが鍵。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "手術後の注意点はパンフレットに赤色の太い文字で書く。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A98",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 98,
+  "year": 2023,
+  "category": "状況設定",
+  "kind": "direct",
+  "title": "白内障手術後の説明",
+  "topic": "白内障周術期",
+  "case_id": "112A097-099",
+  "case_text": "A さん（81歳、女性）は夫（86歳）と2人で暮らしている。高血圧症で内服治療をしているが、血圧のコントロールはできている。両眼に老人性白内障があり、老人性難聴のために補聴器を使用している。認知機能は問題なく、日常生活動作〈ADL〉はほぼ自立している。1年前から両眼の羞明、霧視が強くなり、視力が低下して趣味の編み物ができなくなってきた。また、家の中を移動するときに小さな段差につまずいたりドアにぶつかるなど、歩行時の転倒の危険性が増えた。A さんは自宅での生活を安全に送りたい、趣味を続けたいという希望があり、10日間程度の入院で両眼の超音波水晶体乳化吸引術と眼内レンズ挿入術を行うことになった。",
+  "question_text": "A さんの手術は局所麻酔下で行われ、10 分程度で終了した。手術中および手術直後のバイタルサインに問題はなく、病室に戻ってきた。A さんは眼痛や頭痛、気分不快などの症状はなく、｢無事に終わって良かった｣と話している。手術後のA さんへの説明で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "手術直後から点眼する。",
+    "judgment": "誤答",
+    "explanation": "手術直後は眼帯をし、点眼は翌日の診察後から医師の指示で開始する。"
+   },
+   {
+    "number": "2",
+    "text": "洗顔は手術の翌日から行う。",
+    "judgment": "誤答",
+    "explanation": "洗顔・洗髪は創部に水が入らないよう通常1週間程度控え、清拭で対応する。"
+   },
+   {
+    "number": "3",
+    "text": "手術後24 時間はベッド上で安静にする。",
+    "judgment": "誤答",
+    "explanation": "局所麻酔の日帰り・短期手術で、術後のベッド上安静は不要。歩行してよい。"
+   },
+   {
+    "number": "4",
+    "text": "医師の許可があるまでは頭を振る動作をしない。",
+    "judgment": "正答",
+    "explanation": "眼球への衝撃や眼圧変動を避けるため、頭を強く振る、眼をこする、重いものを持つなどは医師の許可があるまで控える。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 38,
+  "question_summary": "白内障手術後は眼球を圧迫したり強く振ったりする動作を避け、点眼・洗顔は医師の指示に従う。",
+  "explanation": "術後は感染（眼内炎）予防の抗菌薬点眼と、眼圧・炎症の管理が中心。術後数日は眼痛・急な視力低下があればすぐ受診するよう説明する。",
+  "incorrect_points": "",
+  "clinical_note": "安静の程度や洗顔再開の時期は施設・術式で異なるため、個別の指示を確認する。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "医師の許可があるまでは頭を振る動作をしない。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112A99",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "A",
+  "number": 99,
+  "year": 2023,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "白内障手術後の不眠",
+  "topic": "白内障周術期",
+  "case_id": "112A097-099",
+  "case_text": "A さん（81歳、女性）は夫（86歳）と2人で暮らしている。高血圧症で内服治療をしているが、血圧のコントロールはできている。両眼に老人性白内障があり、老人性難聴のために補聴器を使用している。認知機能は問題なく、日常生活動作〈ADL〉はほぼ自立している。1年前から両眼の羞明、霧視が強くなり、視力が低下して趣味の編み物ができなくなってきた。また、家の中を移動するときに小さな段差につまずいたりドアにぶつかるなど、歩行時の転倒の危険性が増えた。A さんは自宅での生活を安全に送りたい、趣味を続けたいという希望があり、10日間程度の入院で両眼の超音波水晶体乳化吸引術と眼内レンズ挿入術を行うことになった。",
+  "question_text": "手術後2日、A さんは日中はベッドに横になって過ごしている時間が多い。夜間にA さんから看護師に「手術後はゆっくり眠れていません。どうしたらよいでしょうか」という訴えがあった。A さんへの看護師の対応で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "寝る前に温かい緑茶を飲むことを勧める。",
+    "judgment": "誤答",
+    "explanation": "緑茶のカフェインは入眠を妨げる。"
+   },
+   {
+    "number": "2",
+    "text": "日中はベッドから離れて過ごすことを促す。",
+    "judgment": "正答",
+    "explanation": "日中はベッドから離れて過ごし、昼夜のリズムを整える。"
+   },
+   {
+    "number": "3",
+    "text": "眠れなくてもベッドに横になっていることを勧める。",
+    "judgment": "誤答",
+    "explanation": "眠れないのに横になり続けると不眠が強化される。"
+   },
+   {
+    "number": "4",
+    "text": "夜はよく眠っているので様子をみましょうと伝える。",
+    "judgment": "誤答",
+    "explanation": "本人の訴えを否定しない。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 39,
+  "question_summary": "術後の不眠には日中の離床と活動で生活リズムを整える。",
+  "explanation": "白内障手術は局所麻酔で短時間のため、術後の活動制限は少なく日中の離床が勧められる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "日中はベッドから離れて過ごすことを促す。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112B11",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "B",
+  "number": 11,
+  "year": 2023,
+  "category": "必修",
+  "kind": "related",
+  "title": "副交感神経の作用（瞳孔）",
+  "topic": "自律神経と瞳孔",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "副交感神経の作用で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "瞳孔散大",
+    "judgment": "誤答",
+    "explanation": "瞳孔散大は交感神経の作用。副交感神経は瞳孔括約筋を収縮させ縮瞳する。"
+   },
+   {
+    "number": "2",
+    "text": "気管支拡張",
+    "judgment": "誤答",
+    "explanation": "気管支拡張は交感神経。"
+   },
+   {
+    "number": "3",
+    "text": "心拍数の増加",
+    "judgment": "誤答",
+    "explanation": "心拍数増加は交感神経。"
+   },
+   {
+    "number": "4",
+    "text": "消化液分泌の促進",
+    "judgment": "正答",
+    "explanation": "副交感神経は消化管の運動と消化液分泌を促進する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "副交感神経は消化液分泌を促進し、縮瞳・心拍数減少・気管支収縮を起こす。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "消化液分泌の促進"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112B41",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "B",
+  "number": 41,
+  "year": 2023,
+  "category": "一般",
+  "kind": "related",
+  "title": "与薬方法（点眼）",
+  "topic": "点眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "成人への与薬方法で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "筋肉内注射は大殿筋に行う。",
+    "judgment": "誤答",
+    "explanation": "筋肉内注射は中殿筋や三角筋に行う。大殿筋は坐骨神経損傷の危険がある。"
+   },
+   {
+    "number": "2",
+    "text": "坐薬は肛門から1cm挿入する。",
+    "judgment": "誤答",
+    "explanation": "坐薬は成人で3～5cm程度挿入する。"
+   },
+   {
+    "number": "3",
+    "text": "バッカル錠は、かんでから飲み込む。",
+    "judgment": "誤答",
+    "explanation": "バッカル錠は臼歯と頰の間に挟んで溶かし、かまない。"
+   },
+   {
+    "number": "4",
+    "text": "点眼薬は下眼瞼結膜の中央に滴下する。",
+    "judgment": "正答",
+    "explanation": "角膜に直接落とすと刺激が強いため、下眼瞼結膜の中央に滴下し、点眼後は静かに閉眼して目頭を軽く押さえる。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 18,
+  "question_summary": "点眼薬は下眼瞼を軽く引き、下眼瞼結膜（結膜囊）の中央に1滴落とす。容器の先端は睫毛や眼に触れさせない。",
+  "explanation": "第111回午後38の点眼の設問と合わせて手順を確認する。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "点眼薬は下眼瞼結膜の中央に滴下する。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112B50",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "B",
+  "number": 50,
+  "year": 2023,
+  "category": "一般",
+  "kind": "weak",
+  "title": "シクロホスファミド（緑内障の選択肢）",
+  "topic": "薬剤と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "シクロホスファミドを投与している患者で注意が必要なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "緑内障",
+    "judgment": "誤答",
+    "explanation": "緑内障（眼圧上昇）はステロイドや抗コリン薬で注意する副作用。"
+   },
+   {
+    "number": "2",
+    "text": "間質性肺炎",
+    "judgment": "誤答",
+    "explanation": "間質性肺炎はブレオマイシンやメトトレキサートなど。"
+   },
+   {
+    "number": "3",
+    "text": "歯肉の肥厚",
+    "judgment": "誤答",
+    "explanation": "歯肉肥厚はフェニトインやシクロスポリン。"
+   },
+   {
+    "number": "4",
+    "text": "出血性膀胱炎",
+    "judgment": "正答",
+    "explanation": "代謝物アクロレインが膀胱粘膜を傷害するため、十分な水分摂取とメスナで予防する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 20,
+  "question_summary": "シクロホスファミドの特徴的な副作用は出血性膀胱炎。緑内障を悪化させるのは副腎皮質ステロイドや抗コリン薬。",
+  "explanation": "眼に注意が必要な薬剤：ステロイド（白内障・緑内障）、抗コリン薬（閉塞隅角緑内障）、エタンブトール（視神経炎）、ヒドロキシクロロキン（網膜症）。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "出血性膀胱炎"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112B91",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "B",
+  "number": 91,
+  "year": 2023,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "高血糖の意識障害（対光反射・瞳孔）",
+  "topic": "瞳孔所見と意識障害",
+  "case_id": "112B091-093",
+  "case_text": "A さん（61歳、男性、会社員）はデスクワーク中心の仕事をしている。今朝、職場へ出勤したが、自分の机の位置や同僚の名前が分からない等の見当識障害があり、同僚に付き添われ救急外来を受診した。頭痛、嘔吐、めまいはない。現病歴：4年前に2型糖尿病と診断され、経口糖尿病薬が開始された。1年前から受診を自己判断で中断している。身体所見：身長170cm、体重100kg。体温38.6℃、呼吸数22/分、脈拍112/分、整、血圧108/64mmHg。対光反射（＋）、瞳孔不同（－）。歩行可能。右第1趾に発赤、腫脹、異臭がある。検査所見：白血球19,200/μL、血糖904mg/dL、Na 131mEq/L、K 3.4mEq/L、ヘモグロビンA1c〈HbA1c〉9.2%、アンモニア49μg/dL、CRP 22mg/dL。動脈血液ガス分析pH 7.32。血漿浸透圧394mOsm/L。尿ケトン体（±）。",
+  "question_text": "A さんの状態のアセスメントで適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "肝性脳症",
+    "judgment": "誤答",
+    "explanation": "アンモニアは正常範囲で肝性脳症は否定的。"
+   },
+   {
+    "number": "2",
+    "text": "小脳出血",
+    "judgment": "誤答",
+    "explanation": "頭痛・嘔吐・めまいがなく、瞳孔不同や神経局所症状もないため小脳出血は考えにくい。"
+   },
+   {
+    "number": "3",
+    "text": "ケトアシドーシス〈DKA〉",
+    "judgment": "誤答",
+    "explanation": "DKAではpHが7.3未満に下がり尿ケトンが強陽性になる。"
+   },
+   {
+    "number": "4",
+    "text": "高浸透圧高血糖状態〈HHS〉",
+    "judgment": "正答",
+    "explanation": "高齢・2型糖尿病で、著明な高血糖と高浸透圧、意識障害、感染（足病変）の誘因がそろいHHSが最も適切。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 36,
+  "question_summary": "高血糖（904mg/dL）、血漿浸透圧上昇、軽度のpH低下、ケトン体±は高浸透圧高血糖状態（HHS）。対光反射（＋）・瞳孔不同（－）は脳の局所病変を示さない。",
+  "explanation": "意識障害の初期評価で瞳孔（左右差・対光反射）を確認するのは、脳ヘルニアや脳幹病変を除外するため。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "高浸透圧高血糖状態〈HHS〉"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112B94",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "B",
+  "number": 94,
+  "year": 2023,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "GCS（開眼）",
+  "topic": "意識レベル評価と開眼",
+  "case_id": "112B094-096",
+  "case_text": "A さん（53歳、女性）は休日に公園を散歩中、階段から落ちて頭部を強打し、意識を消失した状態で病院に救急搬送された。病院到着時のA さんは開眼せず、声は発しているが理解不能である。痛み刺激には逃れようとする動作がみられる。",
+  "question_text": "グラスゴー・コーマ・スケール〈GCS〉によるA さんの意識レベルの評価はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "E1V1M2",
+    "judgment": "誤答",
+    "explanation": "M2は痛み刺激で伸展する除脳姿勢。"
+   },
+   {
+    "number": "2",
+    "text": "E1V2M4",
+    "judgment": "正答",
+    "explanation": "E1V2M4。開眼の評価は意識レベルの最初の指標になる。"
+   },
+   {
+    "number": "3",
+    "text": "E2V2M2",
+    "judgment": "誤答",
+    "explanation": "E2は痛み刺激で開眼する。"
+   },
+   {
+    "number": "4",
+    "text": "E4V5M5",
+    "judgment": "誤答",
+    "explanation": "E4V5M5はほぼ清明。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 38,
+  "question_summary": "開眼なし（E1）、理解不能の発声（V2）、痛み刺激からの逃避（M4）でGCS 7点。",
+  "explanation": "GCSの開眼（E）は自発4・呼びかけ3・痛み刺激2・なし1。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "E1V2M4"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "112B95",
+  "exam_type": "看護師国家試験",
+  "exam_id": "112",
+  "round": 112,
+  "session": "B",
+  "number": 95,
+  "year": 2023,
+  "category": "状況設定",
+  "kind": "related",
+  "title": "硬膜外血腫と瞳孔の状態",
+  "topic": "瞳孔所見と脳ヘルニア",
+  "case_id": "112B094-096",
+  "case_text": "A さん（53歳、女性）は休日に公園を散歩中、階段から落ちて頭部を強打し、意識を消失した状態で病院に救急搬送された。病院到着時のA さんは開眼せず、声は発しているが理解不能である。痛み刺激には逃れようとする動作がみられる。",
+  "question_text": "A さんは右側の急性硬膜外血腫と診断され、緊急開頭手術を受けることになった。術前のバイタルサインは、体温37.2℃、呼吸数14/分、脈拍74/分、整。血圧は、搬送時の134/84mmHgから174/66mmHgに上昇し、痛み刺激に対する反応が消失している。このときのA さんの瞳孔の状態はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "（図）右眼・左眼とも瞳孔は中等度の大きさで左右同大",
+    "judgment": "正答",
+    "explanation": "公式の取扱いで正解とされた選択肢。設問の情報だけでは瞳孔不同の有無を一義的に決められないとして、左右同大の図も正解とされた。"
+   },
+   {
+    "number": "2",
+    "text": "（図）右眼・左眼とも瞳孔が小さい（両側縮瞳）",
+    "judgment": "誤答",
+    "explanation": "両側縮瞳は橋出血や麻薬・有機リン中毒でみられる所見。"
+   },
+   {
+    "number": "3",
+    "text": "（図）右眼の瞳孔が大きく、左眼は中等度（右側散瞳・瞳孔不同）",
+    "judgment": "正答",
+    "explanation": "右側血腫による鉤ヘルニアで右動眼神経が圧迫され、右瞳孔が散大し左右差（瞳孔不同）が生じる。"
+   },
+   {
+    "number": "4",
+    "text": "（図）左眼の瞳孔が大きく、右眼は中等度（左側散瞳・瞳孔不同）",
+    "judgment": "誤答",
+    "explanation": "左散瞳は左側の病変を示し、右側血腫では典型的でない。"
+   }
+  ],
+  "official_answer": [
+   "1",
+   "3"
+  ],
+  "answer_note": "公式の採点上の取扱い：複数の選択肢を正解として採点する。（理由：設問が不明確で複数の選択肢が正解と考えられるため。）",
+  "has_image": true,
+  "image_ref": "",
+  "pdf_page": 38,
+  "question_summary": "右側の急性硬膜外血腫で血圧上昇と痛み反応の消失が進んだ状況では、脳ヘルニアによる右（同側）動眼神経圧迫で右散瞳・瞳孔不同が典型。公式には選択肢1と3の両方が正解とされた。",
+  "explanation": "採点上の取扱い：「複数の選択肢を正解として採点する」（理由：設問が不明確で複数の選択肢が正解と考えられるため）。血圧上昇・脈圧増大・徐脈（Cushing徴候）と瞳孔不同は切迫する脳ヘルニアのサイン。",
+  "incorrect_points": "瞳孔の観察は、大きさ（mm）、左右差、対光反射をセットで記録する。",
+  "clinical_note": "選択肢は瞳孔の図（右眼・左眼）で示されている。原図は公式PDFを参照。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "（図）右眼・左眼とも瞳孔は中等度の大きさで左右同大",
+   "（図）右眼の瞳孔が大きく、左眼は中等度（右側散瞳・瞳孔不同）"
+  ],
+  "multiple_answers": true,
+  "select_two": false
+ },
+ {
+  "id": "113A14",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "A",
+  "number": 14,
+  "year": 2024,
+  "category": "必修",
+  "kind": "related",
+  "title": "脳死の状態（縮瞳）",
+  "topic": "瞳孔所見と脳死",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "脳死の状態はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "縮瞳がある。",
+    "judgment": "誤答",
+    "explanation": "脳死では瞳孔は散大・固定（両側4mm以上）し、縮瞳はみられない。"
+   },
+   {
+    "number": "2",
+    "text": "脳波で徐波がみられる。",
+    "judgment": "誤答",
+    "explanation": "脳波は平坦になる。"
+   },
+   {
+    "number": "3",
+    "text": "自発呼吸は停止している。",
+    "judgment": "正答",
+    "explanation": "脳幹機能の喪失により自発呼吸は停止し、無呼吸テストで確認する。"
+   },
+   {
+    "number": "4",
+    "text": "痛み刺激で逃避反応がある。",
+    "judgment": "誤答",
+    "explanation": "痛み刺激への反応はない。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 10,
+  "question_summary": "脳死では自発呼吸が停止し、瞳孔は散大・固定して対光反射が消失する。",
+  "explanation": "脳死判定の項目は、深昏睡、瞳孔散大・固定、脳幹反射（対光・角膜反射など）の消失、平坦脳波、自発呼吸の停止。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "自発呼吸は停止している。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113A19",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "A",
+  "number": 19,
+  "year": 2024,
+  "category": "必修",
+  "kind": "related",
+  "title": "膝蓋腱反射低下と夜盲症",
+  "topic": "ビタミン欠乏と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "膝蓋腱反射の低下で疑われる病態はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "脚気",
+    "judgment": "正答",
+    "explanation": "脚気では末梢神経障害で腱反射が低下し、心不全（浮腫）を伴う。"
+   },
+   {
+    "number": "2",
+    "text": "壊血病",
+    "judgment": "誤答",
+    "explanation": "壊血病はビタミンC欠乏で出血傾向。"
+   },
+   {
+    "number": "3",
+    "text": "くる病",
+    "judgment": "誤答",
+    "explanation": "くる病はビタミンD欠乏で骨の変形。"
+   },
+   {
+    "number": "4",
+    "text": "夜盲症",
+    "judgment": "誤答",
+    "explanation": "夜盲症はビタミンA欠乏で、網膜のロドプシン合成が障害され暗所で見えにくくなる。腱反射は保たれる。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 11,
+  "question_summary": "膝蓋腱反射の低下はビタミンB1欠乏（脚気）。夜盲症はビタミンA欠乏。",
+  "explanation": "ビタミンA欠乏は夜盲・角膜乾燥症（眼球乾燥症）を起こす。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "脚気"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B08",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 8,
+  "year": 2024,
+  "category": "必修",
+  "kind": "direct",
+  "title": "老化に伴う視覚の変化",
+  "topic": "水晶体・加齢（老視）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "老化に伴う視覚の変化で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視野が狭くなる。",
+    "judgment": "正答",
+    "explanation": "加齢で周辺視野が狭くなり、転倒やぶつかりの原因になる。"
+   },
+   {
+    "number": "2",
+    "text": "近くが見やすくなる。",
+    "judgment": "誤答",
+    "explanation": "老視で近くは見にくくなる。"
+   },
+   {
+    "number": "3",
+    "text": "色の識別がしやすくなる。",
+    "judgment": "誤答",
+    "explanation": "水晶体の黄変で青系の色の識別がしにくくなる。"
+   },
+   {
+    "number": "4",
+    "text": "明暗順応の時間が短縮する。",
+    "judgment": "誤答",
+    "explanation": "明暗順応の時間は延長する。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 8,
+  "question_summary": "老化に伴い視野は狭くなり、近くが見にくく、色の識別がしにくく、明暗順応に時間がかかる。",
+  "explanation": "高齢者の環境調整は、十分な照明、段差の明示、暗所への急な移動を避ける。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "視野が狭くなる。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B25",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 25,
+  "year": 2024,
+  "category": "必修",
+  "kind": "related",
+  "title": "緑内障患者への禁忌薬",
+  "topic": "緑内障",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "緑内障患者への投与が禁忌なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "コデイン",
+    "judgment": "誤答",
+    "explanation": "コデインは鎮咳薬・鎮痛薬で緑内障の禁忌ではない。"
+   },
+   {
+    "number": "2",
+    "text": "アスピリン",
+    "judgment": "誤答",
+    "explanation": "アスピリンは禁忌ではない。"
+   },
+   {
+    "number": "3",
+    "text": "アトロピン",
+    "judgment": "正答",
+    "explanation": "アトロピンは散瞳により隅角が狭くなり房水の流出が妨げられ、急性緑内障発作を誘発し得る。"
+   },
+   {
+    "number": "4",
+    "text": "ジゴキシン",
+    "judgment": "誤答",
+    "explanation": "ジゴキシンは視覚異常（黄視）を起こすが緑内障の禁忌ではない。"
+   },
+   {
+    "number": "5",
+    "text": "フェニトイン",
+    "judgment": "誤答",
+    "explanation": "フェニトインは禁忌ではない。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 13,
+  "question_summary": "抗コリン薬のアトロピンは散瞳と隅角閉塞を起こし眼圧を上げるため、閉塞隅角緑内障に禁忌。",
+  "explanation": "抗コリン作用をもつ薬（アトロピン、ブチルスコポラミン、三環系抗うつ薬、抗ヒスタミン薬など）は閉塞隅角緑内障で注意する。",
+  "incorrect_points": "",
+  "clinical_note": "添付文書上の禁忌は「閉塞隅角緑内障」で、治療中の開放隅角緑内障は多くが慎重投与。医師に確認する。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "アトロピン"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B26",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 26,
+  "year": 2024,
+  "category": "一般",
+  "kind": "direct",
+  "title": "交感神経の興奮による眼の反応",
+  "topic": "自律神経と瞳孔",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "交感神経の興奮によって起こる眼の反応はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "散瞳",
+    "judgment": "正答",
+    "explanation": "交感神経は瞳孔散大筋を収縮させ散瞳する。"
+   },
+   {
+    "number": "2",
+    "text": "流涙",
+    "judgment": "誤答",
+    "explanation": "涙腺分泌は副交感神経（顔面神経）が促進する。"
+   },
+   {
+    "number": "3",
+    "text": "明順応",
+    "judgment": "誤答",
+    "explanation": "明順応は網膜の錐体細胞の働きで、交感神経の反応ではない。"
+   },
+   {
+    "number": "4",
+    "text": "対光反射",
+    "judgment": "誤答",
+    "explanation": "対光反射は副交感神経（動眼神経）による縮瞳。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 13,
+  "question_summary": "交感神経の興奮で瞳孔散大筋が収縮し散瞳する。流涙・縮瞳は副交感神経。",
+  "explanation": "散瞳＝交感、縮瞳＝副交感。有機リン中毒（副交感優位）で縮瞳、抗コリン薬で散瞳。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "散瞳"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B34",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 34,
+  "year": 2024,
+  "category": "一般",
+  "kind": "weak",
+  "title": "指鼻試験（視野の選択肢）",
+  "topic": "神経学的検査と視野",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "指鼻試験で評価するのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視野",
+    "judgment": "誤答",
+    "explanation": "視野は対座法や視野計で評価する。"
+   },
+   {
+    "number": "2",
+    "text": "小脳機能",
+    "judgment": "正答",
+    "explanation": "指鼻試験では測定障害や企図振戦を観察し、小脳機能を評価する。"
+   },
+   {
+    "number": "3",
+    "text": "表在反射",
+    "judgment": "誤答",
+    "explanation": "表在反射は腹壁反射など。"
+   },
+   {
+    "number": "4",
+    "text": "複合知覚",
+    "judgment": "誤答",
+    "explanation": "複合知覚は二点識別覚や立体覚。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 15,
+  "question_summary": "指鼻試験は小脳機能（協調運動）の検査。視野は対座法などで調べる。",
+  "explanation": "",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "小脳機能"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B80",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 80,
+  "year": 2024,
+  "category": "一般",
+  "kind": "weak",
+  "title": "咽頭結膜熱の原因ウイルス",
+  "topic": "結膜炎を起こす感染症",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "感染症と代表的な原因ウイルスの組合せで正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "手足口病 ― アデノウイルス",
+    "judgment": "誤答",
+    "explanation": "手足口病はコクサッキーウイルスやエンテロウイルス。"
+   },
+   {
+    "number": "2",
+    "text": "咽頭結膜熱 ― ヒトパピローマウイルス〈HPV〉",
+    "judgment": "誤答",
+    "explanation": "咽頭結膜熱はアデノウイルスによる。発熱・咽頭炎・結膜炎が三徴で、学校感染症第二種。"
+   },
+   {
+    "number": "3",
+    "text": "突発性発疹症 ― コクサッキーウイルス",
+    "judgment": "誤答",
+    "explanation": "突発性発疹はヒトヘルペスウイルス6・7型。"
+   },
+   {
+    "number": "4",
+    "text": "伝染性単核球症 ― Epstein-Barr〈EB〉ウイルス",
+    "judgment": "正答",
+    "explanation": "伝染性単核球症はEpstein-Barrウイルスによる。"
+   },
+   {
+    "number": "5",
+    "text": "ヘルパンギーナ ― 単純ヘルペスウイルス",
+    "judgment": "誤答",
+    "explanation": "ヘルパンギーナはコクサッキーウイルスA群。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 31,
+  "question_summary": "伝染性単核球症の原因はEBウイルス。咽頭結膜熱（プール熱）の原因はアデノウイルスで、結膜炎を伴う。",
+  "explanation": "アデノウイルスは咽頭結膜熱と流行性角結膜炎（はやり目）の原因で、接触感染対策（タオルの共用禁止、手洗い）が重要。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "伝染性単核球症 ― Epstein-Barr〈EB〉ウイルス"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B84",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 84,
+  "year": 2024,
+  "category": "一般",
+  "kind": "related",
+  "title": "Sjögren症候群（涙腺）",
+  "topic": "全身疾患と眼（Sjögren症候群）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "Sjögren〈シェーグレン〉症候群でリンパ球が浸潤して障害が起こるのはどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "胸腺",
+    "judgment": "誤答",
+    "explanation": "胸腺は重症筋無力症と関連。"
+   },
+   {
+    "number": "2",
+    "text": "涙腺",
+    "judgment": "正答",
+    "explanation": "涙腺の障害で涙液分泌が減り、乾燥性角結膜炎（ドライアイ）になる。"
+   },
+   {
+    "number": "3",
+    "text": "甲状腺",
+    "judgment": "誤答",
+    "explanation": "甲状腺は橋本病などの自己免疫疾患で障害される。"
+   },
+   {
+    "number": "4",
+    "text": "唾液腺",
+    "judgment": "正答",
+    "explanation": "唾液腺の障害で口腔乾燥、う歯の増加が起こる。"
+   },
+   {
+    "number": "5",
+    "text": "副甲状腺",
+    "judgment": "誤答",
+    "explanation": "副甲状腺は関与しない。"
+   }
+  ],
+  "official_answer": [
+   "2",
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 33,
+  "question_summary": "Sjögren症候群では涙腺と唾液腺にリンパ球が浸潤し、ドライアイと口腔乾燥を起こす。",
+  "explanation": "ドライアイの看護は人工涙液の点眼、加湿、長時間の画面注視を避ける指導。シルマー試験で涙液量を測る。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "涙腺",
+   "唾液腺"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "113B92",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 92,
+  "year": 2024,
+  "category": "状況設定",
+  "kind": "related",
+  "title": "肺切除術の合併症（Horner症候群）",
+  "topic": "全身疾患と眼（Horner症候群）",
+  "case_id": "113B091-093",
+  "case_text": "A さん（58歳、男性、会社員）は、身長175cm、体重73kgである。A さんは、健康診断の胸部エックス線撮影で異常陰影を指摘され、3週前に胸部造影CT検査を受けた。左肺下葉に約8mmの病変が見つかり、精密検査の結果、肺癌（T1N0M0）と診断され、本日、手術目的で入院した。咳嗽、息苦しさ、喀痰はない。喫煙歴があり、20年間20本/日、禁煙後18年である。バイタルサイン：体温36.9℃、呼吸数14/分、脈拍72/分、整、血圧136/76mmHg、経皮的動脈血酸素飽和度〈SpO2〉96%（room air）。検査所見：赤血球510万/μL、Hb 15.6g/dL、Ht 47%、白血球6,200/μL、血小板32万/μL、総蛋白7.7g/dL、アルブミン4.2g/dL、空腹時血糖102mg/dL。呼吸機能所見：%VC 76%、FEV1% 73%。",
+  "question_text": "A さんは、入院2日目に胸腔鏡下左下葉切除術を受ける予定である。A さんは看護師に「全身麻酔で手術を受けるのは初めてです。医師から手術の説明はあったけれど、合併症についてもう一度教えてもらえますか」と質問した。A さんに生じる可能性が高い合併症はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "気胸",
+    "judgment": "正答",
+    "explanation": "肺の切除後は肺瘻（エアリーク）による気胸が起こり得るため、胸腔ドレーンの管理と呼吸状態の観察を行う。"
+   },
+   {
+    "number": "2",
+    "text": "反回神経麻痺",
+    "judgment": "誤答",
+    "explanation": "反回神経麻痺は上縦隔や甲状腺の手術で起こりやすい。"
+   },
+   {
+    "number": "3",
+    "text": "Horner〈ホルネル〉症候群",
+    "judgment": "誤答",
+    "explanation": "Horner症候群は頸部交感神経の障害で縮瞳・眼瞼下垂・眼裂狭小・顔面の発汗低下を起こす。肺尖部腫瘍の浸潤で生じ、左下葉の手術では起こりにくい。"
+   },
+   {
+    "number": "4",
+    "text": "Pancoast〈パンコースト〉症候群",
+    "judgment": "誤答",
+    "explanation": "Pancoast症候群は肺尖部腫瘍による腕神経叢浸潤で上肢の疼痛や筋萎縮を起こす。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 36,
+  "question_summary": "肺葉切除後に起こりやすい合併症は気胸。Horner症候群やPancoast症候群は肺尖部腫瘍の浸潤で起こる。",
+  "explanation": "Horner症候群の三徴（縮瞳・眼瞼下垂・眼球陥凹）は第112回午前48の肺尖部肺癌の設問と合わせて覚える。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "気胸"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B100",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 100,
+  "year": 2024,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "急性糸球体腎炎（眼瞼浮腫）",
+  "topic": "全身疾患と眼（腎炎の眼瞼浮腫）",
+  "case_id": "113B100-102",
+  "case_text": "A ちゃん（7歳、女児）は、頭痛、食欲不振、全身倦怠感、肉眼的血尿および両眼瞼の浮腫を主訴に来院した。1か月前に扁桃炎に罹患した以外は既往歴に特記すべきことはない。扁桃炎は抗菌薬を内服し軽快した。検査の結果、溶連菌感染後急性糸球体腎炎と診断されて入院した。入院時、A ちゃんは体温36.6℃、呼吸数20/分、心拍数84/分、血圧130/80mmHgで、床上安静の指示が出された。",
+  "question_text": "A ちゃんの入院時の看護計画で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "水分摂取を促す。",
+    "judgment": "誤答",
+    "explanation": "乏尿・浮腫があるため水分は制限する。"
+   },
+   {
+    "number": "2",
+    "text": "1日3回の血圧測定を行う。",
+    "judgment": "正答",
+    "explanation": "高血圧性脳症や心不全を防ぐため血圧を定期的に測定し、安静を保つ。"
+   },
+   {
+    "number": "3",
+    "text": "食事の持ち込みを許可する。",
+    "judgment": "誤答",
+    "explanation": "塩分・蛋白質の制限があるため持ち込みは許可しない。"
+   },
+   {
+    "number": "4",
+    "text": "腰部に消炎鎮痛薬を貼用する。",
+    "judgment": "誤答",
+    "explanation": "腰部の痛みはなく、消炎鎮痛薬は腎機能に影響する。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 42,
+  "question_summary": "急性糸球体腎炎では高血圧の管理が重要で、1日3回の血圧測定を計画する。眼瞼浮腫は腎性浮腫の初発部位。",
+  "explanation": "腎性浮腫は組織の緩い眼瞼に朝方から現れやすく、腎疾患を疑う所見になる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "1日3回の血圧測定を行う。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "113B101",
+  "exam_type": "看護師国家試験",
+  "exam_id": "113",
+  "round": 113,
+  "session": "B",
+  "number": 101,
+  "year": 2024,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "高血圧時の症状（眼のかゆみの選択肢）",
+  "topic": "全身疾患と眼（腎炎の眼瞼浮腫）",
+  "case_id": "113B100-102",
+  "case_text": "A ちゃん（7歳、女児）は、頭痛、食欲不振、全身倦怠感、肉眼的血尿および両眼瞼の浮腫を主訴に来院した。1か月前に扁桃炎に罹患した以外は既往歴に特記すべきことはない。扁桃炎は抗菌薬を内服し軽快した。検査の結果、溶連菌感染後急性糸球体腎炎と診断されて入院した。入院時、A ちゃんは体温36.6℃、呼吸数20/分、心拍数84/分、血圧130/80mmHgで、床上安静の指示が出された。",
+  "question_text": "入院3日。両眼瞼の浮腫と肉眼的血尿は続いていた。看護師がA ちゃんのベッドサイドを訪れると、A ちゃんは「頭が痛い。気持ち悪い」と訴えた。A ちゃんは体温36.6℃、呼吸数20/分、心拍数92/分、血圧148/88mmHgであった。この状況からA ちゃんに起こりうる症状はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "眼のかゆみ",
+    "judgment": "誤答",
+    "explanation": "眼のかゆみはアレルギー性結膜炎の症状で、この状況とは関係がない。"
+   },
+   {
+    "number": "2",
+    "text": "意識障害",
+    "judgment": "正答",
+    "explanation": "血圧148/88mmHgと頭痛・嘔気は高血圧性脳症の前兆で、意識障害・けいれんに進み得る。"
+   },
+   {
+    "number": "3",
+    "text": "耳漏",
+    "judgment": "誤答",
+    "explanation": "耳漏は中耳炎。"
+   },
+   {
+    "number": "4",
+    "text": "鼻閉",
+    "judgment": "誤答",
+    "explanation": "鼻閉は関係がない。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 42,
+  "question_summary": "血圧上昇に頭痛・嘔気を伴う状況では高血圧性脳症による意識障害やけいれんを警戒する。",
+  "explanation": "小児の血圧は成人基準より低く、学童で130/80mmHg以上は高血圧。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "意識障害"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114A11",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "A",
+  "number": 11,
+  "year": 2025,
+  "category": "必修",
+  "kind": "direct",
+  "title": "眼球運動を行う神経",
+  "topic": "脳神経と眼（対光反射・眼球運動）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "眼球運動を行う神経はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視神経",
+    "judgment": "誤答",
+    "explanation": "視神経は網膜からの視覚情報を伝える感覚神経で、眼球を動かさない。"
+   },
+   {
+    "number": "2",
+    "text": "外転神経",
+    "judgment": "正答",
+    "explanation": "外転神経は外側直筋を支配し、眼球を外側に向ける。"
+   },
+   {
+    "number": "3",
+    "text": "顔面神経",
+    "judgment": "誤答",
+    "explanation": "顔面神経は表情筋（閉眼）を支配する。"
+   },
+   {
+    "number": "4",
+    "text": "三叉神経",
+    "judgment": "誤答",
+    "explanation": "三叉神経は顔面の知覚と咀嚼筋を支配する。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 9,
+  "question_summary": "眼球運動は動眼神経、滑車神経、外転神経が担う。",
+  "explanation": "動眼神経は上直筋・下直筋・内側直筋・下斜筋・上眼瞼挙筋と瞳孔括約筋、滑車神経は上斜筋、外転神経は外側直筋。",
+  "incorrect_points": "麻痺すると複視が起こる。外転神経麻痺では内斜視になる。",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "外転神経"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114A31",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "A",
+  "number": 31,
+  "year": 2025,
+  "category": "一般",
+  "kind": "weak",
+  "title": "重症筋無力症の合併症",
+  "topic": "重症筋無力症と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "重症筋無力症myasthenia gravis に合併する頻度が最も高いのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "胸腺腫",
+    "judgment": "正答",
+    "explanation": "重症筋無力症の約10～20%に胸腺腫、多くに胸腺過形成がみられ、胸腺摘出術の適応になる。"
+   },
+   {
+    "number": "2",
+    "text": "胸膜中皮腫",
+    "judgment": "誤答",
+    "explanation": "胸膜中皮腫はアスベスト曝露と関連。"
+   },
+   {
+    "number": "3",
+    "text": "甲状腺腫瘍",
+    "judgment": "誤答",
+    "explanation": "甲状腺腫瘍との合併頻度は高くない。"
+   },
+   {
+    "number": "4",
+    "text": "悪性リンパ腫",
+    "judgment": "誤答",
+    "explanation": "悪性リンパ腫は関連しない。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 15,
+  "question_summary": "重症筋無力症は胸腺腫を合併しやすい。眼瞼下垂・複視で初発することが多い。",
+  "explanation": "眼筋型では眼瞼下垂と複視が主症状で、夕方に悪化する日内変動が特徴。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "胸腺腫"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114A80",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "A",
+  "number": 80,
+  "year": 2025,
+  "category": "一般",
+  "kind": "related",
+  "title": "Ⅱ型アレルギー（アレルギー性結膜炎）",
+  "topic": "アレルギーと眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "Ⅱ型アレルギーで起こる疾患はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "糸球体腎炎",
+    "judgment": "誤答",
+    "explanation": "糸球体腎炎は免疫複合体によるⅢ型。"
+   },
+   {
+    "number": "2",
+    "text": "関節リウマチ",
+    "judgment": "誤答",
+    "explanation": "関節リウマチはⅢ型（およびⅣ型）の機序。"
+   },
+   {
+    "number": "3",
+    "text": "アトピー性皮膚炎",
+    "judgment": "誤答",
+    "explanation": "アトピー性皮膚炎はⅠ型を中心とする。"
+   },
+   {
+    "number": "4",
+    "text": "アレルギー性結膜炎",
+    "judgment": "誤答",
+    "explanation": "アレルギー性結膜炎は花粉などへのIgE抗体による即時型（Ⅰ型）。かゆみ・充血・流涙が出る。"
+   },
+   {
+    "number": "5",
+    "text": "特発性血小板減少性紫斑病〈ITP〉",
+    "judgment": "正答",
+    "explanation": "ITPは血小板に対する自己抗体で血小板が破壊されるⅡ型。"
+   }
+  ],
+  "official_answer": [
+   "5"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 30,
+  "question_summary": "Ⅱ型アレルギーは細胞表面抗原に対する抗体による障害で、特発性血小板減少性紫斑病が該当する。アレルギー性結膜炎はⅠ型。",
+  "explanation": "眼のアレルギー疾患はⅠ型が中心。春季カタルやアトピー性角結膜炎は重症型で角膜障害を伴う。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "特発性血小板減少性紫斑病〈ITP〉"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114A86",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "A",
+  "number": 86,
+  "year": 2025,
+  "category": "一般",
+  "kind": "related",
+  "title": "末梢性顔面神経麻痺の症状（眼瞼・複視）",
+  "topic": "顔面神経と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "片側性の末梢性顔面神経麻痺の症状はどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "眼瞼が下垂する。",
+    "judgment": "誤答",
+    "explanation": "眼瞼下垂は上眼瞼挙筋（動眼神経）の障害。顔面神経麻痺では眼輪筋が働かず「閉じられない」状態になる。"
+   },
+   {
+    "number": "2",
+    "text": "顔面の知覚が鈍い。",
+    "judgment": "誤答",
+    "explanation": "顔面の知覚は三叉神経の支配で保たれる。"
+   },
+   {
+    "number": "3",
+    "text": "口角が垂れ下がる。",
+    "judgment": "正答",
+    "explanation": "口輪筋の麻痺で口角が下がり、水が漏れる。"
+   },
+   {
+    "number": "4",
+    "text": "物が二重に見える。",
+    "judgment": "誤答",
+    "explanation": "複視は外眼筋を動かす動眼・滑車・外転神経の障害で起こる。"
+   },
+   {
+    "number": "5",
+    "text": "額にできるしわに左右差がある。",
+    "judgment": "正答",
+    "explanation": "末梢性では前頭筋も麻痺し額のしわに左右差が出る。中枢性では額のしわは保たれる。"
+   }
+  ],
+  "official_answer": [
+   "3",
+   "5"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 32,
+  "question_summary": "末梢性顔面神経麻痺では同側の額のしわ寄せができず、閉眼不全（兎眼）と口角下垂が起こる。眼瞼下垂や複視は起こらない。",
+  "explanation": "閉眼不全があると角膜が乾燥し角膜炎・潰瘍を起こすため、点眼・眼軟膏と就寝時の眼の保護（テープ・眼帯）が看護のポイント。",
+  "incorrect_points": "「眼瞼下垂＝動眼神経」「閉眼不全＝顔面神経」を混同しない。",
+  "clinical_note": "Bell麻痺やRamsay Hunt症候群が代表。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "口角が垂れ下がる。",
+   "額にできるしわに左右差がある。"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "114A97",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "A",
+  "number": 97,
+  "year": 2025,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "JCS（開眼）",
+  "topic": "意識レベル評価と開眼",
+  "case_id": "114A097-099",
+  "case_text": "A さん（50歳、女性、会社員）は、職場で激しい頭痛を訴えて倒れ、意識を失って、救急搬送された。救命救急センター到着時のバイタルサインは、体温36.7℃、呼吸数20/分、脈拍88/分、血圧168/88mmHg、経皮的動脈血酸素飽和度〈SpO2〉98%（room air）であった。閉眼していたので、大声で話しかけると開眼したが、すぐに閉眼して眠り込んでしまう。",
+  "question_text": "A さんの意識レベルは、ジャパン・コーマ・スケール〈JCS〉で評価するとどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "Ⅱ-10",
+    "judgment": "誤答",
+    "explanation": "Ⅱ-10は普通の呼びかけで開眼する。"
+   },
+   {
+    "number": "2",
+    "text": "Ⅱ-20",
+    "judgment": "正答",
+    "explanation": "Ⅱ-20は大きな声または体をゆさぶることで開眼する。刺激をやめると眠る。"
+   },
+   {
+    "number": "3",
+    "text": "Ⅲ-100",
+    "judgment": "誤答",
+    "explanation": "Ⅲ-100は痛み刺激に払いのける動作をするが開眼しない。"
+   },
+   {
+    "number": "4",
+    "text": "Ⅲ-200",
+    "judgment": "誤答",
+    "explanation": "Ⅲ-200は痛み刺激で少し手足を動かす。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 38,
+  "question_summary": "大声で呼びかけると開眼するが、刺激をやめると眠り込む状態はJCS Ⅱ-20。",
+  "explanation": "JCSのⅠ桁は開眼している、Ⅱ桁は刺激で開眼する、Ⅲ桁は刺激しても開眼しない。開眼の有無が評価の軸になる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "Ⅱ-20"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114B52",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "B",
+  "number": 52,
+  "year": 2025,
+  "category": "一般",
+  "kind": "direct",
+  "title": "散瞳薬を用いた眼底検査の説明",
+  "topic": "検査・散瞳",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "散瞳薬を用いた眼底検査を受ける成人への説明で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "｢角膜を観察します｣",
+    "judgment": "誤答",
+    "explanation": "眼底検査で観察するのは網膜・視神経乳頭・血管。角膜は前眼部の検査で見る。"
+   },
+   {
+    "number": "2",
+    "text": "｢検査後に抗菌薬を点眼します｣",
+    "judgment": "誤答",
+    "explanation": "散瞳薬を点眼して検査するが、検査後に抗菌薬を点眼する決まりはない。"
+   },
+   {
+    "number": "3",
+    "text": "｢眼を閉じた状態で検査室に誘導します｣",
+    "judgment": "誤答",
+    "explanation": "眼を閉じて誘導する必要はない。散瞳後はまぶしいので暗い場所で待ってもらう。"
+   },
+   {
+    "number": "4",
+    "text": "｢点眼後30 分で散瞳薬の効果が現れます｣",
+    "judgment": "正答",
+    "explanation": "散瞳薬（トロピカミドなど）は点眼後20～30分で散瞳し、数時間続くため、効果発現までの待ち時間を説明する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 21,
+  "question_summary": "散瞳薬は点眼後20～30分で効果が現れ、4～5時間続く。検査後は見えにくく運転できない。",
+  "explanation": "第109回午後52と同じ主題。散瞳薬使用時は閉塞隅角緑内障の有無の確認、検査後の羞明・近見障害、自動車運転の禁止を説明する。",
+  "incorrect_points": "",
+  "clinical_note": "急性緑内障発作の既往や浅前房のある患者には散瞳薬が禁忌になる。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "｢点眼後30 分で散瞳薬の効果が現れます｣"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114B56",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "B",
+  "number": 56,
+  "year": 2025,
+  "category": "一般",
+  "kind": "related",
+  "title": "内視鏡検査前の確認（白内障）",
+  "topic": "検査前の確認（緑内障と白内障の区別）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A さん（81 歳、男性）は、大腸内視鏡検査を受けることになった。検査前にA さんへ看護師が確認する項目で最も優先されるのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "義歯の使用",
+    "judgment": "誤答",
+    "explanation": "義歯は上部消化管内視鏡で重要。"
+   },
+   {
+    "number": "2",
+    "text": "白内障cataract の有無",
+    "judgment": "誤答",
+    "explanation": "白内障は水晶体の混濁で、抗コリン薬の禁忌ではない。禁忌になるのは閉塞隅角緑内障。"
+   },
+   {
+    "number": "3",
+    "text": "保持できない姿勢",
+    "judgment": "誤答",
+    "explanation": "体位保持は確認するが最優先ではない。"
+   },
+   {
+    "number": "4",
+    "text": "前立腺肥大症の有無",
+    "judgment": "正答",
+    "explanation": "ブチルスコポラミンなどの抗コリン薬は尿閉を起こすため、前立腺肥大症は最優先で確認する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 23,
+  "question_summary": "大腸内視鏡検査では腸管の動きを抑える抗コリン薬を使うため、前立腺肥大症・緑内障・心疾患の有無を確認する。白内障は問題にならない。",
+  "explanation": "抗コリン薬の禁忌は「緑内障・前立腺肥大症・重篤な心疾患・麻痺性イレウス」。緑内障と白内障を取り違える設問。",
+  "incorrect_points": "",
+  "clinical_note": "実際には点眼で管理された開放隅角緑内障は多くの場合問題にならず、閉塞隅角かどうかを確認する。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "前立腺肥大症の有無"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "114B88",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "B",
+  "number": 88,
+  "year": 2025,
+  "category": "一般",
+  "kind": "related",
+  "title": "高齢者の感覚器の変化（暗順応）",
+  "topic": "水晶体・加齢（老視）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "高齢者における感覚器の変化の特徴で正しいのはどれか。2つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "高音域の聴力が保持される。",
+    "judgment": "誤答",
+    "explanation": "高音域から聴力が低下する（老人性難聴）。"
+   },
+   {
+    "number": "2",
+    "text": "痛覚の感受性が低下する。",
+    "judgment": "正答",
+    "explanation": "痛覚・温度覚の感受性が低下し、けがややけどに気付きにくい。"
+   },
+   {
+    "number": "3",
+    "text": "味覚の閾値が低下する。",
+    "judgment": "誤答",
+    "explanation": "味覚の閾値は上昇し、味を感じにくくなる。"
+   },
+   {
+    "number": "4",
+    "text": "暗順応が低下する。",
+    "judgment": "正答",
+    "explanation": "瞳孔が小さくなり、網膜の感度も落ちるため暗い場所への順応に時間がかかる。夜間の転倒予防に関わる。"
+   },
+   {
+    "number": "5",
+    "text": "嗅覚は保持される。",
+    "judgment": "誤答",
+    "explanation": "嗅覚は低下する。"
+   }
+  ],
+  "official_answer": [
+   "2",
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 34,
+  "question_summary": "高齢者では暗順応が低下し、痛覚の感受性も低下する。",
+  "explanation": "視覚の加齢変化は、老視、暗順応の低下、視野の狭小化、色（青系）の識別低下、まぶしさの増加。",
+  "incorrect_points": "",
+  "clinical_note": "夜間はフットライトを置き、急に暗い場所へ移動させない。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "痛覚の感受性が低下する。",
+   "暗順応が低下する。"
+  ],
+  "multiple_answers": true,
+  "select_two": true
+ },
+ {
+  "id": "114B118",
+  "exam_type": "看護師国家試験",
+  "exam_id": "114",
+  "round": 114,
+  "session": "B",
+  "number": 118,
+  "year": 2025,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "災害時の感染予防（ゴーグル）",
+  "topic": "個人防護具と眼の防護",
+  "case_id": "114B118-120",
+  "case_text": "午後1時に震度6強の地震が発生し、避難所が開設された。地震発生の2時間後、避難所に救護所が設置され、近隣の病院から医療救護班が派遣された。医療救護班が複数の被災者に対応するなか、A さん（54歳、男性）が搬送されてきた。A さんは右大腿部に4cmの切創があり出血部位をタオルで押さえている。すぐに看護師が切創部の処置を介助することになった。",
+  "question_text": "このときの看護師の感染予防対策で正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "ゴーグルを装着して処置の介助を行う。",
+    "judgment": "正答",
+    "explanation": "血液・体液が眼に入る曝露を防ぐため、飛散が予想される処置ではゴーグルやフェイスシールドを着用する（標準予防策）。"
+   },
+   {
+    "number": "2",
+    "text": "使い捨て手袋を1時間ごとに交換する。",
+    "judgment": "誤答",
+    "explanation": "手袋は処置ごと・患者ごとに交換し、時間で交換するものではない。"
+   },
+   {
+    "number": "3",
+    "text": "処置を行う前に破傷風のワクチンを受ける。",
+    "judgment": "誤答",
+    "explanation": "破傷風予防は受傷者に必要な対応で、看護師が処置前に接種するものではない。"
+   },
+   {
+    "number": "4",
+    "text": "看護師が着用するガウンにA さん用と記載しA さん専用にする。",
+    "judgment": "誤答",
+    "explanation": "ガウンは処置ごとに交換・廃棄する。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 54,
+  "question_summary": "出血を伴う創処置では血液が飛散し得るため、手袋に加えてゴーグル（眼の防護）を着用する。",
+  "explanation": "眼の結膜は粘膜で、血液媒介感染（B型肝炎など）の曝露経路になる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "ゴーグルを装着して処置の介助を行う。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115A03",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "A",
+  "number": 3,
+  "year": 2026,
+  "category": "必修",
+  "kind": "weak",
+  "title": "レム睡眠（眼球運動）",
+  "topic": "睡眠と眼球運動",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "レム睡眠の特徴はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "骨格筋が緊張する。",
+    "judgment": "誤答",
+    "explanation": "レム睡眠では骨格筋は弛緩（筋緊張消失）する。"
+   },
+   {
+    "number": "2",
+    "text": "急速な眼球運動を伴う。",
+    "judgment": "正答",
+    "explanation": "レム（REM）は急速眼球運動の略で、閉眼下で眼球が素早く動く。夢をみることが多い。"
+   },
+   {
+    "number": "3",
+    "text": "体熱の放散が増加する。",
+    "judgment": "誤答",
+    "explanation": "体温調節は低下し体熱放散は減る。"
+   },
+   {
+    "number": "4",
+    "text": "大脳皮質の活動が低下する。",
+    "judgment": "誤答",
+    "explanation": "大脳皮質は覚醒時に近く活動する。活動が低下するのはノンレム睡眠。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 7,
+  "question_summary": "レム睡眠では急速眼球運動がみられ、骨格筋は弛緩する。",
+  "explanation": "眼球運動は睡眠段階の判定に使う。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "急速な眼球運動を伴う。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115A20",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "A",
+  "number": 20,
+  "year": 2026,
+  "category": "必修",
+  "kind": "weak",
+  "title": "接触感染予防策（ゴーグル）",
+  "topic": "個人防護具と眼の防護",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "接触感染予防策として使用するのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "陰圧室",
+    "judgment": "誤答",
+    "explanation": "陰圧室は空気感染（結核・麻疹・水痘）の対策。"
+   },
+   {
+    "number": "2",
+    "text": "ガウン",
+    "judgment": "正答",
+    "explanation": "接触感染予防策では患者や環境に触れる際に手袋とガウンを着用する。"
+   },
+   {
+    "number": "3",
+    "text": "ゴーグル",
+    "judgment": "誤答",
+    "explanation": "ゴーグル・フェイスシールドは眼の粘膜を飛沫・血液から守る装備で、接触感染予防策に特有ではない。"
+   },
+   {
+    "number": "4",
+    "text": "N 95 マスク",
+    "judgment": "誤答",
+    "explanation": "N95マスクは空気感染予防策。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 12,
+  "question_summary": "接触感染予防策ではガウン（と手袋）を使う。ゴーグルは飛沫や血液・体液が眼に飛散する場面の標準予防策。",
+  "explanation": "眼の防護具（ゴーグル、フェイスシールド）は「眼の結膜からの曝露」を防ぐためで、吸引・採血・創処置など飛散が予想される場面で使う。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "ガウン"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115A25",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "A",
+  "number": 25,
+  "year": 2026,
+  "category": "必修",
+  "kind": "direct",
+  "title": "対光反射に関与する神経",
+  "topic": "脳神経と眼（対光反射・眼球運動）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "対光反射に関与するのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "動眼神経",
+    "judgment": "正答",
+    "explanation": "対光反射は、網膜→視神経（求心路）→中脳→動眼神経の副交感線維（遠心路）→瞳孔括約筋の経路で起こり、縮瞳する。"
+   },
+   {
+    "number": "2",
+    "text": "滑車神経",
+    "judgment": "誤答",
+    "explanation": "滑車神経は上斜筋を支配し、眼球を下内方へ動かす運動神経で、瞳孔の反射には関与しない。"
+   },
+   {
+    "number": "3",
+    "text": "三叉神経",
+    "judgment": "誤答",
+    "explanation": "三叉神経は顔面・角膜の知覚と咀嚼筋を担う。角膜反射の求心路ではあるが、対光反射には関与しない。"
+   },
+   {
+    "number": "4",
+    "text": "外転神経",
+    "judgment": "誤答",
+    "explanation": "外転神経は外側直筋を支配し眼球を外転させる。瞳孔は動かさない。"
+   },
+   {
+    "number": "5",
+    "text": "顔面神経",
+    "judgment": "誤答",
+    "explanation": "顔面神経は表情筋（閉眼を含む）と涙腺・唾液腺の分泌を担う。対光反射には関与しない。"
+   }
+  ],
+  "official_answer": [
+   "1"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 14,
+  "question_summary": "対光反射の遠心路は動眼神経に含まれる副交感神経線維で、瞳孔括約筋を収縮させる。",
+  "explanation": "対光反射は「視神経で入り、動眼神経で出る」と覚える。片眼に光を当てると両眼が縮瞳する（直接・間接対光反射）。",
+  "incorrect_points": "眼球運動の神経（動眼・滑車・外転）と、瞳孔の反射（動眼神経の副交感成分）を分けて整理する。",
+  "clinical_note": "動眼神経麻痺では散瞳・眼瞼下垂・外下方への眼位ずれがそろう。脳ヘルニアでは同側の散瞳と対光反射消失が早期徴候になる。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "動眼神経"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115A47",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "A",
+  "number": 47,
+  "year": 2026,
+  "category": "一般",
+  "kind": "related",
+  "title": "職業と健康障害（緑内障・眼疲労）",
+  "topic": "職業性疾病と眼",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "職業に伴う作業や環境と健康障害の組合せで正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "紫外線の曝露 ― 緑内障",
+    "judgment": "誤答",
+    "explanation": "紫外線の曝露で起こる眼の障害は白内障、翼状片、電気性眼炎（雪眼炎）などで、緑内障ではない。"
+   },
+   {
+    "number": "2",
+    "text": "情報機器作業 ― 眼疲労",
+    "judgment": "正答",
+    "explanation": "長時間の画面注視は眼精疲労・ドライアイ・視力低下を起こす。情報機器作業ガイドラインでは連続作業1時間以内、10～15分の休止が目安。"
+   },
+   {
+    "number": "3",
+    "text": "工具や機械の振動 ― 手指の熱感",
+    "judgment": "誤答",
+    "explanation": "工具の振動では手指の蒼白・冷感・しびれ（振動障害、白ろう病）が起こる。熱感ではない。"
+   },
+   {
+    "number": "4",
+    "text": "重量物の取り扱い ― 骨粗鬆症",
+    "judgment": "誤答",
+    "explanation": "重量物の取り扱いで起こるのは腰痛などの筋骨格系障害。骨粗鬆症は職業性疾病ではない。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 21,
+  "question_summary": "情報機器（VDT）作業は眼疲労・視力低下・肩こりなどの健康障害を起こす。",
+  "explanation": "眼に関わる職業性疾病は、VDT作業（眼疲労）、紫外線・溶接光（白内障・電気性眼炎）、粉じん・化学物質（角結膜障害）を整理する。",
+  "incorrect_points": "紫外線と緑内障を結びつけないこと。",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "情報機器作業 ― 眼疲労"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115A88",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "A",
+  "number": 88,
+  "year": 2026,
+  "category": "一般",
+  "kind": "direct",
+  "title": "老視の原因",
+  "topic": "水晶体・加齢（老視）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "老視の原因はどれか。2 つ選べ。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "房水の循環障害",
+    "judgment": "誤答",
+    "explanation": "房水の循環障害は眼圧上昇をきたし、緑内障の原因になる。調節力の低下とは別の病態。"
+   },
+   {
+    "number": "2",
+    "text": "毛様体筋の萎縮",
+    "judgment": "正答",
+    "explanation": "毛様体筋が収縮すると毛様小帯が緩み水晶体が厚くなって近くにピントが合う。加齢で毛様体筋の働きが衰えると調節力が低下する。"
+   },
+   {
+    "number": "3",
+    "text": "虹彩の弾力性の低下",
+    "judgment": "誤答",
+    "explanation": "虹彩は瞳孔の大きさ（光量）を調節する。弾力性の変化は老視の原因ではない。"
+   },
+   {
+    "number": "4",
+    "text": "網膜神経細胞の減少",
+    "judgment": "誤答",
+    "explanation": "網膜神経細胞の減少は視力・視野の障害に関わるが、ピント調節の低下である老視の原因ではない。"
+   },
+   {
+    "number": "5",
+    "text": "水晶体の弾力性の低下",
+    "judgment": "正答",
+    "explanation": "加齢で水晶体が硬くなり弾力性が低下すると、厚くなれず近くにピントが合わなくなる。老視の主因。"
+   }
+  ],
+  "official_answer": [
+   "2",
+   "5"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 34,
+  "question_summary": "老視は水晶体の弾力性低下と毛様体筋の機能低下で調節力が落ちる状態。",
+  "explanation": "老視は40歳代から自覚される生理的変化で、近くが見にくくなる。白内障（水晶体の混濁）とは別の変化。",
+  "incorrect_points": "「水晶体が濁る＝白内障」「水晶体が硬くなる＝老視」と区別する。",
+  "clinical_note": "老視は凸レンズ（老眼鏡）で矯正する。近視の人は近くが見えやすいため自覚が遅れることがある。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "毛様体筋の萎縮",
+   "水晶体の弾力性の低下"
+  ],
+  "multiple_answers": true,
+  "select_two": false
+ },
+ {
+  "id": "115B01",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 1,
+  "year": 2026,
+  "category": "必修",
+  "kind": "weak",
+  "title": "有訴者の症状（目のかすみ）",
+  "topic": "統計にみる眼症状",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "令和4年（2022年）の国民生活基礎調査で、男性の有訴者の症状で最も多いのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "頻　尿",
+    "judgment": "誤答",
+    "explanation": "頻尿は高齢男性で多いが最多ではない。"
+   },
+   {
+    "number": "2",
+    "text": "腰　痛",
+    "judgment": "正答",
+    "explanation": "男性の有訴者の症状は腰痛が最多。"
+   },
+   {
+    "number": "3",
+    "text": "肩こり",
+    "judgment": "誤答",
+    "explanation": "肩こりは女性で最多、男性では2位。"
+   },
+   {
+    "number": "4",
+    "text": "目のかすみ",
+    "judgment": "誤答",
+    "explanation": "目のかすみは有訴者率の上位症状の一つだが最多ではない。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 7,
+  "question_summary": "2022年国民生活基礎調査の有訴者率は男性で腰痛、女性で肩こりが最多。目のかすみも上位に入る自覚症状。",
+  "explanation": "目のかすみは加齢（白内障・老視）やドライアイで増える訴えで、調査では男女とも上位に入る。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "腰　痛"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B08",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 8,
+  "year": 2026,
+  "category": "必修",
+  "kind": "related",
+  "title": "壮年期の身体的変化（視機能の調節力）",
+  "topic": "水晶体・加齢（老視）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "壮年期の身体的変化はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "残気量の減少",
+    "judgment": "誤答",
+    "explanation": "加齢で残気量は増加する。"
+   },
+   {
+    "number": "2",
+    "text": "柔軟性の向上",
+    "judgment": "誤答",
+    "explanation": "柔軟性は低下する。"
+   },
+   {
+    "number": "3",
+    "text": "基礎代謝の低下",
+    "judgment": "正答",
+    "explanation": "基礎代謝は加齢とともに低下する。"
+   },
+   {
+    "number": "4",
+    "text": "視機能の調節力の向上3",
+    "judgment": "誤答",
+    "explanation": "水晶体の弾力性低下により調節力は低下し、老視が始まる。向上ではない。"
+   }
+  ],
+  "official_answer": [
+   "3"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 8,
+  "question_summary": "壮年期には基礎代謝が低下し、視機能の調節力は低下（老視）する。",
+  "explanation": "40歳代以降の老視は壮年期の代表的な視機能変化。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "基礎代謝の低下"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B13",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 13,
+  "year": 2026,
+  "category": "必修",
+  "kind": "weak",
+  "title": "感覚性言語中枢（視覚野の選択肢）",
+  "topic": "大脳の機能局在と視覚",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "感覚性言語中枢はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "視覚野",
+    "judgment": "誤答",
+    "explanation": "視覚野は後頭葉にあり、視覚情報を処理する。障害で同名半盲や皮質盲が起こる。"
+   },
+   {
+    "number": "2",
+    "text": "体性感覚野",
+    "judgment": "誤答",
+    "explanation": "体性感覚野は頭頂葉。"
+   },
+   {
+    "number": "3",
+    "text": "Broca〈ブローカ〉野",
+    "judgment": "誤答",
+    "explanation": "Broca野は運動性言語中枢で前頭葉。"
+   },
+   {
+    "number": "4",
+    "text": "Wernicke〈ウェルニッケ〉野",
+    "judgment": "正答",
+    "explanation": "Wernicke野は側頭葉の感覚性言語中枢で、障害では流暢だが理解できない失語になる。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 10,
+  "question_summary": "感覚性言語中枢はWernicke野。視覚野は後頭葉にある。",
+  "explanation": "視覚路は網膜→視神経→視交叉→視索→外側膝状体→視放線→後頭葉視覚野。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "Wernicke〈ウェルニッケ〉野"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B46",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 46,
+  "year": 2026,
+  "category": "一般",
+  "kind": "related",
+  "title": "有機リン中毒（縮瞳）",
+  "topic": "中毒と瞳孔",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "A さん（58 歳、男性）は農作業中に有機リン系殺虫剤を散布していたところ、急な嘔気と頭痛、呼吸困難が出現したため救急搬送された。搬入時、呼吸は促迫で流涎があり、縮瞳が認められた。A さんに直ちに投与される薬剤はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "ビタミンK 製剤",
+    "judgment": "誤答",
+    "explanation": "ビタミンK製剤はワルファリン過量や新生児出血症に用いる。"
+   },
+   {
+    "number": "2",
+    "text": "オキシコドン塩酸塩",
+    "judgment": "誤答",
+    "explanation": "オキシコドンは麻薬性鎮痛薬で、呼吸抑制を悪化させる。"
+   },
+   {
+    "number": "3",
+    "text": "バンコマイシン塩酸塩",
+    "judgment": "誤答",
+    "explanation": "バンコマイシンは抗菌薬で中毒治療に無関係。"
+   },
+   {
+    "number": "4",
+    "text": "アトロピン硫酸塩水和物",
+    "judgment": "正答",
+    "explanation": "アトロピンはムスカリン受容体を遮断し、縮瞳・気道分泌・徐脈などを改善する。重症ではプラリドキシム（PAM）も併用する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 19,
+  "question_summary": "有機リン中毒はコリンエステラーゼ阻害によるムスカリン症状（縮瞳・流涎・気道分泌亢進）を示し、アトロピンで拮抗する。",
+  "explanation": "縮瞳は有機リン中毒、麻薬中毒、橋出血の鑑別点。散瞳は抗コリン薬中毒や交感神経刺激薬で起こる。",
+  "incorrect_points": "「縮瞳＝副交感優位」「散瞳＝交感優位」を薬物の作用と結びつける。",
+  "clinical_note": "アトロピン投与後は散瞳・口渇・頻脈が出るが、気道分泌の減少を効果の指標にする。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "アトロピン硫酸塩水和物"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B51",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 51,
+  "year": 2026,
+  "category": "一般",
+  "kind": "direct",
+  "title": "眼底光凝固療法",
+  "topic": "眼底光凝固（網膜症治療）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "成人の眼底光凝固療法において正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "縮瞳させる。",
+    "judgment": "誤答",
+    "explanation": "眼底を広く観察・照射するため散瞳薬で散瞳させる。縮瞳させると眼底が見えない。"
+   },
+   {
+    "number": "2",
+    "text": "静脈麻酔を行う。",
+    "judgment": "誤答",
+    "explanation": "点眼麻酔（表面麻酔）で行う外来治療であり、静脈麻酔は通常不要。"
+   },
+   {
+    "number": "3",
+    "text": "眼球表面を消毒する。",
+    "judgment": "誤答",
+    "explanation": "手術のような眼球表面の消毒は行わない。点眼麻酔後にレンズを装着する。"
+   },
+   {
+    "number": "4",
+    "text": "レーザー用のコンタクトレンズを装着する。",
+    "judgment": "正答",
+    "explanation": "レーザーを網膜に正確に当てるため、角膜に専用のコンタクトレンズを装着して行う。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 20,
+  "question_summary": "眼底光凝固療法は散瞳と点眼麻酔のうえ、レーザー用コンタクトレンズを装着して外来で行う。",
+  "explanation": "糖尿病網膜症や網膜裂孔などに対する治療。治療後は散瞳が数時間続くため、まぶしさや見えにくさがあり自動車運転は避ける。",
+  "incorrect_points": "散瞳薬を使う検査・治療では「暗い部屋」「運転不可」「閉塞隅角緑内障の確認」がセットで問われる。",
+  "clinical_note": "光凝固は進行を抑える治療で、視力を元に戻す治療ではないことを患者に説明する。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "レーザー用のコンタクトレンズを装着する。"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B78",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 78,
+  "year": 2026,
+  "category": "一般",
+  "kind": "weak",
+  "title": "上大静脈症候群（眼瞼下垂の選択肢）",
+  "topic": "全身疾患と眼（上大静脈症候群）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "上大静脈症候群の症状はどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "喀　血",
+    "judgment": "誤答",
+    "explanation": "喀血は上大静脈の閉塞では起こらない。"
+   },
+   {
+    "number": "2",
+    "text": "上腕痛",
+    "judgment": "誤答",
+    "explanation": "上腕痛はPancoast腫瘍などの腕神経叢浸潤で起こる。"
+   },
+   {
+    "number": "3",
+    "text": "眼瞼下垂",
+    "judgment": "誤答",
+    "explanation": "眼瞼下垂は頸部交感神経障害（Horner症候群）や動眼神経麻痺で起こる。"
+   },
+   {
+    "number": "4",
+    "text": "顔面浮腫",
+    "judgment": "正答",
+    "explanation": "上大静脈の閉塞で頭頸部・上肢の静脈還流が障害され、顔面浮腫、眼瞼浮腫、頸静脈怒張が生じる。"
+   },
+   {
+    "number": "5",
+    "text": "胸水貯留25",
+    "judgment": "誤答",
+    "explanation": "胸水貯留は主症状ではない。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 30,
+  "question_summary": "上大静脈症候群では顔面・上肢の浮腫と頸静脈怒張が起こる。眼瞼下垂はHorner症候群の症状。",
+  "explanation": "肺癌の局所症状として、上大静脈症候群（顔面浮腫）、Horner症候群（縮瞳・眼瞼下垂）、反回神経麻痺（嗄声）を区別する。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "顔面浮腫"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B80",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 80,
+  "year": 2026,
+  "category": "一般",
+  "kind": "weak",
+  "title": "急性腎不全の症状（視力低下の選択肢）",
+  "topic": "全身疾患と眼（腎不全）",
+  "case_id": null,
+  "case_text": null,
+  "question_text": "急性腎不全の症状について正しいのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "関節痛",
+    "judgment": "誤答",
+    "explanation": "関節痛は腎不全の症状ではない。"
+   },
+   {
+    "number": "2",
+    "text": "頻呼吸",
+    "judgment": "正答",
+    "explanation": "代謝性アシドーシスを呼吸性に代償するため呼吸数が増える（Kussmaul呼吸）。"
+   },
+   {
+    "number": "3",
+    "text": "食欲増進",
+    "judgment": "誤答",
+    "explanation": "食欲は低下する。"
+   },
+   {
+    "number": "4",
+    "text": "視力低下",
+    "judgment": "誤答",
+    "explanation": "視力低下は糖尿病網膜症や高血圧性網膜症、慢性腎不全に伴う合併症として起こり得るが、急性腎不全の症状としては問われない。"
+   },
+   {
+    "number": "5",
+    "text": "足のムズムズ",
+    "judgment": "誤答",
+    "explanation": "足のムズムズ（レストレスレッグス症候群）は慢性腎不全・透析患者に多い。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 31,
+  "question_summary": "急性腎不全では代謝性アシドーシスの代償で頻呼吸がみられる。視力低下は急性腎不全の症状ではない。",
+  "explanation": "眼底は全身の血管を直接見られる場所で、高血圧・糖尿病・腎疾患の評価に使われる。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "頻呼吸"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B99",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 99,
+  "year": 2026,
+  "category": "状況設定",
+  "kind": "related",
+  "title": "Basedow病（眼球突出）",
+  "topic": "全身疾患と眼（甲状腺）",
+  "case_id": "115B097-099",
+  "case_text": "A さん（21 歳、女性、大学生）は半年ほど前から疲れやすさを自覚していた。その 後、安静時にも息切れと動悸が出現するようになり、1 か月前から所属するテニス サークルを休んでいる。数日前からは手が震えるようになり、学業にも支障が出てき た。頻繁に汗が出ると自覚しており、母親から「首が腫れている」と指摘され受診し た。受診時は、身長160 cm、体重44 kg で半年前から6 kg 減少している。体温 37.5 ℃、呼吸数22/分、脈拍132/分、血圧152/70 mmHg であった。",
+  "question_text": "週後の外来受診でA さんは「Basedow〈バセドウ〉病を知るほど怖くなってきた。眼が出ることもあるって。最近、足がつることが多くてテニスもできていない。就職が決まったけど働くことができるのかしら。将来、結婚したり妊娠したりできるのかも心配」と思いを訴えた。看護師の返答で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "「自宅療養が必要です」",
+    "judgment": "誤答",
+    "explanation": "外来で内服治療を続けながら通学・就労できる。自宅療養は必須ではない。"
+   },
+   {
+    "number": "2",
+    "text": "「眼が出ることはありません」",
+    "judgment": "誤答",
+    "explanation": "Basedow病では眼球突出、眼瞼後退、複視などの甲状腺眼症が一定の割合で起こる。「ない」と断言するのは誤り。"
+   },
+   {
+    "number": "3",
+    "text": "「妊娠、出産は避けてください」",
+    "judgment": "誤答",
+    "explanation": "甲状腺機能をコントロールすれば妊娠・出産は可能。妊娠中も内服薬を調整して治療を続ける。"
+   },
+   {
+    "number": "4",
+    "text": "「症状が落ちつけば運動できます」",
+    "judgment": "正答",
+    "explanation": "頻脈や動悸が落ち着けば運動は可能。足がつる症状は低カリウム性周期性四肢麻痺や筋力低下と関連し、治療で改善が期待できる。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 41,
+  "question_summary": "Basedow病では眼球突出などの眼症状（甲状腺眼症）が起こり得る。治療で甲状腺機能が安定すれば運動も妊娠・出産も可能。",
+  "explanation": "甲状腺眼症は自己免疫による眼窩組織の炎症で、眼球突出・眼瞼腫脹・複視・角膜障害を起こす。喫煙は悪化因子。",
+  "incorrect_points": "眼球突出は甲状腺機能の値と必ずしも並行しない。禁煙指導が重要。",
+  "clinical_note": "重度の眼症では視神経圧迫で視力低下が起こるため眼科と連携する。",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "「症状が落ちつけば運動できます」"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B100",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 100,
+  "year": 2026,
+  "category": "状況設定",
+  "kind": "related",
+  "title": "慢性硬膜下血腫術後（視野障害・半側空間無視）",
+  "topic": "高次脳機能と視野",
+  "case_id": "115B100-102",
+  "case_text": "A さん（68 歳、女性、事務員）は夫（74 歳、事務所長）と息子（39 歳、会社員）と3 人 で暮らしている。 現病歴： 2 か月前に自宅の廊下で転倒し、壁に右前額部をぶつけたが、そのまま様子 をみていた。3 週前から軽い頭痛があり、左上下肢の脱力感と言葉が出にく いなどの症状が出現した。かかりつけの病院を受診し、 慢性硬膜下血腫と診 断され、入院して穿頭ドレナージ術を受けた。 既往歴： 48 歳から 左変形性膝関節症で鎮痛薬を内服し、医師から体重コントロー ルを指導されていた。 58 歳から 高血圧症と 脂質異常症のため内服治療中であった。 生活歴： 入院前の日常生活動作〈ADL〉は自立しており、左膝関節痛のため室内は壁 や家具に手をついて移動し、外出時はT 字杖を使用していた。家事をしな がら夫の事務所を手伝っていた。 身体所見： 身長154 cm、体重72 kg。",
+  "question_text": "手術後5 日、A さんは左上肢に軽度の麻痺はあるが、病棟内を歩行器でゆっくりと歩けるようになった。A さんは、歩き始めると徐々に右側に寄っていく。また、左側の壁に歩行器をぶつけそうになったり、A さんの左側に看護師がいても気が付かず、そのまま通り過ぎようとしたりする。このときのA さんの状況で考えられるのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "左変形性膝関節症の悪化",
+    "judgment": "誤答",
+    "explanation": "左膝関節症の悪化では左側への注意が向かない現象は説明できない。"
+   },
+   {
+    "number": "2",
+    "text": "半側空間無視",
+    "judgment": "正答",
+    "explanation": "右大脳半球（頭頂葉）の障害で左側の空間に注意が向かず、本人は気付かない。歩くと右に寄り、左側の人に気付かないのが典型。"
+   },
+   {
+    "number": "3",
+    "text": "聴覚障害",
+    "judgment": "誤答",
+    "explanation": "聴覚障害では左側の看護師を見えていれば気付く。"
+   },
+   {
+    "number": "4",
+    "text": "視野障害37",
+    "judgment": "誤答",
+    "explanation": "左同名半盲でも左側が見えないが、患者は欠損に気付き顔を左に向けて補おうとする。気付かず通り過ぎるのは無視の特徴。"
+   }
+  ],
+  "official_answer": [
+   "2"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 42,
+  "question_summary": "右前額部打撲後の慢性硬膜下血腫（右側）術後に、左側の壁や人に気付かないのは左半側空間無視を疑う。",
+  "explanation": "視野障害（半盲）と半側空間無視の違いは「欠損を自覚して代償しようとするか」。看護では左側からの声かけと左側への注意を促す訓練を行う。",
+  "incorrect_points": "視野検査は対座法、無視は線分二等分試験や模写で評価する。",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "半側空間無視"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ },
+ {
+  "id": "115B111",
+  "exam_type": "看護師国家試験",
+  "exam_id": "115",
+  "round": 115,
+  "session": "B",
+  "number": 111,
+  "year": 2026,
+  "category": "状況設定",
+  "kind": "weak",
+  "title": "光線療法（アイマスク）",
+  "topic": "光線療法と眼の保護",
+  "case_id": "115B109-111",
+  "case_text": "A さん（37 歳、初産婦）は妊娠40 週5 日で妊娠経過は順調である。午前6 時から 15 分おきの子宮収縮が始まり、午前9 時から5 ～7 分周期の陣痛がある。午前10 時 に入院し、入院時のバイタルサインは、体温36.9 ℃、脈拍80/分、血圧134/86 mmHg。子宮口3 cm 開大、未破水であった。",
+  "question_text": "A さんの児は日齢4 。児のバイタルサインに異常はない。経皮ビリルビン検査で生理的範囲を超え、医師の診察の結果、高ビリルビン血症と診断された。保育器に収容してスタンド型光線療法器で治療を開始することになった。A さんへの説明で適切なのはどれか。",
+  "choices": [
+   {
+    "number": "1",
+    "text": "「母乳を中止します」",
+    "judgment": "誤答",
+    "explanation": "母乳は中止しない。"
+   },
+   {
+    "number": "2",
+    "text": "「母児同室は継続できます」",
+    "judgment": "誤答",
+    "explanation": "保育器で光線療法を行うため同室は中断されるが、授乳時は中断できる。"
+   },
+   {
+    "number": "3",
+    "text": "「薄い衣服を着て治療します」",
+    "judgment": "誤答",
+    "explanation": "皮膚の露出面積を広くするため衣服は脱がせる。"
+   },
+   {
+    "number": "4",
+    "text": "「アイマスクをして治療します」",
+    "judgment": "正答",
+    "explanation": "強い光から網膜を守るためアイマスク（眼帯）で眼を覆う。授乳などで中断するときは外して眼の状態を確認する。"
+   }
+  ],
+  "official_answer": [
+   "4"
+  ],
+  "answer_note": "",
+  "has_image": false,
+  "image_ref": "",
+  "pdf_page": 49,
+  "question_summary": "新生児の光線療法では網膜を保護するためアイマスクを装着する。",
+  "explanation": "光線療法中はアイマスクのずれによる光曝露や、締め付けによる眼周囲の圧迫がないか観察する。",
+  "incorrect_points": "",
+  "clinical_note": "",
+  "references": [],
+  "verification": "official_pdf",
+  "original_verified": true,
+  "official_answer_text": [
+   "「アイマスクをして治療します」"
+  ],
+  "multiple_answers": false,
+  "select_two": false
+ }
+]
