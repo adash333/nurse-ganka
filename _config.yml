@@ -1,7 +1,9 @@
-# GitHub Pages（Deploy from a branch, root）用の最小設定。
+# GitHub Pages（Deploy from a branch, root）用の設定。
 title: 看護師・准看護師試験 眼科過去問と解説
-description: 眼科に関する過去問を、問題文・選択肢別解説・公式正答・出典の順に整理した学習用教材
+description: 看護師国家試験・准看護師試験の眼科に関連する過去問を、問題文・選択肢別解説・公式正答・出典の順に整理した学習用教材。緑内障、白内障、網膜剝離、散瞳薬と眼底検査、点眼、対光反射などの頻出主題を参考書にまとめています。
 lang: ja
+url: https://adash333.github.io
+baseurl: /nurse-ganka
 theme: jekyll-theme-primer
 plugins:
   - jekyll-optional-front-matter
@@ -9,6 +11,10 @@ plugins:
   - jekyll-relative-links
   - jekyll-default-layout
   - jekyll-titles-from-headings
+  - jekyll-seo-tag
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: false
+# Google Search Console の所有権確認用。確認コードが決まったら値を入れる（<meta name="google-site-verification" content="..."> の content 部分）。
+# google_site_verification: ""
