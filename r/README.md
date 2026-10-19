@@ -26,7 +26,7 @@
 
 |回次|ファイル|収録問題数|
 |---|---|---:|
-|第115回（2026年）|[kokushi-ganka-115.pdf（約900KB）](download/kokushi-ganka-115.pdf)|15|
+|第115回（2026年）|[kokushi-ganka-115.pdf（約908KB）](download/kokushi-ganka-115.pdf)|15|
 
 他の回次のPDFは順次追加します。生成方法：`python3 scripts/build_r_pdf.py 回次`。
 
